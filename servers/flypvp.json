@@ -1,0 +1,20 @@
+{
+  "name": "FlyPVP",
+  "ip": "flypvp.pl",
+  "port": 19132,
+  "description": "No description provided.",
+  "lang": "pl",
+  "country": "Poland",
+  "version": "26.60",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134707/"
+}

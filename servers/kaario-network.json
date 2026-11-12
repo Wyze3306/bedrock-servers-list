@@ -1,0 +1,25 @@
+{
+  "name": "Kaario Network",
+  "ip": "oyna.kaario.net",
+  "port": 19132,
+  "description": "Sunucumuzda Bulabileceğiniz Oyun Modları:\n\n• Survival\n\n• BoxPvP\n\n• Creative\n\n• Bedwars\n\n• Pratik & FFA\n\n• Daireden Son Çıkan\n\n• Pillars Of Fortune\n\n• Lav Yükseliyor\n\nSunucumuz, oyuncuların keyifli bir deneyim yaşamasını sağlamak için birçok özellik sunmaktadır:\n\n• Arkadaş Sistemi: /ark komutunu kullanarak kolayca arkadaş ekleyebilir, diğer oyuncularla daha yakın bir bağ kurabilirsiniz.\n\n• Lonca Sistemi: /lonca komutuyla kendi loncanızı oluşturabilir, arkadaşlarınızı loncanıza katabilirsiniz.\n\n• Coin Sistemi: Kazandığınız coinler ile üyelikler, kozmetikler v.b diğer oyun içi avantajları satın alabilirsiniz.\n\n• Görev Sistemi: Belirli oyunlardaki görevleri tamamlayarak coinler kazanabilirsiniz.\n\n• Günlük, Haftalık ve Aylık Ödüller: Her gün, hafta ve ay sonunda oyuncularımız ödüllerini alabilir. Düzenli olarak sunucumuza katılarak bu ödülleri alabilir ve oyun deneyiminizi daha da eğlenceli hale getirebilirsiniz!\n\n•Eğlence Kozmetikleri: Sunucumuzda eğlence kozmetikleri (partiküller, efektler, vb.) ücretsizdir. Oyun deneyiminizi daha eğlenceli hale getirmek için dilediğiniz kozmetiklerle özelleştirebilirsiniz.",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "26.51",
+  "website": "https://www.kaario.net",
+  "tags": [
+    "BedWars",
+    "Creative",
+    "Minigames",
+    "Practice",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131549/"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "San PE",
+  "ip": "san-pe.fun",
+  "port": 19132,
+  "description": "No description provided.",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "26.60",
+  "website": "http://pay.san-pe.fun",
+  "tags": [
+    "Adventure",
+    "Capture The Flag",
+    "Cross-Play",
+    "Knockback FFA",
+    "MLG Rush",
+    "Prison",
+    "PvP",
+    "Skywars",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131854/"
+}

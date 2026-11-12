@@ -1,0 +1,22 @@
+{
+  "name": "Craftriva",
+  "ip": "oyna.tekelcraft.net",
+  "port": 19132,
+  "description": "TekelCraft, kaliteli ve eğlenceli bir SkyBlock deneyimi sunmayı amaçlayan topluluk odaklı bir Minecraft sunucusudur. Özgün sistemleri, aktif yönetim ekibi ve sürekli güncellenen içerikleriyle oyuncularına unutulmaz bir macera sunar.",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "26.45",
+  "website": "http://www.tekelcraft.net",
+  "tags": [
+    "Skyblock",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133788/"
+}

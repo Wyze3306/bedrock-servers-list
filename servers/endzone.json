@@ -1,0 +1,26 @@
+{
+  "name": "Endzone",
+  "ip": "aurorapvp.club",
+  "port": 19132,
+  "description": "Aurora PvP is a Bedrock and Java Crossplay PvP Server",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/106502/banner-106502.jpg",
+  "country": "United States of America",
+  "version": "26.52",
+  "tags": [
+    "Cross-Play",
+    "Minigames",
+    "PvE",
+    "PvP",
+    "Raiding",
+    "Roleplay",
+    "Survival",
+    "Vanilla",
+    "Adventure",
+    "Economy",
+    "Factions",
+    "SMP",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/106502/"
+}

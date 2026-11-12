@@ -1,0 +1,28 @@
+{
+  "name": "Legax",
+  "ip": "legax.net",
+  "port": 19132,
+  "description": "Seja bem-vindo(a) à LEGAX Network, a rede brasileira de servidores de Minecraft Bedrock!\n\n🇧🇷 PING BR: Nossos servidores ficam localizados no Brasil, deixando a experiência muito mais favorável para jogadores brasileiros.\n\n🎮 MINIGAMES PRINCIPAIS: BedWars, SkyWars, MLG Block, Arenas PVP, Duelos, Build Battle, e Spleef.\n\nVenha jogar!\n\nNosso site",
+  "lang": "pt-BR",
+  "image": "https://minecraftpocket-servers.com/server/129483/banner-129483-1733530737.png",
+  "country": "Brazil",
+  "version": "26.60",
+  "website": "http://site.legax.net",
+  "tags": [
+    "BedWars",
+    "Knockback FFA",
+    "Minigames",
+    "PvE",
+    "PvP",
+    "Skywars",
+    "Spleef",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/129483/"
+}

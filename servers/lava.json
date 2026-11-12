@@ -1,0 +1,21 @@
+{
+  "name": "Lava",
+  "ip": "play.lvbe.ir",
+  "port": 19132,
+  "description": "به دنیای Lava Land خوش آمدید!\n\nLava Land یک سرور ماینکرفت بدراک با هدف ایجاد یک تجربه جذاب و متفاوت برای بازیکنان است. در این سرور می‌توانید ماجراجویی کنید، بسازید، با بازیکنان دیگر تعامل داشته باشید، سرور را تجربه کنید و در یک جامعه دوستانه به بازی بپردازید.\n\nما همیشه در حال توسعه و اضافه کردن امکانات جدید هستیم تا محیطی روان، سرگرم‌کننده و مناسب برای بازیکنان ماینکرفت ایجاد کنیم.\n\nنسخه پشتیبانی‌شده: Minecraft Bedrock\n\nIP: play.lvbe.ir\n\nPort: 19132",
+  "lang": "ar",
+  "country": "Iran",
+  "version": "26.60",
+  "website": "http://Lvbe.ir",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133936/"
+}

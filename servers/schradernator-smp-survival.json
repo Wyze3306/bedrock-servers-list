@@ -1,0 +1,27 @@
+{
+  "name": "Schradernator SMP Survival",
+  "ip": "play.schradernator.com",
+  "port": 19132,
+  "description": "Schradernator SMP is a free Minecraft Bedrock server that opened in October 2026.\n\nHOW TO JOIN\n\nAddress: play.schradernator.com\n\nPort: 19132\n\nWindows, Android, iPhone, iPad: Play > Servers > Add Server.\n\nXbox, PlayStation, Switch: consoles can't add servers by address, so the server has its own Xbox account. Play > Friends > Add Friend > search DeveloperType. The server accepts and sends you an invite (this can take a minute); then join \"Schradernator SMP\" from Joinable Friends.\n\nTHE WORLDS\n\nHub: everyone lands here. Four gates, three timed parkour courses, leaderboards and the rules.\n\nSurvival: /claim the chunk you stand on and nobody else can build, break or open chests there. Coins from mining, mobs, playtime and daily rewards. /shop, /pay, /sethome, /warp, /tpa, /rtp, /back. A starter kit, daily kits and a login streak. Every block placed or broken is logged, so griefed builds can be put back. PvP is on in the wild and off inside claims and at spawn.\n\nSkyblock: start on a small island in the sky and grow it, alone or with friends. Islands are ranked.\n\nCreative: claim a 32x32 plot with /plot and build anything. Trust friends to build with you.\n\nMinigames: Bed Wars, SkyWars, Hunger Games, Murder Mystery, Build Battle, Block Party, TNT Tag, Spleef. Wins pay coins.\n\nSTORE\n\nCosmetics only: titles, hub flight, pets, auras, hats, costumes. Nothing that helps you win.\n\nRULES AND HELP\n\nBe kind, no cheating, no griefing or stealing, no spam. Use /report in game. A person answers at mc.schradernator.com/support, on Discord in #support, and on the Schradernator SMP Facebook Page.\n\nVote here, then type /vote in game: 100 coins per vote.\n\nNot an official Minecraft product. Not approved by or associated with Mojang or Microsoft. Pictures are rendered from the server's own builds.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://mc.schradernator.com/?src=smp-list-mcps",
+  "discord": "https://discord.gg/2cRhdG9G9Q",
+  "tags": [
+    "BedWars",
+    "Creative",
+    "Minigames",
+    "Skyblock",
+    "Skywars",
+    "SMP",
+    "Survival",
+    "PvP",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134565/"
+}

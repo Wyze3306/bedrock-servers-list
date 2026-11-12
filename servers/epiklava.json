@@ -1,0 +1,23 @@
+{
+  "name": "EpikLava",
+  "ip": "mcpe.epiklava.com",
+  "port": 19132,
+  "description": "No description provided.",
+  "lang": "tr",
+  "image": "https://minecraftpocket-servers.com/server/119822/banner-119822.gif",
+  "country": "Turkey",
+  "version": "26.63",
+  "website": "https://www.epiklava.com",
+  "tags": [
+    "PvP",
+    "Skyblock",
+    "SMP",
+    "Survival",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/119822/"
+}

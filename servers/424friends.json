@@ -1,0 +1,24 @@
+{
+  "name": "424friends",
+  "ip": "play.424friends.net",
+  "port": 19132,
+  "description": "The official 424Friends cross-platform (java / bedrock) SMP Minecraft server! 424Friends is a UK and Western Europe Gaming Community found on Discord. You can also join our Discord server below for more information and to play many other games with us. Discord Invite Link: https://discord.gg/kNhbpvS",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/109861/banner-109861.png",
+  "country": "United Kingdom",
+  "version": "26.60",
+  "website": "https://424friends.net/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "PvE",
+    "PvP",
+    "Skyblock",
+    "SMP",
+    "Survival",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/109861/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ImpendMC",
+  "ip": "play.impendmc.net",
+  "port": 19132,
+  "description": "We’re a Minecraft network where you can meet new people in the PvP community and just have fun. We’ve got Random Kit, Practice, and Lifesteal with a /dupe command. Each game mode offers something different. Join us to fight, get better, and make new friends in a chill, friendly environment!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://store.impendmc.net",
+  "tags": [
+    "Anarchy",
+    "LifeSteal",
+    "Practice",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133080/"
+}

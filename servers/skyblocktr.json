@@ -1,0 +1,27 @@
+{
+  "name": "Skyblocktr",
+  "ip": "play.skyblocktr.com",
+  "port": 19132,
+  "description": "SkyblockTR, Skyblock'a yeni başlayanların da rahatça ilerleyebildiği Türkçe bir sunucudur. Kurallar, menüler ve tüm sohbet Türkçedir; Java ve Bedrock oyuncuları birlikte oynar.\n\nAdres ve sürüm\n\n▸ Java: play.skyblocktr.com\n\n▸ Bedrock: play.skyblocktr.com, port 19132\n\n▸ Java 1.15.2 - 26.3\n\n▸ Ücretsiz giriş\n\nİlk saatin\n\n1. Başlangıç adanı seç; 50 × 50 alanla başlarsın.\n\n2. Taş, odun ve tarımla ilk paranı kazan, ilk madenine gir.\n\n3. Madende düşen anahtarlarla (16 ile 64 arası) bir sonraki madeni aç; toplam 28 maden var.\n\n4. İlk minyonunu al: Madenci, Oduncu, Çiftçi, Balıkçı ya da Satıcı.\n\n5. Rütbe atla: SkyLing ile başlar, 28 rütbe sonra SkyGod olursun.\n\nSonra ne var?\n\n▸ Adanı 200 × 200'e büyüt, arkadaşlarını davet et (32 kişiye kadar).\n\n▸ SkyTrader rütbesinde /rtp ile ortak Nether'e açılırsın.\n\n▸ 10 katlı dungeon, günlük KOTH etkinlikleri, 20 kasa ve 664 özel büyü.\n\nSık sorulan sorular\n\nSkyblockTR IP adresi nedir?\n\nplay.skyblocktr.com, Bedrock için port 19132.\n\nAda seviyesi nasıl artar?\n\nDeğerli bloklar ve spawner'lar puan verir: taş 0,1, demir bloğu 0,5, elmas bloğu 1,5, netherit bloğu 3, spawner başına 5.\n\nNether'e nasıl giderim?\n\nSkyTrader rütbesine ulaşınca /rtp yaz.\n\n— English —\n\nSkyblockTR is a beginner-friendly Turkish Skyblock server for Java and Bedrock. Pick a starter island (50 x 50), earn your first coins, enter the first mine and use the keys that drop there (16 to 64) to unlock the next one, 28 mines in total. Buy your first minion (Miner, Lumberjack, Farmer, Fisher or Seller) and climb 28 ranks from SkyLing to SkyGod. Later you can grow the island to 200 x 200, team up with up to 32 friends, reach the shared Nether at SkyTrader, and take on the 10-level dungeon and daily KOTH. Java: play.skyblocktr.com (1.15.2 - 26.3). Bedrock: play.skyblocktr.com, port 19132.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134713/banner-134713-1794431706.png",
+  "country": "Turkey",
+  "version": "26.63",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "PvE",
+    "Skyblock",
+    "Survival",
+    "BoxPvP",
+    "Practice",
+    "SMP",
+    "Towny",
+    "Minigames",
+    "PvP",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134713/"
+}

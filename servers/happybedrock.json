@@ -1,0 +1,28 @@
+{
+  "name": "HappyBedrock",
+  "ip": "play.happybedrock.org",
+  "port": 19132,
+  "description": "HappyBedrock - a Bedrock minigame network\n\nJoin on play.happybedrock.org (port 19132) from any Bedrock device, Minecraft 1.20 to 26.60.\n\nGames\n\n- Bed Wars, SkyWars, The Bridge, Duels, Murder Mystery, Survival Games, Annihilation, Conquests, Meltdown, Momma Says, Soccer and Pillars of Fortune\n\n- Wizard Wars: our own magic battle royale with 30 spells, wands, summons and Team Deathmatch\n\n- TNT Wars\n\n- SkyBlock (Agora and Skyland) and Factions (Badlands and Farlands)\n\nWhy play here\n\n- Network levels, cosmetics, pets and ranked play with seasons\n\n- Vote every day for the Voter rank, credits and crate keys\n\n- Store ranks are cosmetic and quality-of-life perks only\n\nWebsite: happybedrock.org - Store: store.happybedrock.org - Discord: discord.gg/DK97KnFvtk",
+  "lang": "en",
+  "country": "India",
+  "version": "26.60",
+  "website": "https://happybedrock.org",
+  "discord": "https://discord.gg/DK97KnFvtk",
+  "tags": [
+    "BedWars",
+    "Cross-Play",
+    "Factions",
+    "Minigames",
+    "Murder Mystery",
+    "PvP",
+    "Skyblock",
+    "Skywars",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134701/"
+}

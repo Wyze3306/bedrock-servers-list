@@ -1,0 +1,24 @@
+{
+  "name": "LivaMC Network",
+  "ip": "bedrock.livamc.com",
+  "port": 19132,
+  "description": "LivaMC — Türk Minecraft Sunucusu: SMP, SkyBlock, Towny ve BoxPvP\n\n📱 Bedrock IP: bedrock.livamc.com (port 19132) | 🌐 Java IP: play.livamc.com | Sürüm: 26.2 | Oynamak ücretsiz\n\nLivaMC, tek IP adresinde dört oyun modu bulunan Türk Minecraft sunucusudur: Survival SMP, SkyBlock, Towny ve BoxPvP. Java ve Bedrock (telefon, tablet, konsol) oyuncuları aynı sunucuda birlikte oynar. Oynamak tamamen ücretsizdir. Sunucuya girince lobiden istediğin modu seçersin.\n\n🌲 LivaMC SMP — Oyuncu ekonomili Survival\n\nArazi koruması (claim) yok, ekonomi tamamen oyuncular arasında döner.\n\n💰 Ticaretten kesilen vergi her gece aktif oyunculara seviyeye göre maaş olarak dağıtılır.\n\n🛒 Oyuncu marketi (/ah), sipariş sistemi (/order), kiralık pazar dükkanları ve güvenli takas.\n\n💎 Kristal: AFK alanında kazanılan ikinci para birimi.\n\n📈 Seviye sistemi, günlük satış görevleri, jackpot, kelle avcılığı ve İnsan Avı etkinliği.\n\n🏆 Aylık sezon sıralaması, ilk 3'e ödül. Dünya ve seviyeler sıfırlanmaz.\n\n🏝️ LivaMC SkyBlock — Türk SkyBlock sunucusu\n\nGökyüzünde küçük bir adayla başla, adanı büyüt (/is).\n\n⛏️ 15 maden sırayla açılır, kazmaya 14 özel büyü (Patlatma, Lazer, Çifte Drop ve fazlası).\n\n🌾 Adanın Çiftçisi ekinleri kendisi toplar ve satar; minyonlar madencilik ve satış yapar.\n\n👷 İşçi sistemi: adana en fazla 5 işçi al, /işçi ilan ile iş ilanı ver.\n\n👑 13 rütbe (Nebula'dan Kıyamet'e), 187 görev, Battle Pass ve günlük görevler.\n\n⚔️ Ada Savaşı: başka adayla bahisli yarış. Her gece 00:00-06:00 Gece Pazarı açılır.\n\n🏰 LivaMC Towny — Gerçek Dünya haritasında kasaba ve ulus\n\n1:2000 ölçekli gerçek Dünya haritası; Türkiye ve İstanbul gerçek yerinde. Canlı harita: harita.livamc.com\n\n🏘️ Kasaba kurmak 150 TL, toprak 25 TL. 6 kıtadan birini seç, /ilan panosundan kasabaya katıl.\n\n⚔️ SiegeWar kuşatmaları: PvP sadece kuşatmada, ölünce eşya düşmez.\n\n🗿 11 Dünya Harikası (Ayasofya, Piramitler, Eyfel, Çin Seddi...): elinde tutan ulus kalıcı bonus alır.\n\n🏛️ Dünya Konseyi: en güçlü 5 ulus her hafta oylamayla dünya yas",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "26.60",
+  "website": "https://livamc.com/",
+  "tags": [
+    "BoxPvP",
+    "Cross-Play",
+    "Economy",
+    "PvP",
+    "Skyblock",
+    "SMP",
+    "Survival",
+    "Towny",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134146/"
+}

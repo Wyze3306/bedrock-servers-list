@@ -1,0 +1,24 @@
+{
+  "name": "CrabSMP",
+  "ip": "play.crabsmp.net",
+  "port": 19132,
+  "description": "CrabSMP is a Minecraft Bedrock server built for players who want proper combat, real events and none of the usual server nonsense getting in the way. It runs Lifesteal and Java style PvP, giving you a combat system with more depth than the average Bedrock realm, alongside regular events and KOTH sessions where you can grind out coins in game. The server is optimised to stay lag free for players across different regions, and everything is wrapped in a clean, custom GUI that makes navigating the server simple. Security is taken seriously too, with CrabGuard AC constantly monitoring for cheats and dupes so the playing field stays fair. CrabSMP also links up with Discord, letting you earn rewards just for being part of the community there. There's no pay to win here either, everyone gets treated the same regardless of what they've spent, and the server welcomes players from all communities and backgrounds equally. Realm code, server IP and Discord link are below for anyone ready to jump in.",
+  "lang": "en",
+  "country": "United Kingdom",
+  "version": "26.60",
+  "website": "https://crabsmp.net/",
+  "tags": [
+    "Factions",
+    "LifeSteal",
+    "PvE",
+    "SMP",
+    "Survival",
+    "PvP",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133960/"
+}

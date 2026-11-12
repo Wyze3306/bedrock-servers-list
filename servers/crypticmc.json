@@ -1,0 +1,22 @@
+{
+  "name": "CrypticMC",
+  "ip": "bedrock.crypticmc.org",
+  "port": 19132,
+  "description": "CrypticMC is a long-term Minecraft survival server with a world that never resets. No land claims, no rollbacks, and griefing is allowed.\n\nOnly commands: /homes and /tpa\n\nSupports Java 1.21+ and Bedrock Edition\n\nProximity Voice Chat\n\nJava: crypticmc.org\n\nBedrock: bedrock.crypticmc.org (Port: 19132)",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/132606/banner-132606-1768873585.png",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://crypticmc.org",
+  "tags": [
+    "Cross-Play",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Vote Reward",
+    "Economy",
+    "Adventure"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/132606/"
+}

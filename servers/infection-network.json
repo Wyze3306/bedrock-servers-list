@@ -1,0 +1,26 @@
+{
+  "name": "Infection Network",
+  "ip": "infection.fun",
+  "port": 19132,
+  "description": "Infection Network es un servidor donde siempre escuchamos a la comunidad y hacemos lo mejor para mejorar día a día, contamos con muchas modalidades principalmente dedicadas al PvP y Survival. Sumérgete en un mundo de supervivencia desafiante donde deberás recolectar recursos, construir refugios y enfrentarte a peligrosos enemigos para sobrevivir. ¡Demuestra tus habilidades de supervivencia y establece tu hogar en este mundo implacable!",
+  "lang": "es",
+  "country": "Peru",
+  "version": "26.63",
+  "website": "https://tienda.infection.fun/",
+  "tags": [
+    "Cross-Play",
+    "Earth",
+    "LifeSteal",
+    "Minigames",
+    "Practice",
+    "Prison",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Economy",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131427/"
+}

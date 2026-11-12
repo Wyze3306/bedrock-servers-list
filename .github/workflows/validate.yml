@@ -1,4 +1,4 @@
-name: Valider les serveurs
+name: Validate servers
 
 on:
   pull_request:

@@ -1,0 +1,23 @@
+{
+  "name": "Boxrealm",
+  "ip": "play.boxrealm.net",
+  "port": 19132,
+  "description": "BoxRealm is the #1 BoxSMP Server welcoming all players on both Java and Bedrock. Join the rest of our incredible community at\n\nplay.boxrealm.net (Port: 19132)",
+  "lang": "en",
+  "country": "Netherlands",
+  "version": "26.60",
+  "website": "https://store.boxrealm.net/",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "PvE",
+    "PvP",
+    "Roleplay",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/130911/"
+}

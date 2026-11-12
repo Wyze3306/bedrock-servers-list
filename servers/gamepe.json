@@ -1,0 +1,21 @@
+{
+  "name": "GamePE",
+  "ip": "gamepe.ru",
+  "port": 19132,
+  "description": "Server MCPE Survival worldwide free without a regular account can join 1.16+ to 1.21.2+",
+  "lang": "ru",
+  "country": "Russia",
+  "version": "26.60",
+  "tags": [
+    "Creative",
+    "PvP",
+    "Survival",
+    "Vanilla",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/128260/"
+}

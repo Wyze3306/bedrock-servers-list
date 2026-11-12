@@ -1,0 +1,22 @@
+{
+  "name": "Firevanilla",
+  "ip": "firevanilla.net",
+  "port": 19132,
+  "description": "Box pvp",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "tags": [
+    "Economy",
+    "Factions",
+    "PvE",
+    "PvP",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/120552/"
+}

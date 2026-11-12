@@ -1,0 +1,22 @@
+{
+  "name": "ZedMC",
+  "ip": "play.zdmc.ir",
+  "port": 19132,
+  "description": "ZedMC is an Iranian Minecraft server featuring Java & Bedrock cross-play, SMP survival, and a free-to-play experience. Play Minecraft with players from Iran and around the world, explore, build, survive, and have fun together. Join us at zdmc.ir!",
+  "lang": "en",
+  "country": "Iran",
+  "version": "26.62",
+  "website": "https://zdmc.ir",
+  "tags": [
+    "Cross-Play",
+    "Parkour",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Economy",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134224/"
+}

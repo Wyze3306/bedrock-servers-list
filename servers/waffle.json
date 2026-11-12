@@ -1,0 +1,22 @@
+{
+  "name": "Waffle",
+  "ip": "wafflesonne.com",
+  "port": 19132,
+  "description": "waffle&sonne minecraft\n\nSunucu Türü: Survival\n\nIP: wafflesonne.com\n\nSunucu Sürümü: 1.19.2 Java (1.9+ java ve son surum bedrock girebilir; tlauncher/crack/korsan girebilir)\n\nHakkınızda:kucuk survival sunucusu. arsalara bolunmus duzenli spawni, dukkanlari, ve elmasa endeksli para birimi ile serbest ekonomi deneyimini canlandirir. her haftasonu herkesin tek oldugu kendi itemleriyla girdigi turnuva var\n\nSunucudaki Bazı Sistemler: claim, ekonomi, dukkan, kumarhane, turnuva, arena, pvp (arena disinda pvpde item duser), evlenmek, duzenli spawn, gayrimenkul alip satma, hile koruma, kutu acma, cesitli ender dragonlar ve lootlari, keepinventory, hard difficulty, mcMMO (skill), trade, clan, revive, 32 gorus mesafesi, premium registersiz girebilir",
+  "lang": "tr",
+  "image": "https://minecraftpocket-servers.com/server/113058/banner-113058-1634576260.gif",
+  "country": "Turkey",
+  "version": "26.52",
+  "website": "http://wafflesonne.com/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/113058/"
+}

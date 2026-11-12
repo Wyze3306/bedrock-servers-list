@@ -1,0 +1,23 @@
+{
+  "name": "Mine-Forge",
+  "ip": "minecraft.mine-forge.net",
+  "port": 19132,
+  "description": "A series of Servers, offering Survival Multiplayer worlds. Cooperative, SMP. Active Community, and lots of support",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/99277/banner-99277-1663477846.jpg",
+  "country": "Canada",
+  "version": "26.40",
+  "website": "http://www.mine-forge.net",
+  "tags": [
+    "Economy",
+    "PvE",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Vote Reward",
+    "Cross-Play",
+    "Adventure"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/99277/"
+}

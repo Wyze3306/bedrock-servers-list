@@ -1,0 +1,24 @@
+{
+  "name": "pAttack On Titan",
+  "ip": "play.attackmc.ir",
+  "port": 19132,
+  "description": "Minecraft server with Skymine Attack on Titan and Survival game modes",
+  "lang": "en",
+  "country": "Iran",
+  "version": "1.21.100",
+  "website": "http://AttackMC.ir",
+  "tags": [
+    "Adventure",
+    "Battle Royale",
+    "Economy",
+    "Murder Mystery",
+    "Skyblock",
+    "Survival",
+    "PvP",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134250/"
+}

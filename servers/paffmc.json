@@ -1,0 +1,23 @@
+{
+  "name": "PaffMC",
+  "ip": "play.paffmc.net",
+  "port": 19132,
+  "description": "French Bedrock PvP server: ranked duels with Elo, FFA, KOTH, loot zones and world bosses. Free, no pay-to-win. Join: play.paffmc.net port 19132.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134541/banner-134541-1792415824.png",
+  "country": "France",
+  "version": "26.60",
+  "website": "https://paffmc.net",
+  "tags": [
+    "Minigames",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134541/"
+}

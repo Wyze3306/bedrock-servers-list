@@ -1,0 +1,25 @@
+{
+  "name": "PortalWix",
+  "ip": "portalwix.com",
+  "port": 19132,
+  "description": "No description provided.",
+  "lang": "en",
+  "country": "Europe",
+  "version": "0.15.10 alpha",
+  "website": "https://portalwix.com/",
+  "tags": [
+    "Economy",
+    "Minigames",
+    "Prison",
+    "PvP",
+    "Roleplay",
+    "Skywars",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133625/"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "qHash",
+  "ip": "oyna.hashcube.net",
+  "port": 19132,
+  "description": "2016'dan bu yana Minecraft: Bedrock Edition sürümünde Türkiye'nin en büyük sunucusu olan HashCube, günümüzde SkyBlock ve SMP oyun modlarıyla geniş bir kitleye hizmet vermeye devam etmektedir.\n\nKaliteli oyun mekanikleri, deneyimli yönetim ekibi ve eğlenceli oyuncularıyla HashCube sizlere en güzel Minecraft deneyimini yaşatmak için burada!\n\nİnternet sitemiz: www.hashcube.net\n\nIP adresimiz: oyna.hashcube.net",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "26.60",
+  "website": "https://hashcube.net",
+  "tags": [
+    "Economy",
+    "PvE",
+    "PvP",
+    "Skyblock",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131572/"
+}

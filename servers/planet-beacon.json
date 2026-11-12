@@ -1,0 +1,26 @@
+{
+  "name": "Planet Beacon",
+  "ip": "planetbeacon.ddns.net",
+  "port": 19132,
+  "description": "This is a new and improved [26.3] Planet Beacon server as a new legacy! This server has SKYBLOCK, CREATIVE PLOTS, SURVIVAL SMP, and EARTH TOWNY with our community of the best players! In addition, this server includes Bedrock compatible to players with Minecraft Bedrock Edition and Pocket Edition!",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/131742/banner-131742-1790723960.png",
+  "country": "United States of America",
+  "version": "26.63",
+  "website": "https://planetbeacon.minesite.org/",
+  "tags": [
+    "Adventure",
+    "Creative",
+    "Cross-Play",
+    "Earth",
+    "Skyblock",
+    "Survival",
+    "Towny",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131742/"
+}

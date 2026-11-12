@@ -1,11 +1,12 @@
-## Type de changement
+## Type of change
 
-- [ ] Ajout d'un serveur
-- [ ] Modification d'un serveur
-- [ ] Suppression d'un serveur
+- [ ] Add a server
+- [ ] Edit a server
+- [ ] Remove a server
 
 ## Checklist
 
-- [ ] Le serveur est un serveur Bedrock et il est en ligne
-- [ ] `python3 scripts/validate.py` passe
-- [ ] Je n'ai pas modifié `servers.json`, `servers.csv` ni le README
+- [ ] The server is a Bedrock server, online, on port 19132
+- [ ] `ip` is a domain name (no numeric IP) and `name` is clean (no version, link or symbols)
+- [ ] `python3 scripts/validate.py` passes
+- [ ] I did not edit `servers.json`, `servers.csv` or the README table

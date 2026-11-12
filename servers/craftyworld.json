@@ -1,0 +1,23 @@
+{
+  "name": "CraftyWorld",
+  "ip": "play.craftyworld.fr",
+  "port": 19132,
+  "description": "Nous vous souhaitons la bienvenue sur CraftyWorld !\n\nDepuis 2015, CraftyWorld a vécu en tant que serveur PvP-Factions sur Minecraft Bedrock Edition. Bientôt, le serveur va renaître en tant que serveur Mini-Jeux à la fois sur les versions Java et Bedrock du jeu. Rejoins le serveur Discord ou les différents réseaux sociaux afin d'être tenu.e informé.e de l'avancée du projet. Le serveur est actuellement en bêta, n'hésitez pas à le rejoindre et à nous faire part des éventuels bugs rencontrés !\n\nN'oubliez pas, nous vous attendons, donc venez et amusez-vous !\n\nNotre chaîne YouTube : Cliquez ici !\n\nNotre site internet : Cliquez ici !",
+  "lang": "fr",
+  "image": "https://minecraftpocket-servers.com/server/8733/banner-8733-1732399794.png",
+  "country": "France",
+  "version": "26.62",
+  "website": "https://craftyworld.fr",
+  "tags": [
+    "Cross-Play",
+    "Minigames",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/8733/"
+}

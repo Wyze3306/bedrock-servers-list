@@ -1,25 +1,26 @@
-# Contribuer
+# Contributing
 
-## Règles
+## Rules
 
-- Serveurs **Bedrock** uniquement (port par défaut `19132`).
-- Un fichier par serveur dans `servers/`, nommé en minuscules avec des tirets : `mon-serveur.json`.
-- `ip` contient uniquement l'IP ou le domaine, le port va dans `port`.
-- `lang` est un code ISO 639-1 : `fr`, `en`, `es`, `pt-BR`...
-- `image` : URL `https` d'une bannière ou d'un logo.
-- Pas de serveur dupliqué (même `ip` et `port`), pas de contenu illégal, haineux ou trompeur.
-- N'éditez pas `servers.json`, `servers.csv` ni le tableau du README : ils sont générés.
+- **Bedrock** servers only, on the default port `19132`.
+- `ip` is a **domain name** (e.g. `play.example.com`). Numeric IP addresses are not accepted, and the port is not part of it.
+- `name` is the clean server name only: no version numbers, no Discord link, no emojis or decorative symbols, no slogan (`Linesia`, not `★ LINESIA ★ 1.21 | discord.gg/xyz`). When in doubt, use the name from the domain.
+- One file per server in `servers/`, named in lowercase with dashes: `my-server.json`.
+- `lang` is an ISO 639-1 code: `en`, `fr`, `es`, `pt-BR`... It is the language of the `description`.
+- `image` is an `https` URL of a banner or logo.
+- No duplicate servers (same `ip`), no illegal, hateful or misleading content.
+- Do not edit `servers.json`, `servers.csv` or the README table: they are generated.
 
-## Vérifier en local
+## Check locally
 
 ```bash
 python3 scripts/validate.py
 ```
 
-## Retirer un serveur
+## Remove a server
 
-Supprimez son fichier dans `servers/` par pull request, ou ouvrez une issue si vous êtes le propriétaire.
+Delete its file from `servers/` in a pull request, or open an issue if you are the owner.
 
-## Réimporter depuis le site d'origine
+## Re-import from the original site
 
-Voir l'en-tête de [`scripts/scrape.js`](scripts/scrape.js) puis `scripts/import_raw.py`.
+See the header of [`scripts/scrape.js`](scripts/scrape.js), then run `scripts/import_raw.py` and `scripts/build.py`.

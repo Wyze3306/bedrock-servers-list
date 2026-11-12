@@ -1,0 +1,23 @@
+{
+  "name": "ImperiumMC",
+  "ip": "play.imperiummc.net",
+  "port": 19132,
+  "description": "ImperiumMC - Rome-Themed OP Prison\n\nStep into the Roman Empire and build your legacy. Mine your way through 100 ranks, prestige for permanent multipliers, join Legions to dominate the Colosseum, and climb the leaderboard.\n\nFeatures:\n\n- 100 Ranks + 10 Prestige Tiers\n\n- Legions (Guilds) with weekly payouts\n\n- PVP Mine with real ore rewards\n\n- Custom Enchants and Cursed Enchants\n\n- Crates, Robots, Drones, Auto-Miners\n\n- Battle Pass, Achievements, Collections\n\n- Daily Quests and Challenges\n\n- Crossplay - Java + Bedrock supported\n\nConnection:\n\nJava: play.imperiummc.net\n\nBedrock: play.imperiummc.net port 19132\n\nComing Soon - Join our Discord for early access!",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/133940/banner-133940-1785996519.jpg",
+  "country": "United States of America",
+  "version": "26.52",
+  "website": "https://imperiummc.net/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Prison",
+    "PvP",
+    "Survival",
+    "SMP",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133940/"
+}

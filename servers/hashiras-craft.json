@@ -1,0 +1,20 @@
+{
+  "name": "Hashiras Craft",
+  "ip": "hashiras.net",
+  "port": 19132,
+  "description": "Servidor de Minecraft bedrock Semi anarquia",
+  "lang": "pt-BR",
+  "country": "Brazil",
+  "version": "26.60",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/132603/"
+}

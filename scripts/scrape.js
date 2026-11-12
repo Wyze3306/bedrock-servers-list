@@ -1,16 +1,15 @@
 /*
- * Scraper de https://minecraftpocket-servers.com/ (liste complete des serveurs Bedrock).
+ * Scraper for https://minecraftpocket-servers.com/ (full list of Bedrock servers).
  *
- * Le site est protege par Cloudflare : curl/requests sont bloques. Il faut donc
- * l'executer depuis un vrai navigateur :
- *   1. Ouvrir https://minecraftpocket-servers.com/ (passer le challenge Cloudflare)
- *   2. Ouvrir la console des outils de developpement (F12) et coller ce script
- *   3. Attendre que la console affiche "finished" (~10-15 min, requetes espacees)
- *   4. Telecharger le resultat : copy(JSON.stringify(window.__job.data))
- *      puis le coller dans raw.json
+ * The site is protected by Cloudflare: curl/requests are blocked, so this must
+ * run from a real browser:
+ *   1. Open https://minecraftpocket-servers.com/ (pass the Cloudflare challenge)
+ *   2. Open the developer tools console (F12) and paste this script
+ *   3. Wait until the console prints "finished" (~10-15 min, requests are throttled)
+ *   4. Export the result: copy(JSON.stringify(window.__job.data)) and paste it into raw.json
  *   5. python3 scripts/import_raw.py raw.json && python3 scripts/build.py
  *
- * Les requetes sont volontairement lentes (3 en parallele, pause entre chaque).
+ * Requests are deliberately slow (3 in parallel, with a pause between each).
  */
 window.__job = { state: 'lists', done: 0, total: 0, errors: [], data: {} };
 (async () => {

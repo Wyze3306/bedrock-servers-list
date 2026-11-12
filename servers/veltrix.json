@@ -1,0 +1,23 @@
+{
+  "name": "Veltrix",
+  "ip": "veltrixmc.fr",
+  "port": 19132,
+  "description": "No description provided.",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "website": "http://veltrixmc.eu",
+  "tags": [
+    "Economy",
+    "Factions",
+    "PvE",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133740/"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Bagelton Network",
+  "ip": "bagelton.com",
+  "port": 19132,
+  "description": "The Bagelton Network is a server that me and some friends have been working on with creative, minigames, survival, and other stuff. It also has many modded servers that are finished or in progress, including a gravity swap server, where your gravity direction is randomised. It works with all mc versions (java and bedrock), from 1.7 to the most modern version. If anyone wants to help build the server, the website with contact info is at bagelton.com.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134096/banner-134096-1787690792.png",
+  "country": "United States of America",
+  "version": "26.62",
+  "website": "http://bagelton.com",
+  "tags": [
+    "Adventure",
+    "Anarchy",
+    "Battle Royale",
+    "BedWars",
+    "Creative",
+    "Cross-Play",
+    "Modded",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134096/"
+}

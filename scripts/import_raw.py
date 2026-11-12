@@ -1,16 +1,25 @@
 #!/usr/bin/env python3
-"""Convertit le dump brut de scripts/scrape.js en fichiers servers/<slug>.json.
+"""Convert the raw dump from scripts/scrape.js into servers/<slug>.json files.
 
-Usage : python3 scripts/import_raw.py raw.json
+Usage: python3 scripts/import_raw.py raw.json
 
-La langue n'existe pas sur le site source : elle est deduite de la description
-(mots courants) puis, a defaut, du pays du serveur. Elle reste modifiable par PR.
+Only clean entries are kept:
+  - default Bedrock port 19132 only
+  - domain names only (no numeric IP addresses)
+  - names are cleaned (versions, Discord links, symbols removed; real name taken
+    from the domain when the title is generic)
+  - servers sharing the same cleaned name and domain are merged
+
+The language does not exist on the source site: it is guessed from the
+description (common words), then from the server country. Fix it by PR if wrong.
 """
+import html
 import json
 import re
 import sys
 import unicodedata
 
+from clean_name import clean_name, name_from_host, registrable
 from common import SERVERS_DIR
 
 COUNTRY_LANG = {
@@ -41,10 +50,12 @@ STOPWORDS = {
     "pl": "i w na dla z serwer nasz graj do się jest".split(),
 }
 
+IPV4 = re.compile(r"^\d{1,3}(?:\.\d{1,3}){3}$")
+
 
 def detect_lang(text, country):
     t = text.lower()
-    if re.search(r"[぀-ヿ]", t): return "ja"
+    if re.search(r"[\u3041-\u309f\u30a1-\u30fa]", t): return "ja"
     if re.search(r"[가-힯]", t): return "ko"
     if re.search(r"[一-鿿]", t): return "zh"
     if re.search(r"[؀-ۿ]", t): return "ar"
@@ -75,21 +86,44 @@ def main(path):
     raw = json.load(open(path, encoding="utf-8"))
     items = raw.values() if isinstance(raw, dict) else raw
     SERVERS_DIR.mkdir(exist_ok=True)
-    used, seen_addr, n, skipped = set(), set(), 0, 0
+    stats = {"port": 0, "numeric_ip": 0, "invalid": 0, "duplicate": 0}
+    used, seen_addr, seen_name, seen_desc, n = set(), set(), set(), {}, 0
     for it in sorted(items, key=lambda x: int(x["id"])):
         ip, port = split_address(it.get("address", ""))
-        if not ip or " " in ip:  # ex. "Private Server" : pas d'adresse publique
-            skipped += 1
+        if not ip or " " in ip or not re.fullmatch(r"[A-Za-z0-9.\-_]+", ip):
+            stats["invalid" if not (ip and ":" in ip) else "numeric_ip"] += 1  # "Private Server", IPv6...
             continue
-        it["name"] = (it.get("name") or ip).strip()[:100].rstrip()
-        if (ip.lower(), port) in seen_addr:
-            skipped += 1
+        if port != 19132:
+            stats["port"] += 1
             continue
-        seen_addr.add((ip.lower(), port))
-        desc = it.get("description", "").strip()
+        if IPV4.match(ip):
+            stats["numeric_ip"] += 1
+            continue
+        ip = ip.lower()
+        if (ip, port) in seen_addr:
+            stats["duplicate"] += 1
+            continue
+        seen_addr.add((ip, port))
+        desc = html.unescape(html.unescape(it.get("description", ""))).strip()
+        name = clean_name(it.get("name", ""), ip)
+        domain = registrable(ip)[1]
+        if (name.lower(), domain) in seen_name:  # same network exposed on several sub-domains
+            stats["duplicate"] += 1
+            continue
+        prev = seen_desc.get(name.lower())
+        if prev is not None:
+            if any(desc[:80] == p for p in prev):  # same network under another domain
+                stats["duplicate"] += 1
+                continue
+            name = name_from_host(ip)  # same title but a different server: use its own domain
+            if (name.lower(), domain) in seen_name or name.lower() in seen_desc:
+                stats["duplicate"] += 1
+                continue
+        seen_name.add((name.lower(), domain))
+        seen_desc.setdefault(name.lower(), []).append(desc[:80])
         d = {
-            "name": it["name"], "ip": ip, "port": port,
-            "description": desc or "Aucune description.",
+            "name": name, "ip": ip, "port": port,
+            "description": desc or "No description provided.",
             "lang": detect_lang(desc, it.get("country", "")),
         }
         if it.get("banner"): d["image"] = it["banner"]
@@ -99,14 +133,14 @@ def main(path):
         if it.get("discord", "").startswith("http"): d["discord"] = it["discord"]
         if it.get("tags"): d["tags"] = it["tags"]
         d["source"] = f"https://minecraftpocket-servers.com/server/{it['id']}/"
-        slug = slugify(it["name"]) or slugify(ip) or f"server-{it['id']}"
+        slug = slugify(name) or slugify(ip) or f"server-{it['id']}"
         if slug in used:
             slug = f"{slug}-{it['id']}"
         used.add(slug)
         (SERVERS_DIR / f"{slug}.json").write_text(
             json.dumps(d, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         n += 1
-    print(f"{n} fichiers ecrits, {skipped} ignores (doublon ip:port ou donnees vides)")
+    print(f"{n} files written. Skipped: {stats}")
 
 
 if __name__ == "__main__":

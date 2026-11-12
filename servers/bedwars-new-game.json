@@ -1,0 +1,24 @@
+{
+  "name": "Bedwars & New Game",
+  "ip": "play.cubecraft.net",
+  "port": 19132,
+  "description": "CubeCraft Games is one of the largest and longest-running Minecraft networks, offering a wide selection of multiplayer games for Minecraft Bedrock Edition.\n\nCompete in popular modes such as EggWars, SkyWars, Lucky Islands, Skyblock, and more. Whether you enjoy team-based battles, solo competition, survival challenges, or progression-focused gameplay, CubeCraft provides experiences for different playstyles.\n\nThe network includes a built-in friends and party system, allowing players to join games together easily. Players can also earn rewards, collect cosmetic items, participate in seasonal events, and discover regularly updated maps and content.\n\nCubeCraft supports the latest stable version of Minecraft Bedrock Edition and can be joined through the Featured Servers menu or with the address play.cubecraft.net.",
+  "lang": "en",
+  "country": "France",
+  "version": "26.60",
+  "website": "https://www.cubecraft.net/",
+  "tags": [
+    "Minigames",
+    "Skyblock",
+    "Skywars",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/87450/"
+}

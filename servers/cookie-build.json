@@ -1,0 +1,25 @@
+{
+  "name": "Cookie Build",
+  "ip": "pe.cookie-build.com",
+  "port": 19132,
+  "description": "Cookie Build is a Minecraft Pocket Edition minigame server. There is only SkyWars, MicroBattles, Build Battle and Turf Wars available right now, but thanks to your support more mini games are coming soon.\n\nYou can have some IPs on our website or all IPs on our Android app :\n\nhttps://play.google.com/store/apps/details?id=cookiebuild.com.cookiebuildstatus\n\nHave fun !",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/9770/banner-9770-1440144848.jpeg",
+  "country": "France",
+  "version": "26.60",
+  "website": "https://www.cookie-build.com",
+  "tags": [
+    "Build Battle",
+    "Minigames",
+    "PvP",
+    "Skywars",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/9770/"
+}

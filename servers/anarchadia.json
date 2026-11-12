@@ -1,0 +1,21 @@
+{
+  "name": "Anarchadia",
+  "ip": "bedrock.anarchadia.org",
+  "port": 19132,
+  "description": "Welcome to Anarchadia – an anarchy server where Minecraft stays true to its block game roots. Established on January 18th, 2021 on version 1.8.8, our server is currently running on version 1.21.4 with plans to upgrade when new releases drop.\n\nAt Anarchadia, we offer a \"vanilla but broken\" experience with vanilla world generation using a broken seed. Our server features fully functioning duplication glitches with minimal anti-cheat interference, welcoming hack and utility clients and allowing all forms of duplication and redstone creations. We've also implemented 1.8 combat to remove hit delay, reintroduced craftable god apples, and enhanced potion effectiveness to provide an alternative to traditional anarchy-styled combat.\n\nEven though we support most forms of free speech and creativity, please be aware we have two (2) rules to help provide a safer environment for the continued operation of the server and community; they're very simple: \n\n• No illegal content. (Mainly talking map arts)\n\n• No revealing personal information of anyone, from anywhere.\n\nJoin the wastelands at:\n\n• Java: anarchadia.org:25565\n\n• Bedrock: bedrock.anarchadia.org:19132\n\n• Discord: discord.anarchadia.org",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.63",
+  "website": "https://anarchadia.org",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/129063/"
+}

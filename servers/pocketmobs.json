@@ -1,0 +1,23 @@
+{
+  "name": "PocketMobs",
+  "ip": "play.pocketmobs.com",
+  "port": 19132,
+  "description": "PocketMobs is a Pokémon server for Minecraft Bedrock, on phone, Xbox, PlayStation, Switch and PC.\n\nSeason 1 is live: join before December 4 and keep the exclusive Founder cape forever.\n\nType /redeem POCKETPAL for a Shiny Eevee and an exclusive cape.\n\nWHAT YOU CAN DO\n\n- Catch over 1,100 Pokémon with real catch rates, and battle with real Pokémon battle rules\n\n- Pick your starter from every generation, Gen 1 to Gen 9\n\n- Beat walk-through gyms with puzzles, parkour and trainers before the leader, and earn your badges\n\n- Explore Johto and Kanto on one map, on foot, with the story, rivals and Team Rocket\n\n- Climb Victory Road, face Cynthia, then the Elite Four\n\n- Fight giant raid bosses with friends\n\n- Find legendaries in the wild, with their own cutscenes\n\n- Play the Battle Tower, the Battle Factory, the Safari Zone and the villain hideouts\n\n- Build your base: Pokémon work and sleep in beds, eggs and an incubator, berry farming\n\n- Fair economy, trading and an auction house\n\n- Vote every day for a Poké Crate key and coins, with a bonus for a 7-day streak\n\nHOW TO JOIN\n\n- Phone / PC: Play > Servers > Add Server > play.pocketmobs.com, port 19132\n\n- Xbox / PlayStation / Switch: add the friend Pocketmobs, then Play > Friends tab > join PocketMobs\n\n- Walk through PLAY in the lobby, then /redeem POCKETPAL\n\nHelp, events and updates: https://discord.gg/baFFzNFXCr\n\nStore: https://store.pocketmobs.com",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://store.pocketmobs.com",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "Modded",
+    "PvE",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134695/"
+}

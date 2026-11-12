@@ -1,0 +1,23 @@
+{
+  "name": "Etercube",
+  "ip": "mc.etercube.fr",
+  "port": 19132,
+  "description": "EterCube est un serveur Minecraft Faction dont le but est d'unir les communautés Java et Bedrock sur un environnement divertissant incluant les nouveautés de la 1.21.4, porté par et pour les joueurs.\n\nProfitez de combats 1.8, ainsi que de mécaniques inédites révolutionnant le Faction.",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.63",
+  "website": "https://etercube.fr",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "Factions",
+    "PvE",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/130847/"
+}

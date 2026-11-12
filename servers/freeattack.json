@@ -1,0 +1,22 @@
+{
+  "name": "FreeAttack",
+  "ip": "freeattack.net",
+  "port": 19132,
+  "description": "FreeAttack – dein deutscher Minecraft Bedrock Server\n\nFreeAttack is a German-language Bedrock network with multiple servers under one address: Lobby, Freebuild, Mining, and Minigames. Homes and warps work on all servers—typing /home takes you directly to the correct server.\n\nFeatures\n\n• Clans with their own abbreviation, clan chat, clan treasury, and leaderboard (/clan)\n\n• Mailbox: Letters containing items and money sent to every player, even offline (/mail)\n\n• Season Pass with XP levels and rewards (/pass)\n\n• Auction House\n\n• Minigame rounds count toward levels and quests\n\n• Daily vote reward (/vote)\n\n• Refer friends and both of you get a reward (/referral)\n\n• Tutorial for new players\n\n• Link your Discord account (/discord link)\n\nWebsite: freeattack.net",
+  "lang": "en",
+  "country": "Germany",
+  "version": "26.60",
+  "website": "https://freeattack.net",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Minigames",
+    "Survival",
+    "Vote Reward",
+    "PvP",
+    "SMP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134659/"
+}

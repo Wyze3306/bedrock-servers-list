@@ -1,0 +1,22 @@
+{
+  "name": "FadeMC",
+  "ip": "fademc.gg",
+  "port": 19132,
+  "description": "Welcome to FadeMC — a never-resetting survival world where your builds, loot, and legacy are permanent. We blend classic Minecraft adventure with deep custom content: 200+ unique items, custom mines with scaling progression and rare drops, and a thriving player economy — all wrapped in a grief-free, no-pressure environment.\n\nClaim your land, build without fear, and explore a world that never resets. Your inventory is safe on death, your builds are protected, and your progress stays forever. Whether you're diving into mines for exclusive loot, crafting one-of-a-kind gear, or teaming up with friends across Java and Bedrock, FadeMC is built for players who want to actually stick around.\n\nCross-play enabled — Java + Bedrock players share the same world, the same spawn, the same economy. No pay-to-win. No seasonal wipes. No anxiety about losing your stuff. Just a solid SMP with real depth, real systems, and a community that sticks.\n\nReady your pickaxe. Your story starts at fademc.gg.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.62",
+  "website": "https://fademc.gg",
+  "tags": [
+    "Adventure",
+    "Creative",
+    "Cross-Play",
+    "Survival",
+    "Vanilla",
+    "Vote Reward",
+    "PvP",
+    "Economy",
+    "SMP"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133712/"
+}

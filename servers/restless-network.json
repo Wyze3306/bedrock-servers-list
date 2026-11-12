@@ -1,0 +1,22 @@
+{
+  "name": "RESTLESS Network",
+  "ip": "play.restlessmc.net",
+  "port": 19132,
+  "description": "Restless MC is a Java + Bedrock network built around three different experiences: Kingdom SMP, Heartfall Lifesteal, and Aetherreach RPG. Everyone arrives in Kingsgate, our hub city, and picks a game from the compass menu.\n\nKingdom SMP opens November 28: claim land, build with friends, trade using Crowns, and explore from the safe town of Crownfall. PvP is optional and limited to arenas. No kits.\n\nHeartfall opens October 24 at noon Mountain / 2 p.m. Eastern / 7 p.m. UK. Steal hearts in PvP, form factions, and raid outside the safe spawn town. Losing your last heart makes you a ghost instead of banning you; friends can revive you, or you return after 24 hours.\n\nAetherreach is our upcoming story RPG, with quests, classes, dungeons and bosses. Its release date hasn't been announced.\n\nJava: play.restlessmc.net. Bedrock: the same address, port 19132. These games are preparing for public release. See https://restlessmc.net/join/ for joining instructions and https://discord.restlessmc.net for updates (Discord optional, ages 13+).",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.52",
+  "website": "https://restlessmc.net/join/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "LifeSteal",
+    "SMP",
+    "Survival",
+    "PvP",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134484/"
+}

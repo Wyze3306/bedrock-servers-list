@@ -1,0 +1,27 @@
+{
+  "name": "TopLand",
+  "ip": "play.toplandmc.ir",
+  "port": 19132,
+  "description": "Website » http://toplandmc.ir\n\nTelegram » https://t.me/TopLandMc\n\nRubika » https://rubika.ir/TopLandMc",
+  "lang": "en",
+  "country": "Iran",
+  "version": "26.60",
+  "website": "https://toplandmc.ir",
+  "tags": [
+    "BedWars",
+    "Knockback FFA",
+    "Minigames",
+    "Practice",
+    "PvP",
+    "Spleef",
+    "TNT Run",
+    "Vote Reward",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133473/"
+}

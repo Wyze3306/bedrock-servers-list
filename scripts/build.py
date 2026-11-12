@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genere servers.json, servers.csv et le tableau du README a partir de servers/*.json."""
+"""Generate servers.json, servers.csv and the README table from servers/*.json."""
 import csv
 import json
 import re
@@ -39,15 +39,15 @@ def main():
                         r["description"].replace("\n", " ")])
 
     langs = Counter(r["lang"] for r in rows)
-    lines = [f"**{len(rows)} serveurs** · langues : " +
+    lines = [f"**{len(rows)} servers** · languages: " +
              ", ".join(f"`{l}` {n}" for l, n in langs.most_common(12)), "",
-             "| Serveur | IP | Port | Langue | Version | Description |",
-             "|---|---|---|---|---|---|"]
+             "| Server | IP | Port | Lang | Description |",
+             "|---|---|---|---|---|"]
     for r in rows:
         name = f"[{esc(r['name'])}]({r['website']})" if r["website"] else esc(r["name"])
         desc = esc(r["description"])
         desc = desc[:117] + "..." if len(desc) > 120 else desc
-        lines.append(f"| {name} | `{r['ip']}` | `{r['port']}` | {r['lang']} | {esc(r['version'])} | {desc} |")
+        lines.append(f"| {name} | `{r['ip']}` | `{r['port']}` | {r['lang']} | {desc} |")
     block = START + "\n" + "\n".join(lines) + "\n" + END
 
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
@@ -56,7 +56,7 @@ def main():
     else:
         readme = readme.rstrip() + "\n\n" + block + "\n"
     (ROOT / "README.md").write_text(readme, encoding="utf-8")
-    print(f"{len(rows)} serveurs ecrits")
+    print(f"{len(rows)} servers written")
 
 
 if __name__ == "__main__":

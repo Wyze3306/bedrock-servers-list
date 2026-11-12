@@ -1,4 +1,4 @@
-"""Fonctions communes : chargement et validation des fichiers serveurs."""
+"""Shared helpers: loading and validating server files."""
 import json
 import re
 import sys
@@ -8,13 +8,15 @@ ROOT = Path(__file__).resolve().parent.parent
 SERVERS_DIR = ROOT / "servers"
 SCHEMA_PATH = ROOT / "schema" / "server.schema.json"
 
+DEFAULT_PORT = 19132
 ALLOWED = {
     "name", "ip", "port", "description", "lang", "image",
     "country", "version", "website", "discord", "tags", "source",
 }
 REQUIRED = ["name", "ip", "port", "description", "lang"]
 LANG_RE = re.compile(r"^[a-z]{2}(-[A-Z]{2})?$")
-HOST_RE = re.compile(r"^[A-Za-z0-9]([A-Za-z0-9.\-_]*[A-Za-z0-9])?$|^[0-9a-fA-F:]+$")
+HOST_RE = re.compile(r"^[A-Za-z0-9]([A-Za-z0-9.\-_]*[A-Za-z0-9])?$")
+IPV4_RE = re.compile(r"^\d{1,3}(\.\d{1,3}){3}$")
 
 
 def load_all():
@@ -26,39 +28,43 @@ def load_all():
 
 
 def validate(path, data):
-    """Retourne la liste des erreurs pour un serveur (liste vide = OK)."""
+    """Return the list of errors for one server (empty list = valid)."""
     errs = []
     if not isinstance(data, dict):
-        return ["le fichier doit contenir un objet JSON"]
+        return ["the file must contain a JSON object"]
     for key in REQUIRED:
         if key not in data or data[key] in ("", None):
-            errs.append(f"champ obligatoire manquant : {key}")
+            errs.append(f"missing required field: {key}")
     for key in data:
         if key not in ALLOWED:
-            errs.append(f"champ inconnu : {key}")
+            errs.append(f"unknown field: {key}")
     if "name" in data and not (isinstance(data["name"], str) and 1 <= len(data["name"]) <= 100):
-        errs.append("name : texte de 1 a 100 caracteres")
+        errs.append("name: text of 1 to 100 characters")
     ip = data.get("ip")
-    if ip is not None and (not isinstance(ip, str) or not HOST_RE.match(ip) or ":" in ip and not re.fullmatch(r"[0-9a-fA-F:]+", ip)):
-        errs.append("ip : IP ou domaine uniquement (le port va dans le champ port)")
+    if ip is not None:
+        if not isinstance(ip, str) or not HOST_RE.match(ip):
+            errs.append("ip: domain name only, without the port")
+        elif IPV4_RE.match(ip) or ":" in ip:
+            errs.append("ip: numeric IP addresses are not accepted, use a domain name")
+        elif "." not in ip:
+            errs.append("ip: must be a fully qualified domain name (e.g. play.example.com)")
     port = data.get("port")
-    if port is not None and (not isinstance(port, int) or isinstance(port, bool) or not 1 <= port <= 65535):
-        errs.append("port : entier entre 1 et 65535")
+    if port is not None and port != DEFAULT_PORT:
+        errs.append(f"port: only the default Bedrock port {DEFAULT_PORT} is accepted")
     if isinstance(data.get("description"), str) and len(data["description"]) > 2000:
-        errs.append("description : 2000 caracteres maximum")
+        errs.append("description: 2000 characters maximum")
     lang = data.get("lang")
     if lang is not None and (not isinstance(lang, str) or not LANG_RE.match(lang)):
-        errs.append("lang : code ISO 639-1, ex. fr, en, pt-BR")
+        errs.append("lang: ISO 639-1 code, e.g. en, fr, pt-BR")
     for key in ("image", "website", "discord", "source"):
         v = data.get(key)
         if v not in (None, "") and not (isinstance(v, str) and v.startswith(("http://", "https://"))):
-            errs.append(f"{key} : doit etre une URL http(s)")
+            errs.append(f"{key}: must be an http(s) URL")
     tags = data.get("tags")
     if tags is not None and not (isinstance(tags, list) and all(isinstance(t, str) for t in tags) and len(set(tags)) == len(tags)):
-        errs.append("tags : liste de textes sans doublon")
-    expected = path.stem
-    if not re.fullmatch(r"[a-z0-9][a-z0-9\-]*", expected):
-        errs.append("nom de fichier : minuscules, chiffres et tirets uniquement (ex. mon-serveur.json)")
+        errs.append("tags: list of unique strings")
+    if not re.fullmatch(r"[a-z0-9][a-z0-9\-]*", path.stem):
+        errs.append("file name: lowercase letters, digits and dashes only (e.g. my-server.json)")
     return errs
 
 

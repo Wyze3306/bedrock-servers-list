@@ -1,0 +1,24 @@
+{
+  "name": "Ploto",
+  "ip": "play.ploto.fr",
+  "port": 19132,
+  "description": "Le meilleur kitmap français inspiré du serveur Paladium pour son Clicker et de Plutonium pour sa Boule de Neige infinie.\n\nCe serveur n'est en aucun cas lié à un autre, toutes les choses présentes sont uniquement une inspiration envers d'autres et ne sont en aucun cas du plagiat.",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Factions",
+    "PvE",
+    "PvP",
+    "Skyblock",
+    "Skywars",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/126186/"
+}

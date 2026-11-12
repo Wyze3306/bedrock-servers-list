@@ -1,0 +1,23 @@
+{
+  "name": "Rede Revo",
+  "ip": "jogar.rederevo.com",
+  "port": 19132,
+  "description": "Bem-Vindos a Rede Revo, a rede de servidores mais incrível que você já encontrou.\n\nAceitamos jogadores da 1.12 até a 26.x!\n\nAtualmente oferecemos os seguintes modos de jogo em nossa rede;\n\nSurvival - 26.x:\n\n- Sistema de temporadas\n\n- Eventos diários\n\n- Sistema de Habilidades (mcMMO)\n\n- Sistema de Clãs\n\n- PvP liberado\n\n- Guerra entre Clãs\n\n- Economia equilibrada\n\n- E muito mais\n\nBoxPvP:\n\n- Sistema de temporadas\n\n- Eventos diários\n\n- Sistema de equipes\n\n- Caixas\n\n- E muito mais\n\nPractice:\n\n- Os melhores duelos\n\n- FFA\n\nEntão, o que você está esperando? Venha conhecer cada um deles!",
+  "lang": "pt-BR",
+  "country": "Brazil",
+  "version": "26.60",
+  "website": "https://rederevo.com",
+  "tags": [
+    "BoxPvP",
+    "PvE",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/128241/"
+}

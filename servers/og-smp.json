@@ -1,0 +1,23 @@
+{
+  "name": "Og SMP",
+  "ip": "og-smp.net",
+  "port": 19132,
+  "description": "This server aims to bring back the old style of Minecraft without Pay2Win garbage.\n\nYou can expect a vanilla experience, but with some fun multiplayer additions:\n\n• a player marketplace\n\n• a reputation and bounty system\n\n• guilds\n\n• daily quests (new!)\n\n• plus a handful of essential commands like /sethome\n\nThis is an anarchy server, but hacking and cheats are not allowed. Make sure you hide your base, there are no land claims here!\n\nWe already have an active and friendly player base, and a large world that is around 5 months old :)",
+  "lang": "en",
+  "country": "Canada",
+  "version": "26.63",
+  "website": "https://www.og-network.net/",
+  "tags": [
+    "PvE",
+    "PvP",
+    "Raiding",
+    "Survival",
+    "Vanilla",
+    "Vote Reward",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131913/"
+}

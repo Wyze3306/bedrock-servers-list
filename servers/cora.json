@@ -1,0 +1,23 @@
+{
+  "name": "Cora",
+  "ip": "cora.land",
+  "port": 19132,
+  "description": "No description provided.",
+  "lang": "en",
+  "country": "Canada",
+  "version": "26.60",
+  "tags": [
+    "Adventure",
+    "Factions",
+    "PvE",
+    "PvP",
+    "Practice",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/128258/"
+}

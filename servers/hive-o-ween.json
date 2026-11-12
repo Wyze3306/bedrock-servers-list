@@ -1,0 +1,25 @@
+{
+  "name": "Hive-o-ween",
+  "ip": "hivebedrock.network",
+  "port": 19132,
+  "description": "The Hive is a large Minecraft Bedrock Edition minigame network offering a wide variety of fast-paced multiplayer experiences.\n\nPlay popular games including BedWars, SkyWars, Murder Mystery, Hide and Seek, DeathRun, Survival Games, Build Battle, Block Drop, Ground Wars, Capture the Flag, Gravity, and more. Compete alone or with friends, earn experience, climb the leaderboards, and unlock new cosmetics as you play.\n\nThe Hive regularly introduces new maps, seasonal events, limited-time modes, and major game updates. With dedicated regions in North America, Europe, and Asia, players are automatically connected to a nearby server for a smoother experience.\n\nJoin The Hive directly from the Featured Servers section of Minecraft Bedrock Edition or connect using the server address.",
+  "lang": "en",
+  "country": "France",
+  "version": "1.0.0",
+  "website": "https://playhive.com/",
+  "tags": [
+    "BedWars",
+    "Capture The Flag",
+    "Murder Mystery",
+    "Skywars",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/87451/"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "McbePVP",
+  "ip": "mcbepvp.club",
+  "port": 19132,
+  "description": "No description provided.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/133701/banner-133701-1783559416.png",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://mcbepvp.club",
+  "tags": [
+    "Practice",
+    "PvP",
+    "SMP",
+    "Vote Reward",
+    "BedWars",
+    "Economy",
+    "Minigames",
+    "Survival",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133701/"
+}
