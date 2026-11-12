@@ -1,0 +1,27 @@
+{
+  "name": "Gamel City",
+  "ip": "gamel.bed.net.br",
+  "port": 9003,
+  "description": "O maior servidor Br de RP e sobrevivência que existe ou vai existir. Bedrock Minecraft!",
+  "lang": "pt-BR",
+  "image": "https://minecraftpocket-servers.com/server/134685/banner-134685-1794102621.jpg",
+  "country": "Brazil",
+  "version": "26.63",
+  "website": "https://youtube.com/@familiagamel?si=6NBfjKcy4s5UWJ3t",
+  "tags": [
+    "BedWars",
+    "Prison",
+    "PvE",
+    "PvP",
+    "Roleplay",
+    "Skywars",
+    "Survival",
+    "Vanilla",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134685/"
+}

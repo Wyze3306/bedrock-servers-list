@@ -1,0 +1,21 @@
+{
+  "name": "Altay Server",
+  "ip": "valoriamc.eu",
+  "port": 19123,
+  "description": "Serveur minecraft bedrock !\n\nKitmap 400€ Cashprize thème tropicale !\n\nFondateur : Valr3nz !",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "Factions",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134717/"
+}

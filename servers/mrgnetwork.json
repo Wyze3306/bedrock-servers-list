@@ -1,0 +1,26 @@
+{
+  "name": "MRGNetwork",
+  "ip": "playmrg.net",
+  "port": 19132,
+  "description": "Welcome to MystrickGames, a premium Minecraft Bedrock Edition minigame network! We are dedicated to bringing you the smoothest, most competitive, and most enjoyable PvP minigame experiences.\n\nJump into our custom lobby and queue up for one of our exciting game modes:\n\n🛏️ Bedwars: Defend your bed, gather resources, and destroy your opponents' beds to be the last team standing!\n\n🏛️ Pillars of Fortune: A unique twist on lucky-block style PvP! Spawn on your own pillar, gather loot, bridge across the void, and fight to be the last player alive!\n\n⚔️ Duels: Hone your PvP skills in intense 1v1 combat! Practice your aim, movement, and strategies in dedicated fast-paced arenas.\n\n📜 Open Source Attribution:\n\nMystrickGames is proudly powered by modified open-source software originally developed by the NetherGames Network. In accordance with the LGPL License, we extend our thanks to NetherGames Network for providing the foundational frameworks (such as NGEssentials) that help power our network.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134045/banner-134045-1787078884.png",
+  "country": "Singapore",
+  "version": "26.60",
+  "website": "http://store.playmrg.net",
+  "tags": [
+    "BedWars",
+    "Economy",
+    "Factions",
+    "Minigames",
+    "PvP",
+    "Skyblock",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134045/"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "HUB NationsGlory",
+  "ip": "bedrock.nationsglory.fr",
+  "port": 19132,
+  "description": "c'est un serveur mec, rien de plus",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "tags": [
+    "Economy",
+    "Factions",
+    "PvP",
+    "Vanilla",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/103677/"
+}

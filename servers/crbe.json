@@ -1,0 +1,28 @@
+{
+  "name": "CRBE",
+  "ip": "cristalix.pe",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "ru",
+  "image": "https://minecraftpocket-servers.com/server/80565/banner-80565-1541810964.png",
+  "country": "Russia",
+  "version": "26.60",
+  "website": "http://Cristalix.PE",
+  "tags": [
+    "Creative",
+    "Hunger Games",
+    "Minigames",
+    "Parkour",
+    "PvP",
+    "Skywars",
+    "TNT Run",
+    "Vote Reward",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/80565/"
+}

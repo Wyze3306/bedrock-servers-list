@@ -1,0 +1,24 @@
+{
+  "name": "Deadland",
+  "ip": "mps.deadland.org",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "website": "https://www.deadland.org",
+  "tags": [
+    "Economy",
+    "Factions",
+    "Guns",
+    "PvE",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134450/"
+}

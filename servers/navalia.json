@@ -1,0 +1,20 @@
+{
+  "name": "Navalia",
+  "ip": "navaliamc.fr",
+  "port": 19132,
+  "description": "Un très bon serveur KitMines (mélange de KitMap et KitMines)",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.50",
+  "tags": [
+    "Economy",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134417/"
+}

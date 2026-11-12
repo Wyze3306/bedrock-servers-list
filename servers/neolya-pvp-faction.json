@@ -1,0 +1,24 @@
+{
+  "name": "Neolya PvP Faction",
+  "ip": "neolya.ddns.net",
+  "port": 19132,
+  "description": "Neolya est un serveur PvP Faction dont le but est de dominer le serveur!",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "website": "https://neolya.ddns.net",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "Factions",
+    "PvE",
+    "PvP",
+    "Survival",
+    "War",
+    "SMP",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134693/"
+}

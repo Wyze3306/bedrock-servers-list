@@ -1,0 +1,21 @@
+{
+  "name": "Misaki Practice",
+  "ip": "play.misaki.host",
+  "port": 25601,
+  "description": "Misaki is a Chinese minecraft bedrock edition pvp server by Prokits.",
+  "lang": "zh",
+  "country": "China",
+  "version": "26.0",
+  "tags": [
+    "Knockback FFA",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/126639/"
+}

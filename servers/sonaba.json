@@ -1,0 +1,23 @@
+{
+  "name": "Sonaba",
+  "ip": "sonaba.net",
+  "port": 19132,
+  "description": "Welcome to Sonaba Network.\n\nThe first and ever practice server to support 1.18+ bedrock versions with tons of default and fun gamemodes.\n\n - Smooth and playable experience.\n\n- Knockback in beta testing(can be improved by feedbacks)\n\n- Fun and exciting gamemodes(coming soon)\n\n- Smooth ffa gamemodes\n\n- 4 regions(coming soon)",
+  "lang": "en",
+  "country": "Singapore",
+  "version": "26.50",
+  "tags": [
+    "Knockback FFA",
+    "Minigames",
+    "Practice",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131952/"
+}

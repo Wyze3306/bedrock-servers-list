@@ -1,0 +1,22 @@
+{
+  "name": "VANTAGE",
+  "ip": "vantagesmp.xyz",
+  "port": 19132,
+  "description": "Geyser/Floodgate crossplay, Folia 26.2, no whitelist, shard economy, lobby safe / wilds PvP-grief, no land claims",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.50",
+  "website": "https://vantagesmp.xyz",
+  "tags": [
+    "Anarchy",
+    "Cross-Play",
+    "Economy",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134336/"
+}

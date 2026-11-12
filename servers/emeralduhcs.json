@@ -1,0 +1,21 @@
+{
+  "name": "EmeraldUHCs",
+  "ip": "EmeraldUHCs.ddns.net",
+  "port": 10252,
+  "description": "Indian Best Pvp Server",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/133854/banner-133854-1789276375.png",
+  "country": "India",
+  "version": "0.15.10 alpha",
+  "tags": [
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133854/"
+}

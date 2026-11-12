@@ -1,0 +1,25 @@
+{
+  "name": "Meow",
+  "ip": "mc.mineverso.com",
+  "port": 19132,
+  "description": "Servidor actualizado y optimizado por profesionales para que puedas disfrutar de una buena experiencia sin latencia (rápida conexión).\n\nActualmente podrás encontrar 5 modalidades:\n\nSurvival, SkyBlock, SkyWars, Vanilla y CTW.\n\n----+ mc.mineverso.com +---- Bedrock -> Puerto: 19132",
+  "lang": "es",
+  "image": "https://minecraftpocket-servers.com/server/121269/banner-121269-1678878005.png",
+  "country": "Spain",
+  "version": "26.60",
+  "website": "https://www.mineverso.com/",
+  "tags": [
+    "Capture The Flag",
+    "Cross-Play",
+    "Economy",
+    "Skyblock",
+    "Skywars",
+    "Survival",
+    "Vanilla",
+    "PvP",
+    "SMP",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/121269/"
+}

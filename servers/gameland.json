@@ -1,0 +1,24 @@
+{
+  "name": "GameLand",
+  "ip": "gameland.mcbe.fr",
+  "port": 19132,
+  "description": "🇫🇷 : Le mini-jeu de retour en France ! 🇫🇷\n\nGameLand est un serveur de mini-jeux qui en propose plusieurs : le Hikabrain, le UHC Run ainsi que des jeux en solo.\n\nGameLand ouvre ses portes le vendredi 16 octobre à 12 h ! \n\n🇬🇧 : Mini-games are back in France! 🇫🇷\n\nGameLand is a mini-game server offering several game modes: Hikabrain, UHC Run, as well as single-player games.\n\nGameLand opens its doors on Friday, October 16 at 12 PM!",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "tags": [
+    "Minigames",
+    "MLG Rush",
+    "Parkour",
+    "PvP",
+    "Skywars",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134514/"
+}

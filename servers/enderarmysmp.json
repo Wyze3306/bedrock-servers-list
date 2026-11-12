@@ -1,0 +1,24 @@
+{
+  "name": "EnderArmySMP",
+  "ip": "enderarmysmp.dedimc.io",
+  "port": 19132,
+  "description": "Welcome to EnderArmySMP! Enjoy a Bedrock survival server packed with features: a custom GUI, warps, homes, TPA, PvP, land claims, and more. Team up with friends, build your base, explore, and make your mark on the server!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "tags": [
+    "Adventure",
+    "Anarchy",
+    "Creative",
+    "Earth",
+    "Economy",
+    "Factions",
+    "Survival",
+    "Vote Reward",
+    "PvP",
+    "SMP",
+    "Cross-Play",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134521/"
+}

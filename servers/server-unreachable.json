@@ -1,0 +1,24 @@
+{
+  "name": "Server Unreachable",
+  "ip": "play.craftbit.net",
+  "port": 19132,
+  "description": "We're a new and upcoming Minecraft server that supports both Java and Bedrock edition. Our server is aiming to give a close-to-vanilla feel while offering a ton of fun and extra features. In the future we are hoping to offer the following gamemodes: Survival (SMP), Skyblock, Prison (Classic) and Creative. Starting out, we will focus on the Survival/SMP server. Craftbit will be a community-focused server, meaning that our first priority will always be the community of the server.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134016/banner-134016-1786735516.jpg",
+  "country": "United States of America",
+  "version": "1.0.0",
+  "website": "https://craftbit.net",
+  "tags": [
+    "Adventure",
+    "Creative",
+    "Cross-Play",
+    "Economy",
+    "PvE",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134016/"
+}

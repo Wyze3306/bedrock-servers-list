@@ -1,0 +1,22 @@
+{
+  "name": "LimeDex &gt; GRIEF",
+  "ip": "lime-d.ru",
+  "port": 12000,
+  "description": "Данный сервер с грифом, специально для русских игроков, заходи не пожалеешь.",
+  "lang": "ru",
+  "country": "Russia",
+  "version": "1.1.0",
+  "website": "http://shop.lime-d.ru",
+  "tags": [
+    "Economy",
+    "Murder Mystery",
+    "PvP",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/89158/"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "TropicMine",
+  "ip": "tropicmine.net",
+  "port": 19132,
+  "description": "TropicMine 🌴 – Dein Crossplay City-Build-Server für Java & Bedrock!\n\nBaue deine Träume, verdiene Geld im Farmer-Shop, handle mit Bitcoin oder eröffne ein gemeinsames Bankkonto mit Freunden. Erledige Aufgaben, sammle Booster und schalte coole Perks wie Fly & Nachtsicht frei. Eigene Welten für Farming und Nether-Abenteuer inklusive!\n\nJava & Bedrock (Handy, Konsole, PC) – jeder ist willkommen!",
+  "lang": "de",
+  "image": "https://minecraftpocket-servers.com/server/134331/banner-134331-1790762046.png",
+  "country": "Germany",
+  "version": "26.60",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134331/"
+}

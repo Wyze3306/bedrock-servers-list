@@ -1,0 +1,24 @@
+{
+  "name": "Minecraft EvoPixel",
+  "ip": "mc.evopixel.ro",
+  "port": 19132,
+  "description": "Minecraft EvoPixel is a high-performance Minecraft server designed for a seamless and immersive gaming experience. With powerful hardware and advanced protection, our server remains lag-free even under extreme conditions, handling attacks up to 480GB/s without affecting performance. Enjoy a 24/7 online server with minimal downtime, only requiring quick restarts during updates. Our custom-built medieval maps and unique gameplay systems create a world full of adventure and originality.",
+  "lang": "en",
+  "country": "Romania",
+  "version": "1.21.120",
+  "website": "https://minecraft.evopixel.ro",
+  "tags": [
+    "Economy",
+    "Minigames",
+    "PvP",
+    "Skyblock",
+    "Skywars",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/130018/"
+}

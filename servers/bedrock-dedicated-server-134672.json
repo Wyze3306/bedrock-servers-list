@@ -1,0 +1,24 @@
+{
+  "name": "Bedrock Dedicated Server",
+  "ip": "basic-8.alstore.space",
+  "port": 23047,
+  "description": "Anarchy, total freedom for every individual",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134672/banner-134672-1793965950.png",
+  "country": "United States of America",
+  "version": "26.61",
+  "tags": [
+    "Anarchy",
+    "Modded",
+    "War",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134672/"
+}

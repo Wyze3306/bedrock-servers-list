@@ -1,0 +1,21 @@
+{
+  "name": "Minecraft: PE Server",
+  "ip": "51.38.205.167",
+  "port": 13847,
+  "description": "CoreMC s-2 Lifesteal join now. Mostly Online in night!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "0.15.10 alpha",
+  "website": "http://MChost",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134319/"
+}

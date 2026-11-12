@@ -1,0 +1,24 @@
+{
+  "name": "Linesia V6",
+  "ip": "play.linesia.net",
+  "port": 19132,
+  "description": "Linesia est un serveur Minecraft Mcpe/Bedrock axé sur le mode de jeu KitMap, une expérience divertissante riche en PvP, avec des rencontres de mobs, des sessions de minage et des aventures palpitantes. En plus de cela, notre serveur propose un système de Faction pour des interactions et des batailles épiques entre les joueurs !\n\nLinesia is a Minecraft Mcpe/Bedrock server focused on the KitMap game mode, an entertaining PvP-rich experience featuring mob encounters, mining sessions and thrilling adventures. On top of this, our server features a Faction system for epic interactions and battles between players !",
+  "lang": "fr",
+  "image": "https://minecraftpocket-servers.com/server/114106/banner-114106-1645351202.gif",
+  "country": "France",
+  "version": "26.60",
+  "website": "https://www.linesia.net/",
+  "tags": [
+    "Economy",
+    "Factions",
+    "Minigames",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/114106/"
+}

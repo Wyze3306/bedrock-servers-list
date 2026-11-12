@@ -1,0 +1,26 @@
+{
+  "name": "Bedrock Zenvairo",
+  "ip": "mc.skycloud.es",
+  "port": 19132,
+  "description": "Una network en español ideal para:\n\n- Jugar a las aventuras en solitario o acompañado: Tenemos varios modos de juego con progresión, conocidos como \"Aventuras\". Entre otros, están: BoxPVP, Skyblock, Oneblock, Prison, SMP.\n\n- Jugar a los modos competitivos: Para los aficionados al PVP y para los jugadores más competitivos, tenemos varios juegos donde el objetivo es ser el mejor. Tanto para Bedwars, Skywars, Juegos del Hambre, TheBridge y UHC, tenemos clasificaciones globales.\n\n- Jugar a los minijuegos / modos casuales. Aquellos que solo quieran pasar el rato y divertirse, tienen también una amplia gama de minijuegos divididos en categorias, como los Juegos de TNT, Juegos de Lana, Parkour, Creativo con parcelas, etc...",
+  "lang": "es",
+  "image": "https://minecraftpocket-servers.com/server/131334/banner-131334-1768585670.png",
+  "country": "Spain",
+  "version": "26.63",
+  "website": "https://skycloud.es",
+  "tags": [
+    "Adventure",
+    "BedWars",
+    "Cross-Play",
+    "Minigames",
+    "Prison",
+    "PvP",
+    "Skywars",
+    "SMP",
+    "Survival",
+    "Economy",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131334/"
+}

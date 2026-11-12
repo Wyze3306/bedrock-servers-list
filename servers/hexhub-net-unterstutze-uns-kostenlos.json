@@ -1,0 +1,23 @@
+{
+  "name": "HeXHub.net » Unterstütze uns kostenlos",
+  "ip": "hexhub.net",
+  "port": 19132,
+  "description": "HeXHub.net\n\nHeXHub.net ist ein kleiner Server welchen ich privat nebenbei betreibe und weiter ausbaue. Der Server läuft über ein Bungeecordsystem\n\n(Velocity) und umfasst mehrere unterschiedliche Server mit verschiedene\n\nSpielmodis.\n\nAuf HeXHub.net gibt es ein Server übergreifendes Rechte-, Bann-, Freunde- und Coinsystem.\n\nSurvival\n\nAuf dem Survival Server sind diverse Plugins installiert, welche das Erlebnis verbessern aber keinesfalls das\n\nursprüngliche Vanilla Gameplay maßgeblich ändert. Den Survival Server betreibe ich\n\nseit gut 5 Jahren und habe erst vor kurzem begonnen, daraus ein\n\nBungeecord Server zu machen.\n\nHeXHub.net wird vorrangig ein Vanilla Survival Server bleiben. \n\nAuf dem Survival Server sind dutzende Plugins, hier eine kleine Auslistung:\n\n BetterRTP - Damit kannst du dich zu einer zufälligen Position telepotieren.\n\n BetterStructures - Dungeons und mehr\n\n BlueMap - Eine 3D Livemap\n\n ChestSort - Damit kannst du deine Kisten mit einen Klick sortieren\n\n CoreProtect - Damit können wir alle Aktionen von Spielern nachvollziehen und Rückgängig machen.\n\n DeadChest - Beim sterben entsteht ein Grab mit deinen Items, was du später abholen kannst\n\n Dynmap - Die gute alte Livemap\n\n Elevator - Aufzüge :o\n\n GSit - Damit du etwas sitzen und dich ausruhen kannst ;)\n\n MarriageMaster - Für die wahre Liebe\n\n mcMMO - Leveln und Fähigkeiten\n\n TreeFeller - Richtig Baumefällen\n\n Towny - Gründe ein eigenes Dorf mit Mitspielern\n\n Und vieles mehr!\n\nSkyblock\n\nDer Skyblock Server befindet sich noch in Arbeit. Als Plugin kommt BentoBox BSkyblock.\n\nMan kann mit dem Befehl /Island in guter Skyblock Manier eine eigene Insel\n\nbekommen. Außerdem hat der Server viele Herausforderungen.\n\nMinigames\n\nAktuell sind Murder Mystery und Build Battle verfügbar. Weitere Spielmodis folgen\n\nLivemaps\n\nVanilla Survival:\n\n2D: https://map1.hexhub.net [Dynmap]\n\n3D: https://map2.hexhub.net [Bluemap]\n\nSkyBlock:\n\n2D: https://map3.hexhub.net [Dynmap]\n\n3D: https://map4.hexhub.net [Bluemap]\n\nTechnik\n\nMein Se",
+  "lang": "de",
+  "country": "Germany",
+  "version": "26.63",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Murder Mystery",
+    "PvE",
+    "Skyblock",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "PvP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/126929/"
+}

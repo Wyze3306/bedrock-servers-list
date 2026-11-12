@@ -1,0 +1,21 @@
+{
+  "name": "Radium",
+  "ip": "radium.mcbe.fr",
+  "port": 19177,
+  "description": "Radium est un serveur Minecraft Bedrock PvP Faction proposant une expérience complète mêlant combat, stratégie, économie et progression. Développez votre faction, construisez votre base, affrontez vos adversaires et imposez-vous parmi les plus grandes puissances du serveur. Profitez également de nouvelles plantations, de contenus exclusifs et d’un système de pêche particulièrement développé offrant une véritable progression.",
+  "lang": "fr",
+  "image": "https://minecraftpocket-servers.com/server/134304/banner-134304-1791113507.png",
+  "country": "France",
+  "version": "26.60",
+  "tags": [
+    "Adventure",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134304/"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VerseMC",
+  "ip": "play.versemc.it",
+  "port": 19132,
+  "description": "Server Totalmente Italiano. \n\nPer cercare di ricostruire la community con un progetto serio e duraturo nel tempo!\n\nTi aspettiamo su play.versemc.it 19132 (A BREVE)",
+  "lang": "it",
+  "image": "https://minecraftpocket-servers.com/server/134604/banner-134604-1793531694.png",
+  "country": "Italy",
+  "version": "26.60",
+  "tags": [
+    "Factions",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134604/"
+}

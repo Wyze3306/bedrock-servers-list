@@ -1,0 +1,24 @@
+{
+  "name": "mc.mariscolandia.com",
+  "ip": "mc.mariscolandia.com",
+  "port": 19132,
+  "description": "🌌 Mariscolandia es un servidor de Minecraft con supervivencia, economía, rangos, eventos, misiones y una comunidad en constante crecimiento. Explora, construye, comercia y demuestra tus habilidades en una aventura donde siempre hay algo nuevo por descubrir.\n\nVersión: Java 26.3. ¡Únete a la aventura y forma parte de nuestra historia!",
+  "lang": "es",
+  "country": "Mexico",
+  "version": "26.52",
+  "website": "https://discord.gg/YsbAxH3c4",
+  "discord": "https://discord.gg/YsbAxH3c4",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "Minigames",
+    "PvE",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134558/"
+}

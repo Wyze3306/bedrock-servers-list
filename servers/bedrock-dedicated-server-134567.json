@@ -1,0 +1,20 @@
+{
+  "name": "Bedrock Dedicated Server",
+  "ip": "138.201.48.55",
+  "port": 25720,
+  "description": "A server support minecraft/mastercraft/craftman 0.14.x/0.15.x \n\nThe server is fun and you can play with your friends.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.62",
+  "tags": [
+    "Adventure",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134567/"
+}

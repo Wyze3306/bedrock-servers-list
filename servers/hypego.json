@@ -1,0 +1,21 @@
+{
+  "name": "[...] HypeGO",
+  "ip": "hypego.ru",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "ru",
+  "country": "Russia",
+  "version": "26.60",
+  "website": "http://shop.hypego.ru",
+  "tags": [
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/107911/"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Maintenance",
+  "ip": "AsianUHCs.ddns.net",
+  "port": 3626,
+  "description": "Just A PvP Server",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "0.15.10 alpha",
+  "tags": [
+    "Battle Royale",
+    "Economy",
+    "PvE",
+    "PvP",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134352/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "DeathZone",
+  "ip": "deathzone.mcsrvr.online",
+  "port": 25842,
+  "description": "Zombie Apocalypse Server",
+  "lang": "en",
+  "country": "Philippines",
+  "version": "26.61",
+  "tags": [
+    "Adventure",
+    "Factions",
+    "Guns",
+    "PvE",
+    "PvP",
+    "Raiding",
+    "SMP",
+    "Survival",
+    "Economy",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134560/"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VolexMC Beta",
+  "ip": "play.volexmc.net",
+  "port": 19132,
+  "description": "VolexMC - Gelişmiş Factions, yeni ve ileri seviye özel sistemler,mobil destekli arayüzler ve daha fazlası...",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "26.60",
+  "website": "http://www.volexmc.net",
+  "tags": [
+    "Adventure",
+    "Economy",
+    "Factions",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Cross-Play",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134193/"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "MagmaMC",
+  "ip": "bedrock.magmamc.net",
+  "port": 19132,
+  "description": "MagmaMC 💎 | Java and Bedrock support - Survival Minecraft Server\n\nIP: play.magmamc.net\n\nVersion: 26.1.2\n\nWebsite: https://www.magmamc.net/\n\nDynmap: https://www.magmamc.net/map\n\nDiscord: https://www.magmamc.net/discord\n\nBedrock IP is the same as our java server IP. Keep the bedrock port as the default bedrock port: 19132\n\nServer Rules: https://www.magmamc.net/rules/\n\nCommand-List: https://www.magmamc.net/commands/\n\nServer Ranks: https://www.magmamc.net/ranks/\n\n-----------------------------------------------------------------------------------------\n\nWhy choose us?\n\nMagmaMC originated as a non-pay-to-win Survival server, which sets us apart. We offer the same types of ranks as pay-to-win servers, Use /rankup in-game to see how long it will take to Level up.\n\nOur goal is to remain a payment-free Survival server. We have already established a fantastic community of friendly users who can assist you.\n\nWith years of Server experience, we know what we're doing and are solely focused on providing the authentic Survival Experience our players expect.\n\nTo ensure a safe environment for everyone, we have implemented some strict rules due to the varying ages on our server. everyone.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.63",
+  "website": "https://www.magmamc.net/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Vote Reward",
+    "Adventure"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/110260/"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "A Minecraft server",
+  "ip": "stablearch.joinmc.world",
+  "port": 47481,
+  "description": "This is vannila server. The perfect server to play on after a rough day. to avoid getting lost type /sethome at your base and type /tpa (playername) to teleport to a player. Use diamonds or netherite to set bounties on players. You can explore build fight your way to become the best player on the server.",
+  "lang": "en",
+  "country": "India",
+  "version": "26.63",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134372/"
+}

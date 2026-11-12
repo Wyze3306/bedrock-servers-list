@@ -1,0 +1,25 @@
+{
+  "name": "AT Hub Server",
+  "ip": "play.at-hub.net",
+  "port": 19132,
+  "description": "A Minecraft Bedrock server that brings together building, exploration, and competition within a welcoming community for everyone.\n\n🏦 Collect Dinars and manage your wealth through the bank, transfers, and a personal vault.\n\n🪵 Trade wood in a dynamic economy where prices shift based on supply and demand.\n\n🤝 Form alliances with your friends and establish your place in the world.\n\n🏆 Compete for the top spot in seasonal leaderboards and track your stats and profile on our website.\n\nStart your adventure and build a story worth telling.\n\n🌐 How to join: at-hub.net",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134280/banner-134280-1789508061.jpg",
+  "country": "Saudi Arabia",
+  "version": "26.60",
+  "website": "https://at-hub.net",
+  "tags": [
+    "Economy",
+    "Factions",
+    "Modded",
+    "PvP",
+    "Raiding",
+    "SMP",
+    "Survival",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134280/"
+}

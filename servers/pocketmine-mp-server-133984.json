@@ -1,0 +1,21 @@
+{
+  "name": "PocketMine-MP Server",
+  "ip": "slayne-mcpe.fr",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.40",
+  "tags": [
+    "Factions",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133984/"
+}

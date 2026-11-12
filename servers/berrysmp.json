@@ -1,0 +1,23 @@
+{
+  "name": "BerrySMP",
+  "ip": "pe.berrysmp.net",
+  "port": 19132,
+  "description": "Welcome to BerrySMP!\n\nOur community is super friendly and we all love to play on BerrySMP: a java + bedrock crossplay server that utilizes a custom resource pack, custom terrain generation, custom features, and is frequently updated with new content & new Minecraft releases!\n\nWe strive to take suggestions from the community and make changes to benefit all of our players.\n\nIf joining on bedrock/console/phone, use IP org.berrysmp.net and Port 19132",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://store.berrysmp.net",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "Minigames",
+    "PvE",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/127347/"
+}

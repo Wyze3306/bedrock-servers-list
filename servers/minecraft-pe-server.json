@@ -1,0 +1,24 @@
+{
+  "name": "Minecraft: PE Server",
+  "ip": "DreamMC.sodn.online",
+  "port": 3250,
+  "description": "A Survival Server Has a Lot of Fun.Enjoy The Server by playing it.\n\nVisit our Website https://dreammcofficial.netlify.app",
+  "lang": "en",
+  "country": "India",
+  "version": "0.15.10 alpha",
+  "website": "https://dreammcofficial.netlify.app",
+  "tags": [
+    "BedWars",
+    "Minigames",
+    "Skywars",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133719/"
+}

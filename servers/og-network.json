@@ -1,0 +1,24 @@
+{
+  "name": "OG Network",
+  "ip": "og-network.net",
+  "port": 19132,
+  "description": "The OG Network is a minecraft server dedicated to reviving the old style minecraft experience. We are not pay2win, and focus on the player rather than money. We currently have survival games, SMP and challengers on our server, both with many features that have not been seen in years. Come check us out!",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/115995/banner-115995.gif",
+  "country": "United States of America",
+  "version": "26.63",
+  "website": "https://og-network.net",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Hunger Games",
+    "Minigames",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/115995/"
+}

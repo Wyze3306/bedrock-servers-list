@@ -1,0 +1,24 @@
+{
+  "name": "DarkGames Network",
+  "ip": "play.darkgames.club",
+  "port": 19132,
+  "description": "¡Tu próxima aventura comienza aquí! Explora nuestros modos, juega con amigos y construye tu historia.\n\n🌳 Survival: crea tu clan, construye tu base y protege tus terrenos. Compra y vende objetos, participa en el mercado de jugadores y demuestra tu habilidad en la zona PvP.\n\n⚔️ Survival Anárquico: sobrevive, explora y enfréntate a otros jugadores en un mundo sin protecciones de terrenos. ¡Gana coins por tus victorias!\n\n✨ Progreso y personalización: sube de nivel, consigue XP, mantén tu racha diaria y disfruta de partículas, alas y auras según tu rango.\n\n🏆 Estadísticas, tops, kits por rango y una comunidad por descubrir.",
+  "lang": "es",
+  "country": "Mexico",
+  "version": "26.50",
+  "website": "http://darkgames.club",
+  "tags": [
+    "Adventure",
+    "Economy",
+    "Minigames",
+    "Parkour",
+    "PvE",
+    "PvP",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134455/"
+}

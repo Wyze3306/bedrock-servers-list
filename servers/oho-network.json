@@ -1,0 +1,21 @@
+{
+  "name": "OHO Network",
+  "ip": "play.ohoth.com",
+  "port": 19132,
+  "description": "OHOTH is a Thai-themed Survival SMP that you can play on both Java and Bedrock (PC, mobile and console) with the same IP: play.ohoth.com\n\nSpawn in a hand-built Thai temple hub, then RTP into a fresh world and build your home. Claim your land so nobody can grief it, earn money, trade with other players in the Auction House, buy and sell at the server shop, and open crates for rewards.\n\n- Java & Bedrock cross-play (Bedrock port 19132)\n\n- Land claims and grief protection\n\n- Player economy, Auction House and Shop\n\n- Vote rewards: money + Vote Crate keys every day\n\n- Anti-cheat and daily backups\n\n- Fair play: the store sells cosmetics only, no pay-to-win\n\nThai and English players welcome! เซิร์ฟไทย เล่นได้ทั้งคอมและมือถือ มาเล่นด้วยกันนะ!",
+  "lang": "th",
+  "country": "Thailand",
+  "version": "26.51",
+  "website": "http://www.ohoth.com",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134377/"
+}

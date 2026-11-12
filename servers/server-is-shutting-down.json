@@ -1,0 +1,22 @@
+{
+  "name": "Server is Shutting down..",
+  "ip": "play.starcrestmc.net",
+  "port": 17330,
+  "description": "We are a new and upcoming towny-style server with kitpvp, plots, bedwars, survival and more, our goal is to be 100% non-p2w through and through, we cant wait to see you!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "Minecraft Java",
+  "tags": [
+    "Adventure",
+    "Creative",
+    "Economy",
+    "PvP",
+    "Skyblock",
+    "Vanilla",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/132750/"
+}

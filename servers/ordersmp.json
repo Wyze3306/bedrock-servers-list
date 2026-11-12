@@ -1,0 +1,22 @@
+{
+  "name": "OrderSMP",
+  "ip": "ordersmp.net",
+  "port": 19132,
+  "description": "Welcome, citizen. OrderSMP is a free survival server run by the Order: a calm, slightly too organized administration that keeps a record of everything. It counts chickens, inspects dirt houses and approves haircuts. Mostly it watches four factions fight over one world, in Sector Survival, the gamemode we built for this server.\n\nThe world is split into four quarters, with the Order city in the middle:\n\n• Accord talks first and keeps every deal.\n\n• Crescent wins with money and trade.\n\n• Grove farms, builds and helps its neighbours.\n\n• Bastion builds walls and holds the front line.\n\nPick your side in the lobby, then go to work.\n\n» Land that really changes hands\n\nThere are no land claims. Build, mine, farm and fight near your faction's border and your faction earns points there. When your side is strong enough next to a rival region of 64 by 64 blocks, a front opens and a 24-hour siege begins, ending in a last stand. Win it and the region turns your colour on the live map. You can help from your first day; no rank needed. Fronts and sieges run now; sector captures open at our official launch, announced in Discord.\n\n» Ranked PvP and bounties\n\nWin fights to climb from LT5 up to HT1. Beating a player of your rank or higher gives the most points. Much weaker players give little or nothing. Put coins on a rival's head with /bounty.\n\n» A market run by players\n\nSell with /ah or /sell and post buy orders with /orders. Players set every price. Your trade is on record.\n\n» Mayors and politics\n\nEach faction has one mayor: the first citizen to take the empty seat at the hub. The mayor gives the orders. Deals, wars and betrayals are up to you.\n\n» Also in the world\n\nSpawners you can mine and stack, homes, /tpa and /rtp, local chat with /yell and /global, and proximity voice chat for Java players with the Simple Voice Chat mod.\n\nBedrock on port 19132 and Java 1.21 up to the latest release, in the same world. Creator-friendly: staff help plan series and events, and creators can get an a",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.63",
+  "website": "https://www.ordersmp.net/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Factions",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134550/"
+}

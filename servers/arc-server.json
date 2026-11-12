@@ -1,0 +1,24 @@
+{
+  "name": "ARC Server",
+  "ip": "play.atherices.com",
+  "port": 19132,
+  "description": "SkyBlock and more!",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "26.60",
+  "website": "https://atherices.com",
+  "tags": [
+    "Adventure",
+    "Economy",
+    "Factions",
+    "PvE",
+    "PvP",
+    "Skyblock",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133782/"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tularia",
+  "ip": "play.tularia.fr",
+  "port": 19132,
+  "description": "Tularia est un serveur mcpe qui vous propose plusieurs modes de jeu avec pleins de nouveautés et d'ajout pour plaire à la communauté. \n\nNous essayons toujours de proposer le meilleur serveur à tous nos joueurs. \n\nNous avons actuellement deux serveur:\n\n - Faction\n\n - Practice\n\nN'hésite pas à nous rejoindre pour découvrir plus en profondeur.\n\nSite: https://tularia.fr/\n\nDiscord: https://tularia.fr/discord\n\nNotre hébergeur: https://lordhosting.fr/",
+  "lang": "fr",
+  "country": "France",
+  "version": "1.21.100",
+  "website": "https://tularia.fr/",
+  "tags": [
+    "Economy",
+    "Factions",
+    "PvP",
+    "Skyblock",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/101733/"
+}

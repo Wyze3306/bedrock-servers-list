@@ -1,0 +1,24 @@
+{
+  "name": "Cobblemon Bedrock",
+  "ip": "play.cobblemonbedrock.com",
+  "port": 19132,
+  "description": "Cobblemon for Bedrock and Java players: catch, train and battle Pokémon together!\n\nNote: This is not a Bedrock port. The server runs the Cobblemon mod on Java Edition, and Bedrock players join through our own version of Geyser.\n\nCobblemon Bedrock runs the Cobblemon mod for Bedrock and Java players together on one world. Join from your phone, tablet or PC and the resource packs download on their own. Java players use our free modpack from cobblemonbedrock.com.\n\nWhat you can do\n\n- Catch and train Pokémon with Cobblemon's models, animations, battles and evolutions\n\n- Take on 18 gyms for badges and higher level caps\n\n- Follow the Quest Book and hunts for PokéCoins and rewards\n\n- Trade on the GTS, try Wonder Trade or trade with friends\n\n- Claim land, set homes and build your base\n\n- Daily rewards, crates and a Vote Crate key for your votes\n\nJoin: play.cobblemonbedrock.com, port 19132\n\nDiscord: discord.gg/cobblemonbedrock",
+  "lang": "en",
+  "country": "Canada",
+  "version": "26.60",
+  "website": "https://cobblemonbedrock.com",
+  "discord": "https://discord.gg/cobblemonbedrock",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "Modded",
+    "PvE",
+    "Survival",
+    "Vote Reward",
+    "PvP",
+    "SMP",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134493/"
+}

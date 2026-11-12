@@ -1,0 +1,24 @@
+{
+  "name": "WindPvP - https://windpvp.com",
+  "ip": "mps.windpvp.com",
+  "port": 19132,
+  "description": "Hello everyone!\n\nI've been working on a Minecraft server that is very different from most of the ones you see.\n\nInstead of the typical Minecraft survival experience, we aim to provide competitive minigames, many of which are classic gamemodes that have since been shut down. Currently, we have:\n\nCapture the Flag - once found on MCPVP/Brawl\n\nKitPvP - inspired by LemonCloud's old KitPvP gamemode\n\nDuels - custom coded game\n\nI'm looking for feedback to see how I can improve and grow the server! If you have the time, I would greatly appreciate any thoughts or advice.\n\nIP: mps.windpvp.com\n\nYou can find a quick guide here: windpvp.com/wiki/welcome\n\nAnd let me know what you think on our Discord server! discord.gg/yV4BdtbtxU\n\nThanks!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://windpvp.com/wiki/welcome",
+  "discord": "https://discord.com/invite/yV4BdtbtxU",
+  "tags": [
+    "Capture The Flag",
+    "KitPvP",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133119/"
+}

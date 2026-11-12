@@ -1,0 +1,23 @@
+{
+  "name": "PowerNukkitX Server",
+  "ip": "palakitmap.eu",
+  "port": 19136,
+  "description": "Aucune description.",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.50",
+  "website": "https://palakitmap.wh-web.fr/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Factions",
+    "Modded",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134333/"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PocketMine-MP Server",
+  "ip": "play.legionmc.uk",
+  "port": 19132,
+  "description": "Legion Network is a friendly and fun-loving community with Gamemodes for everyone to play! We support both Java and Bedrock players. We make sure we do our best to create a safe & fun community for everyone to enjoy! We also focus on fair gameplay",
+  "lang": "en",
+  "country": "United Kingdom",
+  "version": "26.50",
+  "website": "https://store.legionmc.uk/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "SMP",
+    "Survival",
+    "TNT Run",
+    "Vote Reward",
+    "PvP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/129484/"
+}

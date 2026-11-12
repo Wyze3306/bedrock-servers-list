@@ -1,0 +1,24 @@
+{
+  "name": "Server is online",
+  "ip": "play.miranasmp.com",
+  "port": 19132,
+  "description": "MiranaSMP is a bedrock survival server hosted in Singapore, with low ping for players in the Singapore, Malaysia, Indonesia, Thailand, India, Vietnam, Brunei, Japan, Philippines, South Korea, Hong Kong, Taiwan, Australia and New Zealand. Players from anywhere are welcome. \n\nThe goal is not to reinvent Minecraft. It's still survival, still exploring and building and punching trees, just with a few quality of life features so griefing and lag don't ruin it:\n\n- Land claiming with /claim or using golden shovel\n\n- Skill system, just to sprinkle with RPG element to the server\n\n- Teleport commands like /tpa and /sethome\n\n- Player-driven shop system utilizing chests\n\nYou can also suggest more features ingame or in discord. We are still figuring out how this server will turn out.\n\nRight now, there are no server rules beyond the Minecraft EULA. That's partly because we're small enough that common sense and basic respect are doing the job, and partly because I'd rather build the rules around the actual community once one exists, instead of guessing in advance.\n\nSo if you've been looking for a server where you're not joining after all the good land is claimed and every group already has their shenanigan, that is that window. Come help shape what this place turns into.\n\nPC, Mobile:\n\nServer: play.miranasmp.com\n\nPort: 19132\n\nConsole, etc:\n\nAdd \"MiranaSMP\" as a friend inside Bedrock Edition and join from there.\n\nDiscord: https://discord.gg/6N4yDsyCxV\n\nWebsite: https://miranasmp.com\n\nHope to see you there!",
+  "lang": "en",
+  "country": "Singapore",
+  "version": "26.63",
+  "website": "https://miranasmp.com",
+  "tags": [
+    "Adventure",
+    "Anarchy",
+    "PvE",
+    "PvP",
+    "Realms",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Economy",
+    "Cross-Play",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134137/"
+}

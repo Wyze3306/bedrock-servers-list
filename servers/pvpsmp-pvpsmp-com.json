@@ -1,0 +1,23 @@
+{
+  "name": "PVPSMP - pvpsmp.com",
+  "ip": "mcps.pvpsmp.net",
+  "port": 19132,
+  "description": "PVPSMP is a dual-mode server network with one shared economy and a ton of great features. Players can choose and easily switch between Lifesteal/PVP or Surivival/SMP depending on their personal play style and preferences. We're building a solid community of good people, one player at a time. Join us to battle, build, farm, grind, or just to relax.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.52",
+  "website": "https://www.pvpsmp.com",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "LifeSteal",
+    "PvE",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134051/"
+}

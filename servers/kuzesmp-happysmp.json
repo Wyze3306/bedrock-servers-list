@@ -1,0 +1,21 @@
+{
+  "name": "KuzeSMP + HappySMP",
+  "ip": "49.12.82.39",
+  "port": 25906,
+  "description": "este es un nuevo servidor SMP",
+  "lang": "es",
+  "country": "Venezuela",
+  "version": "0.15.10 alpha",
+  "tags": [
+    "LifeSteal",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134217/"
+}

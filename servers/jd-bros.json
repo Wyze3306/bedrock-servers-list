@@ -1,0 +1,23 @@
+{
+  "name": "JD Bros",
+  "ip": "play.jdbros.de",
+  "port": 19132,
+  "description": "Wir bieten dir ein unverwechselbares Erlebnis auf unserem Citybuild Server exklusiv für die Bedrock Edition!\n\nMit eigenem Wirtschaftssystem, Truhenshops u.v.m. hast du die Möglichkeit mit anderen Spielern durch und durch zu interagieren.\n\nWas bedeutet \"Citybuild\"?\n\nCitybuild beschreibt ein System, wo ein Spieler eigene Grundstücke beanspruchen und mit anderen oder alleine bebauen kannst.\n\nAuf unserem Server kannst du sogar Grundstücke (genannt Plots) miteinander verbinden!\n\nNeben diesem Modus bieten wir dir auch den Freebuild-Modus, in welchem du in einer normalen Vanilla-Welt Bereiche beanspruchen und dort dann dein bis zu 301x301 großes Reich errichten kannst.\n\nMit unserer auf Discord 2000 Mitglieder großen Community hast du auch genügend Mitspieler zum handeln, spielen und Spaß haben.",
+  "lang": "de",
+  "image": "https://minecraftpocket-servers.com/server/131494/banner-131494-1771448439.jpg",
+  "country": "Germany",
+  "version": "26.60",
+  "website": "https://www.jdbros.de/startseite",
+  "tags": [
+    "Economy",
+    "Factions",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131494/"
+}

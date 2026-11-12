@@ -1,0 +1,22 @@
+{
+  "name": "CL0CKER",
+  "ip": "cl0cker.jp",
+  "port": 19132,
+  "description": "A Simple PvP Practice Server.",
+  "lang": "ja",
+  "image": "https://minecraftpocket-servers.com/server/134237/banner-134237-1789046318.jpg",
+  "country": "Japan",
+  "version": "26.60",
+  "tags": [
+    "Cross-Play",
+    "Practice",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134237/"
+}

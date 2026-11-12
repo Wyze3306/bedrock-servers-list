@@ -1,0 +1,21 @@
+{
+  "name": "[ASTS]Allen跨平台插件伺服器",
+  "ip": "mc.asts.tw",
+  "port": 19132,
+  "description": "Discord: https://go.asts.tw/dc",
+  "lang": "zh",
+  "country": "Taiwan",
+  "version": "26.63",
+  "website": "https://asts.tw/?lang=auto",
+  "tags": [
+    "Economy",
+    "Survival",
+    "Vote Reward",
+    "PvP",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/125281/"
+}

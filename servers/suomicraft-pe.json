@@ -1,0 +1,29 @@
+{
+  "name": "SuomiCraft PE",
+  "ip": "suomicraftpe.ddns.net",
+  "port": 19132,
+  "description": "SuomiCraft PE is a Finnish Minecraft Bedrock Edition server featuring various minigames and gamemodes.\n\nWe have on the server:\n\n- Survival world with homes, land protection and economy shop\n\n- Factions where griefing is allowed\n\n- Creative plots\n\n- Lots of parkour levels\n\n- Kit PvP world with kit builder\n\n- BedWars\n\n- SkyWars\n\n- TNTRun\n\n- Spleef with shovels and snowballs\n\n- ColorMatch single and multiplayer\n\n- LuckyBlocks with over 100 unique surprises\n\n- Special cosmetics for top voters\n\n- Multiversion support: play using the version you like the most\n\nAnd more is coming! Join our Discord server to stay up to date with the latest news: https://discord.gg/FBDFGFp6UJ",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/62318/banner-62318-1603624827.gif",
+  "country": "Finland",
+  "version": "26.60",
+  "website": "https://suomicraftpe.ddns.net/",
+  "discord": "https://discord.gg/FBDFGFp6UJ",
+  "tags": [
+    "BedWars",
+    "Creative",
+    "Factions",
+    "PvP",
+    "Skywars",
+    "Spleef",
+    "Survival",
+    "TNT Run",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/62318/"
+}

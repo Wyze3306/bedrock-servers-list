@@ -1,0 +1,23 @@
+{
+  "name": "Minecraft: PE Server",
+  "ip": "game.ikymas.my.id",
+  "port": 40477,
+  "description": "You can build in here!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "0.14.3 alpha",
+  "tags": [
+    "Creative",
+    "Practice",
+    "Roleplay",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134234/"
+}

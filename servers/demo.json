@@ -1,0 +1,26 @@
+{
+  "name": "Demo",
+  "ip": "worldpe.ddns.net",
+  "port": 19132,
+  "description": "A server on which you can fight, survive, feel nostalgic and much more! Come on in, it's always fun here!",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/127277/banner-127277-1720532667.png",
+  "country": "Russia",
+  "version": "0.8.1 alpha",
+  "website": "https://worldpe.rf.gd",
+  "tags": [
+    "Economy",
+    "Hunger Games",
+    "Minigames",
+    "PvP",
+    "Skywars",
+    "Survival",
+    "TNT Run",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/127277/"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LemonCloud",
+  "ip": "mps.lemoncloud.net",
+  "port": 19132,
+  "description": "Welcome to LemonCloud! Our awesome gamemodes:\n\nPrison\n\nFactions\n\nSkyblock\n\nCreative\n\nKitPvP\n\nSurvival\n\nJoin now! @\n\nIP: mps.lemoncloud.net\n\nWebsite: www.lemoncloud.org\n\nStore: store.lemoncloud.org",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.63",
+  "website": "https://lemoncloud.org",
+  "tags": [
+    "Cross-Play",
+    "Factions",
+    "LifeSteal",
+    "Prison",
+    "Raiding",
+    "Skyblock",
+    "Skywars",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/122787/"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Serveur Minecraft Bedrock",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "ip", "port", "description", "lang"],
+  "properties": {
+    "name": { "type": "string", "minLength": 1, "maxLength": 100 },
+    "ip": { "type": "string", "minLength": 1, "maxLength": 255, "description": "IP ou nom de domaine, sans le port" },
+    "port": { "type": "integer", "minimum": 1, "maximum": 65535, "default": 19132 },
+    "description": { "type": "string", "maxLength": 2000 },
+    "lang": { "type": "string", "pattern": "^[a-z]{2}(-[A-Z]{2})?$", "description": "Code langue ISO 639-1 (fr, en, es, pt-BR...)" },
+    "image": { "type": "string", "description": "URL https de la banniere ou du logo" },
+    "country": { "type": "string", "maxLength": 100 },
+    "version": { "type": "string", "maxLength": 30 },
+    "website": { "type": "string" },
+    "discord": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string", "maxLength": 40 }, "uniqueItems": true },
+    "source": { "type": "string", "description": "Page d'origine sur minecraftpocket-servers.com (si importe)" }
+  }
+}

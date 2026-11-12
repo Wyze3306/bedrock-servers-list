@@ -1,0 +1,21 @@
+{
+  "name": "Solstad",
+  "ip": "solstad.kildal.net",
+  "port": 19132,
+  "description": "Vanilla bedrock server, restarted every night @4 CET for backup and upgrade build. Has been running from about Bedrock 1.16.10. It has Hardware enough behind it, since its vanilla server, I make no guarantee about its resilience against abuse.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/121635/banner-121635-1794224561.png",
+  "country": "Norway",
+  "version": "26.63",
+  "tags": [
+    "Survival",
+    "Vanilla",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/121635/"
+}

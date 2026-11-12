@@ -1,0 +1,27 @@
+{
+  "name": "Venity Network",
+  "ip": "play.venitymc.com",
+  "port": 19132,
+  "description": "Venity Network is a Minecraft Bedrock server network that features multiple game modes, including BedWars, SkyWars, TheBridge, CrystalPvP, Fireball Fight, BedFight, and Duels.\n\nGame Modes & Features:\n\n• BedWars – Team up or solo to protect your bed while trying to destroy your enemies’ beds.\n\n• SkyWars – Battle other players on floating islands until one remains standing.\n\n• TheBridge – Fast 1v1 or 2v2 on narrow bridges where speed and skill dominate.\n\n• CrystalPvP – Intense PvP mode focused on quick combat and strategy.\n\n• Duels – Classic 1v1 or 2v2 PvP battles to test your skills directly against opponents.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/96869/banner-96869-1664453311.gif",
+  "country": "Indonesia",
+  "version": "26.60",
+  "website": "https://www.venitymc.com",
+  "tags": [
+    "BedWars",
+    "Minigames",
+    "Practice",
+    "PvE",
+    "PvP",
+    "Skywars",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/96869/"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sVanilla Survival",
+  "ip": "corn.gg",
+  "port": 19132,
+  "description": "sVanilla Survival goes back to the roots of what a Semi-Vanilla SMP should be. Vanilla, with few quality of life modifications. We're dedicated to providing the old-school SMP experience, with a large map that never resets, no land claims, and most importantly - crystal free PvP.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.63",
+  "website": "http://corn.gg",
+  "tags": [
+    "PvE",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/119023/"
+}

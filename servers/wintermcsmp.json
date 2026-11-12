@@ -1,0 +1,21 @@
+{
+  "name": "WINTERMCSMP",
+  "ip": "51.161.84.202",
+  "port": 25654,
+  "description": "Aucune description.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "0.15.10 alpha",
+  "tags": [
+    "LifeSteal",
+    "SMP",
+    "Survival",
+    "PvP",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134395/"
+}

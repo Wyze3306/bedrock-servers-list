@@ -1,0 +1,20 @@
+{
+  "name": "Stelar Survival v0.15 - S 1 Halloween",
+  "ip": "stelar.sytes.net",
+  "port": 25888,
+  "description": "Un servidor de survival mixto, con rankup y economía y mucho más que ofrece una experiencia vanilla para 0.15.10 y 0.14.x",
+  "lang": "es",
+  "country": "Mexico",
+  "version": "0.15.10 alpha",
+  "tags": [
+    "Adventure",
+    "Survival",
+    "Vanilla",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134320/"
+}

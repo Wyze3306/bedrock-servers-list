@@ -1,0 +1,24 @@
+{
+  "name": "Deadray",
+  "ip": "deadray.org",
+  "port": 19132,
+  "description": "Small community-based survival server running the same map since at least 2016.\n\nJoin us on Discord",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "discord": "https://discord.gg/uZZqWKuu5p",
+  "tags": [
+    "Economy",
+    "LifeSteal",
+    "Parkour",
+    "PvP",
+    "Roleplay",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/128192/"
+}

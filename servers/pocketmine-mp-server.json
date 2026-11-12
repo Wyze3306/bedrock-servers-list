@@ -1,0 +1,23 @@
+{
+  "name": "PocketMine-MP Server",
+  "ip": "2.192.197.161",
+  "port": 19132,
+  "description": "Server di tigre96tbf\n\nDopo che Dany ha chiuso il suo server (Il Dany Game Server) la maggior parte degli staffers di quest'ultimo si è trasferita su questo magnifico server\n\nVISITA IL NOSTRO NUOVO FORUM: giochiamo.ml",
+  "lang": "it",
+  "image": "https://minecraftpocket-servers.com/server/30671/banner-30671-1487180985.gif",
+  "country": "Europe",
+  "version": "1.21.70",
+  "tags": [
+    "Economy",
+    "Factions",
+    "Parkour",
+    "PvP",
+    "Survival",
+    "Vanilla",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/30671/"
+}

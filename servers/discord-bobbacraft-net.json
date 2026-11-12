@@ -1,0 +1,23 @@
+{
+  "name": "discord.bobbacraft.net",
+  "ip": "jogar.bobbacraft.net",
+  "port": 19132,
+  "description": "O Bobbacraft é um servidor de Minecraft brasileiro focado em survival multiplayer (SMP), com estilo semi-vanilla e compatibilidade entre Java e Bedrock. Jogadores no PC e celular podem participar do mesmo mundo para explorar, coletar recursos, construir bases e evoluir sozinhos ou com amigos.\n\nA experiência preserva a base do survival tradicional e evita exigir que novos jogadores aprendam uma economia complexa ou acompanhem uma agenda de eventos antes de começar. O Discord reúne as instruções de entrada, a verificação da conta, avisos, versões compatíveis e o suporte da comunidade.\n\nNome: Bobbacraft\n\nModo principal: Survival multiplayer (SMP)\n\nEstilo: Semi-vanilla / quase vanilla\n\nComunidade: Brasileira, em português\n\nCompatibilidade: Minecraft Java e Bedrock\n\nIP Java e Bedrock: jogar.bobbacraft.net\n\nPorta Bedrock: 19132\n\nSite oficial: https://www.bobbacraft.net/\n\nDiscord oficial: https://discord.bobbacraft.net/\n\nO Bobbacraft é uma comunidade independente e não é afiliado, aprovado ou operado pela Mojang Studios ou Microsoft. Para jogar, é necessário possuir acesso válido ao Minecraft.",
+  "lang": "pt-BR",
+  "image": "https://minecraftpocket-servers.com/server/132720/banner-132720-1770672244.jpg",
+  "country": "Brazil",
+  "version": "26.60",
+  "website": "https://www.bobbacraft.net",
+  "tags": [
+    "Survival",
+    "Vanilla",
+    "Anarchy",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/132720/"
+}

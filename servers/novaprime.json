@@ -1,0 +1,23 @@
+{
+  "name": "NovaPrime",
+  "ip": "play.npbe.net",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/91215/banner-91215-1602500710.gif",
+  "country": "United States of America",
+  "version": "26.30",
+  "website": "https://npbe.net",
+  "tags": [
+    "Adventure",
+    "Economy",
+    "PvP",
+    "Skyblock",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Cross-Play",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/91215/"
+}

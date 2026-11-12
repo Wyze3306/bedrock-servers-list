@@ -1,0 +1,22 @@
+{
+  "name": "Asteron SMP",
+  "ip": "play.overclocksmp.com",
+  "port": 19132,
+  "description": "A minecraft bedrock public economy server using Blurry's Java PvP. Team with other players and become the richest player!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "http://overclocksmp.com",
+  "tags": [
+    "Anarchy",
+    "SMP",
+    "Vanilla",
+    "Survival",
+    "PvP",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133966/"
+}

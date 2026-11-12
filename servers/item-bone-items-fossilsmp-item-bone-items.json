@@ -1,0 +1,23 @@
+{
+  "name": "[item/bone@items] FossilSMP [item/bone@items]",
+  "ip": "pe.fossilsmp.de",
+  "port": 19132,
+  "description": "FossilSMP – Survival trifft auf die Welt der Dinosaurier!\n\nWillkommen auf FossilSMP, einem besonderen Minecraft-SMP, das klassisches Survival mit einer umfangreichen Spielerwirtschaft und einem einzigartigen Dinosaurier-System verbindet!\n\nHier entscheidest du, wie du spielen möchtest. Baue dir eine beeindruckende Base, werde zum erfolgreichen Händler, sammle seltene Ressourcen, erforsche Dinosaurier oder widme dich komplett deiner eigenen Dino-Sammlung. Egal, ob du alleine startest oder gemeinsam mit Freunden spielst – auf FossilSMP gibt es immer etwas zu entdecken.\n\nDEIN EIGENES SURVIVAL-ABENTEUER\n\nStarte dein Abenteuer in einer offenen Minecraft-Welt und erschaffe dir dein eigenes Zuhause. Sammle Holz, Stein, Erze und andere Ressourcen, erkunde die Welt und baue dir Schritt für Schritt eine immer größere Existenz auf.\n\nDoch FossilSMP ist mehr als nur normales Survival. Deine gesammelten Ressourcen können dir dabei helfen, dein eigenes Vermögen aufzubauen und im Laufe der Zeit immer bessere Möglichkeiten zu nutzen.\n\nEINE WIRTSCHAFT, IN DER JEDES ITEM ZÄHLT\n\nAuf FossilSMP besitzt jedes Item einen eigenen Wert. Dadurch können selbst scheinbar gewöhnliche Ressourcen wichtig werden.\n\nDu möchtest schnell Geld verdienen? Nutze [code]/sell[/code], um deine Items direkt zu verkaufen.\n\nDu suchst ein ganz bestimmtes Item? Mit [code]/order[/code] kannst du gezielt nach Gegenständen suchen und sie von anderen Spielern erwerben.\n\nDu hast etwas Seltenes gefunden? Stelle es im [code]/auctionhouse[/code] zum Verkauf und finde einen anderen Spieler, der bereit ist, dafür zu bezahlen.\n\nSo entsteht eine echte Spielerwirtschaft, bei der Handel, Angebot und Nachfrage eine wichtige Rolle spielen.\n\nDIE WELT DER DINOSAURIER\n\nDas besondere Feature von FossilSMP sind natürlich die Dinosaurier.\n\nErforsche verschiedene Dinosaurier-Arten, entdecke ihre DNA und erweitere deine persönliche Sammlung. Dabei gibt es immer neue Arten zu entdecken und neue Ziele, auf die du hinarbeiten kannst.\n\nVom k",
+  "lang": "de",
+  "country": "Germany",
+  "version": "26.60",
+  "website": "https://fossilsmp.de/#/",
+  "tags": [
+    "Adventure",
+    "Economy",
+    "PvE",
+    "PvP",
+    "Raiding",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Cross-Play",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134379/"
+}

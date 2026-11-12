@@ -1,0 +1,23 @@
+{
+  "name": "ʚ ESKMC NETWORK (1.17 - 26.x) ɞ",
+  "ip": "eskmc.net",
+  "port": 19132,
+  "description": "Servidor de BoxPvP con una gran variedad, entra y prueba!",
+  "lang": "es",
+  "country": "United States of America",
+  "version": "26.62",
+  "website": "https://tienda.eskmc.net/",
+  "tags": [
+    "BoxPvP",
+    "Minigames",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133989/"
+}

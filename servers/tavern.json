@@ -1,0 +1,22 @@
+{
+  "name": "Tavern",
+  "ip": "tavernmc.net",
+  "port": 19132,
+  "description": "Dive into a unique survival experience where PVPers and PVErs thrive! Level up your skills, battle epic bosses, conquer dungeons, and collect custom items with powerful abilities. Compete in exciting events to win huge cash prizes. Start your adventure today on Tavern!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://tavernmc.net",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "PvE",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/129968/"
+}

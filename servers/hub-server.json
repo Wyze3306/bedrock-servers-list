@@ -1,0 +1,23 @@
+{
+  "name": "HUB Server",
+  "ip": "mc.vatonage.com",
+  "port": 19132,
+  "description": "The Vatonage Network is a modded Minecraft Bedrock server with multiple game modes to choose from, including Cobblemon, One Block, and Create.\n\nCatch and train Pokémon in Cobblemon, build your way up from a single block in One Block, or mess around with machines and automation in Create. There’s always something different to play depending on what you’re into.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134157/banner-134157-1788207177.png",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://vatonage.com/",
+  "tags": [
+    "Modded",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134157/"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bedrock Dedicated Server",
+  "ip": "moonveilmc.my.id",
+  "port": 19258,
+  "description": "MoonveilMC is an Indonesian survival server with a unique and fun gameplay experience.\n\nEnjoy custom enchantments, economy, farming, PvP, McMMO, and many exciting features with an active community.\n\nBuild your own kingdom and start your adventure on MoonveilMC today",
+  "lang": "en",
+  "country": "Indonesia",
+  "version": "26.61",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vote Reward",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133343/"
+}

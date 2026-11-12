@@ -1,0 +1,20 @@
+{
+  "name": "&quot;A Minecraft Server&quot;",
+  "ip": "play.asteriamc.my.id",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "id",
+  "country": "Indonesia",
+  "version": "26.60",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134620/"
+}

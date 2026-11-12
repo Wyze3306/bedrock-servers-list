@@ -1,0 +1,25 @@
+{
+  "name": "CELESTIA KITMAP !",
+  "ip": "play.celestiamc.fr",
+  "port": 19132,
+  "description": "Célestia KitMap V1",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "website": "http://celestiamc.fr",
+  "tags": [
+    "Capture The Flag",
+    "Creative",
+    "Economy",
+    "Factions",
+    "PvE",
+    "PvP",
+    "SMP",
+    "Vanilla",
+    "Survival",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/130174/"
+}

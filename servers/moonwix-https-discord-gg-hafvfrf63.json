@@ -1,0 +1,26 @@
+{
+  "name": "MoonWix https://discord.gg/haFVFRF63",
+  "ip": "moonwixmc.minecraft.pe",
+  "port": 27698,
+  "description": "MoonWix 0.14.3 - 0.15.10 Minigames Server",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "0.15.10 alpha",
+  "website": "http://magmanode",
+  "tags": [
+    "BedWars",
+    "LifeSteal",
+    "Minigames",
+    "PvP",
+    "Skyblock",
+    "Skywars",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133381/"
+}

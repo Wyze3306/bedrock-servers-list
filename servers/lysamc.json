@@ -1,0 +1,25 @@
+{
+  "name": "LysaMC",
+  "ip": "play.lysamc.net",
+  "port": 19132,
+  "description": "Welcome to LysaMC - A Minecraft Network for Everyone\n\nSomething for every player. Multiple game modes, active community and always growing.\n\nJava and Bedrock welcome! Running 1.21+ with cross-version support.\n\nJava: lysamc.net\n\nBedrock: lysamc.net (Port: 19132)\n\nDiscord: discord.gg/Mr4DMjRH4Q\n\nStore: store.lysamc.net\n\nGame Modes:\n\nSkyblock\n\nBuild your island from scratch with custom minions, jobs, dungeons, daily rewards,\n\ncustom enchants, pets and farming tools. Compete on the island leaderboard!\n\nAnarchy / LifeSteal\n\nNo rules, no mercy. PvP with LifeSteal mechanics where you steal hearts\n\nfrom your enemies. Raid, grief and survive in total freedom.\n\nRPG / Elite Mobs + Dungeons\n\nAdventure through custom dungeons, fight elite bosses and collect epic loot.\n\nFull RPG experience with progression, gear and challenging encounters.\n\nLobby / Minigames\n\nYour hub to all game modes. Hang out, check crates, and jump into\n\nminigames while you wait for friends.\n\nNetwork Features:\n\nCross-server chat and global tab list\n\nCrate keys and vote rewards on every server\n\nPlayer economy and shops\n\nSkill progression with mcMMO\n\nJava and Bedrock crossplay\n\nVote daily on sites for free rewards\n\nFriendly community, dedicated host. Join today and start your adventure!",
+  "lang": "en",
+  "country": "Sweden",
+  "version": "26.50",
+  "website": "https://store.lysamc.net",
+  "tags": [
+    "Adventure",
+    "Anarchy",
+    "Creative",
+    "LifeSteal",
+    "Minigames",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133167/"
+}

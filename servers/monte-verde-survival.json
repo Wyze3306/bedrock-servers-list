@@ -1,0 +1,21 @@
+{
+  "name": "MONTE VERDE SURVIVAL",
+  "ip": "play.monteverdesurvival.com.br",
+  "port": 9078,
+  "description": "Monte Verde Survival é um servidor brasileiro de Minecraft Bedrock focado em sobrevivência séria, exploração e progressão sem pay-to-win.\n\nO servidor roda 24 horas e conta com proteção de terrenos, pets, rankings, perfis de jogadores, conquistas, sistema de progressão, eventos e integração com site próprio.\n\nA proposta é oferecer uma experiência survival mais raiz, com dificuldade Hard, comunidade brasileira e evolução baseada no jogo.",
+  "lang": "pt-BR",
+  "country": "Brazil",
+  "version": "26.50",
+  "website": "http://www.monteverdesurvival.com.br",
+  "tags": [
+    "Adventure",
+    "Survival",
+    "Vanilla",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134173/"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "A Velocity Server",
+  "ip": "mps.melonmc.org",
+  "port": 25565,
+  "description": "Discover MelonMC, a welcoming survival server built around community, creativity, and fun.\n\nPlay Minecraft the way you love it with protected land, unique cosmetics, adorable pets, furniture, and a friendly community always ready to welcome new players. No matter your playstyle or experience level, everyone is invited to join, build, and enjoy the adventure.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/133727/banner-133727-1783792911.png",
+  "country": "United States of America",
+  "version": "Minecraft Java",
+  "website": "https://store.melonmc.org",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Economy",
+    "Roleplay",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Vote Reward",
+    "PvP"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133727/"
+}

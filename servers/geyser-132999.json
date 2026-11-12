@@ -1,0 +1,24 @@
+{
+  "name": "Geyser",
+  "ip": "bedrockanarchy.org",
+  "port": 19132,
+  "description": "BedrockAnarchy is a vanilla anarchy server for bedrock edition with a map that never resets. There are no set rules so hacking and griefing is allowed.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "http://bedrockanarchy.org",
+  "tags": [
+    "Adventure",
+    "Anarchy",
+    "Factions",
+    "PvE",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Economy",
+    "Cross-Play",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/132999/"
+}

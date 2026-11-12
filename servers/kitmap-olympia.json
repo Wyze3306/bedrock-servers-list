@@ -1,0 +1,22 @@
+{
+  "name": "Kitmap Olympia",
+  "ip": "play.olympiamcbe.com",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "tags": [
+    "Economy",
+    "Factions",
+    "Modded",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134461/"
+}

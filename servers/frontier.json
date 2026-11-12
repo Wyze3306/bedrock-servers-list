@@ -1,0 +1,24 @@
+{
+  "name": "Frontier",
+  "ip": "play.thefrontiermc.net",
+  "port": 19132,
+  "description": "Build nations, forge alliances, wage war, and govern your own citizens. Rules are primarily enforced by players, meaning justice is shaped by the community. Every decision has consequences, and the history of the world is written by players like you.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.62",
+  "website": "http://thefrontiermc.net",
+  "tags": [
+    "Modded",
+    "PvP",
+    "Raiding",
+    "Roleplay",
+    "SMP",
+    "Survival",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134027/"
+}

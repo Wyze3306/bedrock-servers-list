@@ -1,0 +1,22 @@
+{
+  "name": "HANZU NETWORK 1.8 → 1.21+",
+  "ip": "hanzumc.com",
+  "port": 19132,
+  "description": "HANZU MC - Vietnamese Minecraft network for Bedrock & Java\n\nHANZU MC is a Vietnamese Minecraft network that welcomes players on both Bedrock Edition (latest version) and Java Edition (1.8 - 1.21+).\n\nSKYBLOCK\n\nStart on your own private island and grow it into an empire. Upgrade your ore generators through 70 levels, hire minions, trade with other players and keep everything organised in your storage. Take on 5-tier dungeons with your friends, hunt world bosses, collect pets and power up your gear with custom enchants. Each season brings a new Game Pass full of rewards.\n\nSURVIVAL SMP\n\nTeam up with friends, fight in PvP, level up your skills, collect tags and join regular KOTH and Envoy events. Collect spawners and spend your shards in the shard shop.\n\nCOMMUNITY\n\nFrequent updates, a friendly community and a 24/7 helper bot in game and on Discord.\n\nHOW TO JOIN\n\nBedrock: hanzumc.com - port 19132\n\nJava: hanzumc.com\n\nDiscord: https://discord.gg/hanzumc\n\n----------\n\nHANZU MC - cụm máy chủ Minecraft Việt Nam, hỗ trợ cả Bedrock và Java. Skyblock: đảo riêng, minion, trade, pet, Phó Bản 5 bậc, boss thế giới. SMP Sinh Tồn: PvP, skills, tags, sự kiện KOTH/Envoy. Cộng đồng thân thiện, bot hỗ trợ 24/7.",
+  "lang": "en",
+  "country": "Vietnam",
+  "version": "26.60",
+  "discord": "https://discord.gg/hanzumc",
+  "tags": [
+    "Cross-Play",
+    "PvP",
+    "Skyblock",
+    "SMP",
+    "Survival",
+    "Economy",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134635/"
+}

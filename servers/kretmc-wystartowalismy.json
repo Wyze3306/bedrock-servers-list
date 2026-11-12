@@ -1,0 +1,23 @@
+{
+  "name": "KretMC → wystartowaliśmy!",
+  "ip": "play.kretmc.pl",
+  "port": 19132,
+  "description": "KretMC.pl - Najlepszy serwer Minecraft!\n\nMinecraft Bedrock: play.kretmc.pl port: 19132\n\nWersja: 1.8-1.20\n\nIlosc slotow: 500\n\nTryby:\n\n- Earth SMP\n\n- BoxPVP\n\n- MegaDrop\n\nPosiadamy najlepsze zabezpieczenia, dzięki czemu nie odczujesz żadnych lagów!",
+  "lang": "pl",
+  "country": "Poland",
+  "version": "26.60",
+  "website": "https://www.kretmc.pl",
+  "tags": [
+    "BoxPvP",
+    "Earth",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/124752/"
+}

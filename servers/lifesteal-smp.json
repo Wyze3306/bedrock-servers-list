@@ -1,0 +1,25 @@
+{
+  "name": "LIFESTEAL SMP",
+  "ip": "mps.lifestealsmp.com",
+  "port": 19132,
+  "description": "We are a semi-vanilla Minecraft server with a unique feature where you can steal hearts from other players. PvP is allowed and players can steal or raid other bases.\n\nWhen you kill someone, you gain +0.5 heart, while the killed player loses -0.5 heart. There is a maximum limit of 20 hearts and a minimum limit of 10 hearts, where you no longer lose hearts.\n\nWe host events at weekends for in-game prizes! We also host giveaways for amazing items, such as ranks, Nitro, and more.\n\nJoin our Discord: https://discord.gg/lifestealsmp\n\nIP: lifestealsmp.com \n\n(Bedrock Port 19132)",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/129496/banner-129496-1791382372.png",
+  "country": "United Kingdom",
+  "version": "26.62",
+  "website": "https://store.lifestealsmp.com",
+  "tags": [
+    "Cross-Play",
+    "LifeSteal",
+    "PvE",
+    "PvP",
+    "Raiding",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Economy",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/129496/"
+}

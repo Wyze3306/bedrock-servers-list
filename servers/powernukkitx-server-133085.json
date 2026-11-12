@@ -1,0 +1,25 @@
+{
+  "name": "PowerNukkitX Server",
+  "ip": "volt.mcbe.fr",
+  "port": 19132,
+  "description": "Le meilleur kitmap en 2026 !",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "tags": [
+    "Factions",
+    "Modded",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "Adventure",
+    "Battle Royale",
+    "BedWars",
+    "BlockHunt",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133085/"
+}

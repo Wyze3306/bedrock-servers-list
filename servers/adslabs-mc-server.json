@@ -1,0 +1,21 @@
+{
+  "name": "ADSLabs MC Server",
+  "ip": "bedrock.adslabs.dev",
+  "port": 19132,
+  "description": "ADSLabs SMP: Bedrock Survival\n\nA survival multiplayer server for Minecraft Bedrock Edition. Play from Windows, Xbox, PlayStation, Switch, iOS or Android in a shared survival world.\n\nVersion: latest Bedrock (it updates automatically)\n\nSlots: 150\n\nHosting: a dedicated server, so it should run without lag\n\nGameplay: survival, close to the normal game [difficulty: Normal/Hard]\n\nRules: No griefing, no stealing, no cheats or hacked clients, and be respectful in chat. [add any others]\n\nHow to join: go to Servers, then Add Server.\n\nAddress: bedrock.adslabs.dev\n\nPort: 19132\n\nConsole players (Xbox, PlayStation, Switch) can’t add custom servers without a workaround such as BedrockTogether or a DNS trick.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134606/banner-134606-1793329487.png",
+  "country": "United States of America",
+  "version": "26.63",
+  "tags": [
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "PvP",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134606/"
+}

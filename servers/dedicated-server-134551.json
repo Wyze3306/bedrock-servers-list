@@ -1,0 +1,22 @@
+{
+  "name": "Dedicated Server",
+  "ip": "Battlescape.mc.gg",
+  "port": 25565,
+  "description": "A KitPvP where every Kit is uniquely created and balanced- each of which have special abilities and promote using a specific playstyle! This KitPvP will also host events and have other minigames to do that's not just PvP! We plan on having a huge variety of unique Kits that allow you to play in many different ways!",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/134551/banner-134551-1792552011.png",
+  "country": "United States of America",
+  "version": "26.63",
+  "tags": [
+    "KitPvP",
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134551/"
+}

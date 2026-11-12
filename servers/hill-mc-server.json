@@ -1,0 +1,24 @@
+{
+  "name": "Hill MC Server",
+  "ip": "play.hillsmp.com",
+  "port": 19132,
+  "description": "Hill SMP Minecraft server 🌳 Survival & 💀 Lifesteal • 💰 Economy • ⚔ PvP & Events • 🛡 Friendly Staff • Build, trade, and fight your way to the top!",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/131563/banner-131563-1754717580.png",
+  "country": "United Kingdom",
+  "version": "1.21.100",
+  "website": "https://hillsmp.com",
+  "tags": [
+    "Economy",
+    "LifeSteal",
+    "PvE",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131563/"
+}

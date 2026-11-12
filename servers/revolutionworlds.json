@@ -1,0 +1,28 @@
+{
+  "name": "RevolutionWorlds",
+  "ip": "revolutionworlds.xyz",
+  "port": 19132,
+  "description": "Servidor de MiniGames Versão Bedrock e Java\n\nTNTRUN\n\nPARKOUR\n\nFACTIONS\n\nPVP\n\nSKYWARS\n\nBEDWARS\n\nBUILDBATTLE\n\nHIDE AND SEEK\n\nEntre Outros MiniGames",
+  "lang": "pt-BR",
+  "country": "Brazil",
+  "version": "26.60",
+  "website": "http://revolutionworlds.xyz",
+  "tags": [
+    "Adventure",
+    "BedWars",
+    "BlockHunt",
+    "Build Battle",
+    "Capture The Flag",
+    "Minigames",
+    "Parkour",
+    "Skywars",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134546/"
+}

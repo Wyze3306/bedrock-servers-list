@@ -1,0 +1,20 @@
+{
+  "name": "PocketMine-MP Server",
+  "ip": "82.153.202.184",
+  "port": 19134,
+  "description": "** # Elyndra V5 ** \n\n*Elyndra est un serveur KitMap Bedrock fondé en 2025. Dont version 4 qui a déjà rassemblé plus de 1000 joueurs uniques !*\n\n*Elyndra vous propose une grande variété d’items exclusifs, ainsi que des événements quotidiens (minage, farming, PvP, etc.). Pour les amateurs de sensations fortes, **un casino complet** est disponible : blackjack, machines à sous, mines, dragon ladder et bien plus encore !\n\nLe serveur offre également un **PvP très apprécié**, avec d'excellents knockback et des fight dynamique qui ne s’éternisent pas. Enfin, l’économie est simple et efficace, basée principalement sur le farming et le PvP, les kbs ici sont tellement bien que même si vous êtes contre un joueur avec du ping, vous ne le sentirez presque pas!*\n\n**Toujours pas convaincu ? Pas grave ! Viens faire un tour sur Elyndra, tu ne le regretteras pas.**",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.50",
+  "tags": [
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133659/"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PELAR Bedrockis",
+  "ip": "mc.pelar.ee",
+  "port": 19132,
+  "description": "Pelar on kõige vanem tegutsev Minecrafti server Eestis! \n\nMeid tuntakse kogenud meeskonna, mõnusa mängijaskonna ja huvitava mängimiskogemuse poolest. Mõned meeskonnaliikmed on olnud Pelari tiimis üle 14 aasta - see loob Pelarisse stabiilse ja kaalutletud keskkonna!\n\nEhitusvõistlused, väljakutseid täis autorank, PVP Netheris ja Endis, livemap, hommikuni kestvad discordi kõned - kõik see toimub Pelaris igapäevaselt!\n\nOleme ka esimene server Eestis, mida saab mängida arvutis, telefonis, tahvelarvutis ja VRis!",
+  "lang": "en",
+  "country": "Estonia",
+  "version": "26.63",
+  "website": "http://pelar.ee",
+  "tags": [
+    "Economy",
+    "Minigames",
+    "Survival",
+    "Vanilla",
+    "PvP",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/129126/"
+}

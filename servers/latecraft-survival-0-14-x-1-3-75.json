@@ -1,0 +1,26 @@
+{
+  "name": "LateCraft Survival 0.14.X #1 3/75",
+  "ip": "a.latecraft.ru",
+  "port": 19150,
+  "description": "LateCraft is a server created in 31.05.2020 by player Lituty. Currently, the available modes are Anarchy, Survival, and Mini-Games.\n\nAnarchy has a different port (19180) than the Survival server (19150).\n\nCurrently, all available mini-games are:\n\nBedWars, SkyWars, Spleef, and Cave.\n\nThe available main warps are /warp pvp and /warp mine.\n\nCurrently, the server is administered by two players:\n\nLituty - Server Owner (main server file and security manager)\n\nZaSto (formerly Filip_Games) - Lower file manager, server administrator, and head of server moderators. (Written by this post)\n\nContact:\n\nt.me/filip_liduch (ZaSto)\n\nt.me/lituty (server creator - pls dont spam to him ngl)\n\nMain server channel: t.me/latecraft\n\nYoutube channel: https://youtube.com/@latecraftofficialchannel1900?si=4wAg68v4IUW7YbHQ\n\nMain IP adress: latecraft.ru\n\nPorts:\n\n19180 - anarchy\n\n19150 - survival\n\nThanks for reading this post and i invite you to join us!",
+  "lang": "en",
+  "country": "Russia",
+  "version": "0.14.3 alpha",
+  "website": "http://none",
+  "tags": [
+    "BedWars",
+    "Factions",
+    "Parkour",
+    "PvP",
+    "Skyblock",
+    "Spleef",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133076/"
+}

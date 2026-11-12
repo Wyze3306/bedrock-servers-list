@@ -1,0 +1,25 @@
+{
+  "name": "LEATplex",
+  "ip": "mc.leatplex.net",
+  "port": 19132,
+  "description": "POTSHOT: MAGIC AND MAYHEM UPDATE!\n\nLEATplex is a Minecraft minigames server. We currently support Bedrock Edition 26.5x and Java Edition 26.3, and update as new versions are released.\n\nWe support both Bedrock and Java edition using the Geyser protocol (https://geysermc.org/). You do not need to change the port (use the default, 19132, on Bedrock Edition)!\n\nOur games include Sumo, Duels, Hive Wars, Hungry Games, Potshot, Elementals, PvParkour, TNT Yeeters, Shipwrecked, and more to come. You can earn XP and level up in each of these games, as well as in the whole server!\n\nWe have lifetime, yearly, monthly, weekly, and daily leaderboards for different aspects of all of our games. Have fun competing for first place!\n\nIf you vote for our server you will receive 25 free LEATbux (our in-game currency).\n\nVisit us at https://leatplex.net for more information",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/112454/banner-112454.png",
+  "country": "Canada",
+  "version": "26.60",
+  "website": "http://leatplex.net",
+  "tags": [
+    "Cross-Play",
+    "Hunger Games",
+    "Minigames",
+    "Parkour",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/112454/"
+}

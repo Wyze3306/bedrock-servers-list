@@ -1,0 +1,20 @@
+{
+  "name": "Minecraft: PE Server",
+  "ip": "91.98.80.233",
+  "port": 25928,
+  "description": "Aucune description.",
+  "lang": "en",
+  "country": "Iran",
+  "version": "0.15.10 alpha",
+  "tags": [
+    "SMP",
+    "Survival",
+    "PvP",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134323/"
+}

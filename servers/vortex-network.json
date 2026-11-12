@@ -1,0 +1,24 @@
+{
+  "name": "-/ VORTEX NETWORK -/",
+  "ip": "bedrock.vortexnetwork.net",
+  "port": 19132,
+  "description": "Vortex Network is a space-themed Minecraft server featuring popular game modes such as Prison, Skyblock, Survival and Pixelmon!\n\nIP: bedrock.vortexnetwork.net\n\nDiscord: https://discord.gg/mc",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.52",
+  "website": "https://vortexnetwork.net",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Prison",
+    "PvE",
+    "PvP",
+    "Skyblock",
+    "Survival",
+    "SMP",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/105177/"
+}

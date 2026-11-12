@@ -1,0 +1,21 @@
+{
+  "name": " NAUTICMC BEDROCK",
+  "ip": "bedrock.nauticmc.net",
+  "port": 19132,
+  "description": "Server for Minecraft 1.19.80 Active HCF",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "tags": [
+    "Adventure",
+    "Economy",
+    "Factions",
+    "Survival",
+    "Vote Reward",
+    "PvP",
+    "SMP",
+    "Cross-Play",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/124107/"
+}

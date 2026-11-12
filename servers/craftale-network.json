@@ -1,0 +1,22 @@
+{
+  "name": "Craftale Network",
+  "ip": "oyna.craftalemc.com",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "tr",
+  "country": "Turkey",
+  "version": "26.60",
+  "website": "https://craftalemc.com/",
+  "tags": [
+    "Skyblock",
+    "Vanilla",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134690/"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GoldUHCS-UHC MEETUP",
+  "ip": "GoldUHCs.sytes.net",
+  "port": 19132,
+  "description": "Best server UHC and meetup events",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "0.15.10 alpha",
+  "tags": [
+    "PvP",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134612/"
+}

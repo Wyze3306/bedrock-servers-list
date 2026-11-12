@@ -1,0 +1,23 @@
+{
+  "name": "Dedicated Server",
+  "ip": "smp.triggeredhosts.space",
+  "port": 9257,
+  "description": "JOIN LEAF SMP for Bedrock only gameplay naive support ! \n\nincludes some quality of life mods",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/133651/banner-133651-1785951194.jpg",
+  "country": "India",
+  "version": "26.51",
+  "website": "https://web.nemicorp.space/",
+  "tags": [
+    "Realms",
+    "SMP",
+    "Survival",
+    "PvP",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133651/"
+}

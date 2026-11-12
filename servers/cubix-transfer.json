@@ -1,0 +1,24 @@
+{
+  "name": "Cubix-Transfer",
+  "ip": "cubixstudio.eu",
+  "port": 19132,
+  "description": "Transfering platform, like BCMain\n\nUseFull transfering platform, while adding \"StudioCubix\" as friends",
+  "lang": "fr",
+  "country": "France",
+  "version": "26.60",
+  "website": "https://discord.gg/hydramc",
+  "discord": "https://discord.gg/hydramc",
+  "tags": [
+    "Economy",
+    "Skyblock",
+    "Vanilla",
+    "PvE",
+    "PvP",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/132736/"
+}

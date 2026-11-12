@@ -1,0 +1,24 @@
+{
+  "name": "BCraft",
+  "ip": "jugar.bcraft.cl",
+  "port": 19132,
+  "description": "¡Aventura, libertad y diversión te esperan en BCraft! Explora un mundo lleno de posibilidades, construye tu hogar, protege tus terrenos y disfruta de una experiencia Survival junto a tus amigos.",
+  "lang": "es",
+  "country": "Chile",
+  "version": "26.62",
+  "website": "https://bcraft.cl",
+  "tags": [
+    "Creative",
+    "KitPvP",
+    "OneBlock",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134643/"
+}

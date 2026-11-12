@@ -1,0 +1,21 @@
+{
+  "name": "Kyoto-U (Uji) Minecraft Server",
+  "ip": "98.142.241.156",
+  "port": 19129,
+  "description": "# UJIMC — Kyoto University Open Minecraft Server\n\n**Official Website**\n\nhttps://www.ujimc.cc.cd/\n\nWelcome to **UJIMC**!\n\nUJIMC is an open Minecraft survival server hosted at **Kyoto University's Uji Campus** in Japan and maintained by Kyoto University members. Our goal is to provide a stable, friendly, and international long-term survival community.\n\nWherever you're from, you're welcome to join our world. The community primarily communicates in **English, 日本語, and 中文**, bringing together players from around the globe.\n\n> **This server uses a whitelist system. Please apply for the whitelist before joining.**\n\n---\n\n# Features\n\n* 🌏 **Hosted at Kyoto University Uji Campus**\n\n Located at Kyoto University's Uji Campus in Japan and open to both university members and the public.\n\n* 🌐 **Java & Bedrock Crossplay**\n\n Java and Bedrock Edition players can play together. Multiple versions are supported, with **Java 1.21.6 (Protocol 26.1.2)** recommended. For the best experience, we recommend using the **UJIMC Modpack** available in the community files.\n\n* ⛏️ **Vanilla Survival Experience**\n\n Stay true to vanilla Minecraft without complex economy or RPG systems, focusing on building, exploration, and multiplayer cooperation.\n\n* 🌍 **Three Custom Worlds**\n\n * **Terra** – A vast and natural Overworld, ideal for long-term survival, settlements, and large-scale building.\n\n * **Incendium** – A redesigned Nether featuring dangerous terrain, unique structures, and more challenging exploration.\n\n * **Nullscape** – A reimagined End with spectacular floating landscapes that make exploration even more rewarding.\n\n* ⚙️ **Quality-of-Life Features**\n\n Includes Warp, flight, an online map, earthquake early warning, and other practical features while preserving the vanilla gameplay experience.\n\n* 💬 **International Community**\n\n Players from Kyoto University and around the world play together, with support for **English, 日本語, and 中文**.\n\n---\n\n# Server Addresses\n\n### Recommended (Java / Bedrock)",
+  "lang": "zh",
+  "country": "Japan",
+  "version": "26.52",
+  "website": "https://www.ujimc.cc.cd/",
+  "tags": [
+    "Cross-Play",
+    "SMP",
+    "Survival",
+    "PvP",
+    "Economy",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133912/"
+}

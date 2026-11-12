@@ -1,0 +1,21 @@
+{
+  "name": "FACTIONS",
+  "ip": "play.cosmicmc.lol",
+  "port": 19132,
+  "description": "Servidor Factions",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.50",
+  "tags": [
+    "Factions",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134199/"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "AnyCraft",
+  "ip": "www.anycraft.org",
+  "port": 19132,
+  "description": "Welcome to AnyCraft, a free, public, and semi-vanilla multiplayer Minecraft server available for everyone to play! Please enjoy while respecting other players and properties.\n\nTo join AnyCraft, use the following server information,\n\nAnyCraft Server Address (Primary): www.anycraft.org\n\nAnyCraft Server Address (Backup): www.simonyu.net\n\nAnyCraft Server Port (Java Client): 25565\n\nAnyCraft Server Port (Bedrock Client): 19132\n\nPlease also join our Discord server at https://discord.gg/qFuVxGqJGp for questions, suggestions, support, reporting disrupting behaviors, etc.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/99484/banner-99484-1659905530.png",
+  "country": "United States of America",
+  "version": "26.51",
+  "website": "https://www.anycraft.org",
+  "tags": [
+    "Adventure",
+    "Cross-Play",
+    "Prison",
+    "PvP",
+    "Survival",
+    "Vanilla",
+    "Vote Reward",
+    "Economy",
+    "SMP"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/99484/"
+}

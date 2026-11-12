@@ -1,0 +1,21 @@
+{
+  "name": "Hottes Minecraft server",
+  "ip": "130.180.107.105",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "de",
+  "image": "https://minecraftpocket-servers.com/server/134429/banner-134429-1791074511.jpg",
+  "country": "Germany",
+  "version": "26.52",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134429/"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "VeryCraft SURVIVAL 0.14",
+  "ip": "VeryCraft.mc-serv.fun",
+  "port": 19133,
+  "description": "Looking for a good survival and minigame server? This is the place for you! You'll find mining, PvP, jobs, economy, jobs, kits, and more.",
+  "lang": "en",
+  "country": "Russia",
+  "version": "0.14.3 alpha",
+  "tags": [
+    "BedWars",
+    "Creative",
+    "Economy",
+    "Factions",
+    "KitPvP",
+    "PvP",
+    "Skywars",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134708/"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pigraid",
+  "ip": "pigraid.gg",
+  "port": 19132,
+  "description": "One of the original Minecraft Bedrock Edition servers, we offer a rich KitPvP experience which is not Pay2Win, you can come complete quests, join or create your faction, do parkours, buy nice cosmetics and even more!",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.10",
+  "website": "http://pigraid.gg",
+  "tags": [
+    "Economy",
+    "Factions",
+    "Parkour",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/132907/"
+}

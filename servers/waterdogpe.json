@@ -1,0 +1,26 @@
+{
+  "name": "WaterdogPE",
+  "ip": "play.slmc.ir",
+  "port": 19132,
+  "description": "SkyLine, a PocketMine Minecraft Bedrock server. Experience a fusion of strategic Bedwars competition and a deep, interactive Roleplay environment. Join our community now.",
+  "lang": "en",
+  "country": "Iran",
+  "version": "26.50",
+  "website": "http://slmc.ir",
+  "tags": [
+    "BedWars",
+    "Economy",
+    "Factions",
+    "Guns",
+    "PvP",
+    "Roleplay",
+    "Skyblock",
+    "Vote Reward",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134391/"
+}

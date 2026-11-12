@@ -1,0 +1,23 @@
+{
+  "name": "AtlantikMC",
+  "ip": "oyna.atlantikmc.com.tr",
+  "port": 19132,
+  "description": "AtlantikMC, Gelişmiş Sistemlere sahip bir Survival sunucusudur.\n\nBedrock (Mobil) giriş mevcuttur.\n\nIP: oyna.atlantikmc.com\n\nWebSite: https://atlantikmc.com/\n\nDiscord: https://discord.com/invite/Ub75TrAKcw/",
+  "lang": "pt",
+  "country": "Turkey",
+  "version": "26.63",
+  "website": "https://atlantikmc.com",
+  "tags": [
+    "Earth",
+    "Economy",
+    "LifeSteal",
+    "PvP",
+    "Survival",
+    "Vote Reward",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/126612/"
+}

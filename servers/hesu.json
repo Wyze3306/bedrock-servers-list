@@ -1,0 +1,24 @@
+{
+  "name": "» Hesu! «",
+  "ip": "hesu.org",
+  "port": 19132,
+  "description": "Hesu is the next-gen PvP Practice network.\n\nWe're available on Windows, iOS, Android, PlayStation, Xbox, Nintendo Switch and more!\n\nWe offer 3 regions for you to get the best connectivity possible; Europe, North America & Asia.\n\nWe are also official discord partners! Join our discord server at https://discord.gg/hesu\n\nFrequently asked questions:\n\nHow to join the server?\n\nSimply start Minecraft and add a new server with the following IP & port: hesu.org (Port: 19132)\n\nWhat are the benefits of voting?\n\nYou may vote everyday to get a FREE Voter rank aswell as 300 tokens that can be spent on a cosmetic box.\n\nHow to purchase a rank?\n\nHead over to https://hesu.org/store and purchase any packages that you'd like.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.60",
+  "website": "https://hesu.org/store",
+  "discord": "https://discord.gg/hesu",
+  "tags": [
+    "Knockback FFA",
+    "PvP",
+    "Spleef",
+    "Vote Reward",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/126219/"
+}

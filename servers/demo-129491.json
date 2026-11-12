@@ -1,0 +1,21 @@
+{
+  "name": "Demo",
+  "ip": "simplesurvival.duckdns.org",
+  "port": 19133,
+  "description": "A survival server hosted on MCPE 0.8.1 that uses plugins to simulate an infinite world like newer versions of minecraft. No longer are you limited to a single 256x256 world unlike previous MCPE servers. We have plugins to prevent griefing and improve quality of life on the server. Periodically the world saves will be released so you don't have to worry about losing your builds if the server ever closes. Consider joining today to revive your happy memories of playing on this old version of minecraft!",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/129491/banner-129491-1733612628.png",
+  "country": "United States of America",
+  "version": "0.8.1 alpha",
+  "tags": [
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/129491/"
+}

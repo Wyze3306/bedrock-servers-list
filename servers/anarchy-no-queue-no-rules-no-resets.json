@@ -1,0 +1,23 @@
+{
+  "name": "ANARCHY | no queue · no rules · no resets",
+  "ip": "roosevelt-decker.tun.ply.gg",
+  "port": 45753,
+  "description": "No queue. You connect and you are in. No login queue, no whitelist, no application.\n\nANARCHY is a survival-anarchy server that launched in September 2026. No rules: grief, raid, steal, betray, do what you want. No anticheat, no ban plugins, no admin interference. Nothing is rolled back for player actions and the map is never reset.\n\nBedrock and Java share one world. This is not a Bedrock copy of a Java server. Crossplay runs through Geyser and Floodgate, so a phone, tablet or console player is in the same world, at the same spawn, fighting the same people as everyone on Java. Older Java clients get in through ViaVersion.\n\nDuping is on, and left on deliberately: piston duplication (TNT, rails, carpet and sand-type falling blocks), bedrock breaking so the Nether roof is reachable, headless pistons, and unsafe end portal teleportation.\n\nHard difficulty. PvP always on. 1000 slots, 12 GB dedicated, 16-chunk view and simulation distance, UK host, nightly backups. No ranks, no shop, nothing for sale, and no vote rewards.\n\nBedrock: roosevelt-decker.tun.ply.gg port 45753\n\nJava: roosevelt-shove.tun.ply.gg\n\nSite: https://anarchy.tripletai.co.uk\n\nIt is new, so expect a handful of people online rather than a crowd. That is the trade for getting there before the good ground is gone.",
+  "lang": "en",
+  "country": "United Kingdom",
+  "version": "26.52",
+  "website": "https://anarchy.tripletai.co.uk",
+  "tags": [
+    "Anarchy",
+    "Cross-Play",
+    "PvP",
+    "Raiding",
+    "Survival",
+    "Vanilla",
+    "Economy",
+    "SMP",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134215/"
+}

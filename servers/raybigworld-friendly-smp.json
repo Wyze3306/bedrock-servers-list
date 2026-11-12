@@ -1,0 +1,22 @@
+{
+  "name": "RayBigWorld • Friendly SMP",
+  "ip": "raybigworld.duckdns.org",
+  "port": 19132,
+  "description": "RayBigWorld is a cross-play survival SMP that connects Java and Bedrock players on a single shared world. Built for families and casual builders who want a low-drama place to log in after dinner.\n\nWhat you can expect:\n\n- Pure vanilla survival with quality-of-life additions (one-click homes, sleep-skip, basic kits)\n\n- Proximity voice chat (SimpleVoiceChat) - talk to nearby players in 3D audio\n\n- Live web map updated every few minutes - explore the server from your browser\n\n- Bilingual English + French community\n\n- Active moderation with content filters tuned for younger players\n\n- Daily off-host backups so your builds are never lost\n\n- Java + Bedrock + Console (via Geyser) all play together\n\nWhat we don't do:\n\n- No pay-to-win, no premium ranks, no in-game ads\n\n- No griefing tolerance - region claims protect builds\n\n- No open PVP - fights are opt-in via clearly marked arenas\n\nConnect (Bedrock): raybigworld.duckdns.org (default port, leave blank).\n\nLive map: https://map.raybigworld.duckdns.org/\n\nDiscord: https://discord.gg/5tW5EkVh6c\n\nRun by a small team of friends. Looking for people who want a server that feels like a neighborhood, not a marketplace.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.63",
+  "website": "https://map.raybigworld.duckdns.org/",
+  "tags": [
+    "Cross-Play",
+    "PvE",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Vote Reward",
+    "PvP",
+    "Economy",
+    "Adventure"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/133297/"
+}

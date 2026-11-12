@@ -1,0 +1,23 @@
+{
+  "name": "KingdomCraft-S13",
+  "ip": "server.kingdomcraft.co.nz",
+  "port": 19132,
+  "description": "Kingdomcraft SMP is a Kingdoms Server, we have created our own User Interface so server moderation with staff is not really a requirement.\n\nThe User Interface lets players do the following:\n\nCreate Player plots.\n\nCreate and manage Kingdoms.\n\nCreate kingdom plots, based on mined blocks.\n\nCreate and manage Teleport locations.\n\nCreate and manage Shop plots.\n\nManage what level of storage is protected on your plots.\n\nThe base protection on Kingdomcraft is to a level normally only ever seen on Java Edition.\n\nIn the event that a player does actually mange to get around the Protection (no one has yet) we have Backups and options to repair the damaged areas.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/127883/banner-127883-1723438229.png",
+  "country": "New Zealand",
+  "version": "26.61",
+  "website": "https://kingdomcraft.co.nz",
+  "tags": [
+    "Economy",
+    "Minigames",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/127883/"
+}

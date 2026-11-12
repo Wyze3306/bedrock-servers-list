@@ -1,0 +1,27 @@
+{
+  "name": "Paladium",
+  "ip": "play.paladium-bedrock.fr",
+  "port": 19132,
+  "description": "Aucune description.",
+  "lang": "fr",
+  "image": "https://minecraftpocket-servers.com/server/131953/banner-131953-1760126515.png",
+  "country": "France",
+  "version": "26.50",
+  "website": "https://paladium-pvp.fr/",
+  "tags": [
+    "Adventure",
+    "Battle Royale",
+    "BedWars",
+    "BlockHunt",
+    "Factions",
+    "Modded",
+    "PvP",
+    "Vote Reward",
+    "Survival",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131953/"
+}

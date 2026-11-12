@@ -1,0 +1,22 @@
+{
+  "name": "Dedicated Server",
+  "ip": "citysim.top",
+  "port": 19134,
+  "description": "The most professional social simulation server",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/130132/banner-130132-1739628783.png",
+  "country": "Hong Kong",
+  "version": "26.60",
+  "website": "https://www.citysim.top/PHP/",
+  "tags": [
+    "Economy",
+    "Survival",
+    "PvP",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/130132/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dedicated Server",
+  "ip": "cairo-organisers.tun.ply.gg",
+  "port": 47903,
+  "description": "⚔️ Welcome to Stacia ⚔️\n\nStacia is a progressive dark-fantasy MMORPG built entirely for Minecraft Bedrock! Step into an open world packed with danger, secrets, and endless progression. Forge your path, conquer the darkness, and become a legend.\n\n🌟 Key Features:\n\n• Custom RPG Progression: Level up your skills, unlock active abilities, and customize your build.\n\n• Dungeons & Boss Raids: Party up with friends to conquer dangerous instances and collect legendary loot.\n\n• Epic Gear & Artifacts: Discover rare custom weapons and armor sets with unique magical attributes.\n\n• Player-Driven Economy: Trade rare materials, set up shops, and control the market.",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.52",
+  "tags": [
+    "Adventure",
+    "Economy",
+    "Factions",
+    "Modded",
+    "PvE",
+    "PvP",
+    "Raiding",
+    "Survival",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134497/"
+}

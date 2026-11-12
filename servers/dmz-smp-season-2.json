@@ -1,0 +1,23 @@
+{
+  "name": "DMZ SMP SEASON 2",
+  "ip": "dmzsmp.playwithbao.com",
+  "port": 36824,
+  "description": "This is a semi anarchy server that simulates hardcore mode and has been around for 2 years! Join up!",
+  "lang": "en",
+  "country": "South Africa",
+  "version": "26.61",
+  "website": "https://dmzsmp.netlify.app/",
+  "tags": [
+    "Anarchy",
+    "Hardcore",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Vanilla",
+    "Economy",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134451/"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "⮞ MINECRAFT.SI ⮜",
+  "ip": "play.minecraft.si",
+  "port": 19132,
+  "description": "Slovenski Minecraft Network\n\nSedaj tudi na mobilnih napravah.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/111091/banner-111091-1623443439.gif",
+  "country": "Slovenia",
+  "version": "26.60",
+  "website": "https://minecraft.si/",
+  "tags": [
+    "Cross-Play",
+    "Economy",
+    "Minigames",
+    "PvE",
+    "Skyblock",
+    "Vanilla",
+    "Vote Reward",
+    "Survival",
+    "PvP",
+    "SMP",
+    "Adventure"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/111091/"
+}

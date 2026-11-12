@@ -1,0 +1,24 @@
+{
+  "name": "HerGert",
+  "ip": "mc.hergert.sbs",
+  "port": 19132,
+  "description": "O HerGert é um servidor de sobrevivência brasileiro, feito pra jogar com calma e construir sua cidade com a galera.\n\nO que tem lá dentro:\n\n- Terrenos protegidos: compre seu pedaço de chão e ninguém mexe no que é seu\n\n- Baús trancados\n\n- Economia com o Yon: venda o que você coleta, abra sua loja e compre dos outros no mercado\n\n- mcMMO com 18 habilidades e ranking, quem é o melhor ganha prêmio\n\n- Eventos, arena de PvP separada e missões diárias\n\n- Conquistas e uma carteira de morador com seu perfil no Discord\n\nEntra pelo PC (Java) ou pelo celular, Xbox e console (Bedrock), sem precisar de conta original no celular.",
+  "lang": "pt-BR",
+  "image": "https://minecraftpocket-servers.com/server/134617/banner-134617-1793450841.png",
+  "country": "Brazil",
+  "version": "26.60",
+  "website": "https://hergert.sbs",
+  "tags": [
+    "Cross-Play",
+    "Minigames",
+    "PvP",
+    "Survival",
+    "TNT Run",
+    "Vote Reward",
+    "Economy",
+    "SMP",
+    "Adventure",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134617/"
+}

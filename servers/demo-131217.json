@@ -1,0 +1,22 @@
+{
+  "name": "Demo",
+  "ip": "alphastone.ddns.net",
+  "port": 19132,
+  "description": "AlphaStone is a vanilla server for playing on the old version of Minecraft PE Alpha 0.9.5.\n\nWe aim to preserve the atmosphere of vanilla gameplay, so there are no unnecessary plugins on the server that could interfere with enjoying the gaming experience. Here, you can immerse yourself in the original world of Alpha 0.9.5 and savor its simplicity and enchanting atmosphere.\n\nThe server is running the latest version of the modified NostalgiaCore core, which ensures a comfortable gaming experience. The server features working mobs, rails, and the Nether reactor.",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/131217/banner-131217-1751023485.png",
+  "country": "Ukraine",
+  "version": "0.8.1 alpha",
+  "website": "https://alphastone-mcpe.github.io/",
+  "tags": [
+    "Adventure",
+    "Survival",
+    "Vanilla",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/131217/"
+}

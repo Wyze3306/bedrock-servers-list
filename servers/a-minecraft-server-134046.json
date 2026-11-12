@@ -1,0 +1,20 @@
+{
+  "name": "A Minecraft Server",
+  "ip": "mi.nodowa.lat",
+  "port": 19132,
+  "description": "Un servidor vanilla bedrock",
+  "lang": "en",
+  "country": "United States of America",
+  "version": "26.63",
+  "tags": [
+    "Vanilla",
+    "Survival",
+    "PvP",
+    "Economy",
+    "SMP",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/134046/"
+}

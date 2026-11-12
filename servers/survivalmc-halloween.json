@@ -1,0 +1,25 @@
+{
+  "name": "SurvivalMC - Halloween",
+  "ip": "SurvivalMC.minecraft.pe",
+  "port": 10698,
+  "description": "Fully Survival!!!",
+  "lang": "en",
+  "image": "https://minecraftpocket-servers.com/server/132821/banner-132821-1771758495.png",
+  "country": "Bangladesh",
+  "version": "0.15.10 alpha",
+  "website": "https://discord.gg/M4VHcGPxz9",
+  "discord": "https://discord.gg/M4VHcGPxz9",
+  "tags": [
+    "Economy",
+    "Factions",
+    "Parkour",
+    "PvP",
+    "SMP",
+    "Survival",
+    "Cross-Play",
+    "Adventure",
+    "Vote Reward",
+    "Vanilla"
+  ],
+  "source": "https://minecraftpocket-servers.com/server/132821/"
+}
