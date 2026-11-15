@@ -48,7 +48,7 @@ curl -s https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/ser
 ## Server list
 
 <!-- SERVERS:START -->
-**659 servers** · languages: `en` 393, `fr` 45, `id` 39, `tr` 38, `es` 32, `de` 28, `pt-BR` 22, `ru` 17, `zh` 10, `vi` 6, `pl` 6, `ja` 4
+**660 servers** · languages: `en` 393, `fr` 46, `id` 39, `tr` 38, `es` 32, `de` 28, `pt-BR` 22, `ru` 17, `zh` 10, `vi` 6, `pl` 6, `ja` 4
 
 | Server | IP | Port | Lang | Description |
 |---|---|---|---|---|
@@ -474,6 +474,7 @@ curl -s https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/ser
 | [NullMC](https://nullmc.net) | `play.nullmc.net` | `19132` | en | NullMC Network  A competitive Minecraft network built for players who enjoy survival, strategy, and large-scale PvP. ... |
 | [Nusantarabatu](https://linktr.ee/nusantarabatu) | `nusantarabatu.id` | `19132` | id | NusantaraBatu \| 1.20 - Latest  Survival -New Gamemode Coming soon  Ip Java : nusantarabatu.id  IP Bedrock : nusantar... |
 | [Nutellaserv](https://www.nutellaserv.fr) | `play.nutellaserv.fr` | `19132` | fr | NutellaServ.fr ❀ Mini-Jeux  Nous sommes un serveur Mini-Jeux reprenant l'interface de la version Java, avec des fonct... |
+| Néphelia | `nephelia.fr` | `19132` | fr | Néphelia est un serveur Minecraft Bedrock français : KitMap, faction, skyblock et PvP, avec des îles de faction à déf... |
 | [OasysPE](https://oasys-pe.com) | `oasys-pe.com` | `19132` | en | Bester Play2Earn-Server für Minecraft: Bedrock Edition. Jetzt beitreten!  Server mit einem Klick hinzufügen -> https:... |
 | [ObiSky](https://discord.gg/VtA2sRrQ9f) | `play.obisky.com` | `19132` | en | Welcome to ObiSky!  ObiSky is an upcoming community-based Minecraft: Bedrock Edition server! Our goal is to create a ... |
 | [OG Network](https://og-network.net) | `og-network.net` | `19132` | en | The OG Network is a minecraft server dedicated to reviving the old style minecraft experience. We are not pay2win, an... |

@@ -1,0 +1,16 @@
+{
+  "name": "Néphelia",
+  "ip": "nephelia.fr",
+  "port": 19132,
+  "description": "Néphelia est un serveur Minecraft Bedrock français : KitMap, faction, skyblock et PvP, avec des îles de faction à défendre et à attaquer.\n\nNéphelia is a French Minecraft Bedrock server: KitMap, factions, skyblock and PvP, with faction islands to defend and raid.",
+  "lang": "fr",
+  "country": "France",
+  "discord": "https://discord.gg/nephelia",
+  "tags": [
+    "Factions",
+    "Skyblock",
+    "PvP",
+    "Raiding"
+  ],
+  "source": "https://serveur-minecraft-vote.fr/serveurs/nephelia.1481/"
+}

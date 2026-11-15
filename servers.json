@@ -12629,6 +12629,29 @@
     "source": "https://minecraftpocket-servers.com/server/132213/"
   },
   {
+    "id": "nephelia",
+    "name": "Néphelia",
+    "ip": "nephelia.fr",
+    "port": 19132,
+    "lang": "fr",
+    "description": "Néphelia est un serveur Minecraft Bedrock français : KitMap, faction, skyblock et PvP, avec des îles de faction à défendre et à attaquer.\n\nNéphelia is a French Minecraft Bedrock server: KitMap, factions, skyblock and PvP, with faction islands to defend and raid.",
+    "image": "",
+    "logo": "",
+    "cover": "",
+    "gallery": [],
+    "country": "France",
+    "version": "",
+    "website": "",
+    "discord": "https://discord.gg/nephelia",
+    "tags": [
+      "Factions",
+      "Skyblock",
+      "PvP",
+      "Raiding"
+    ],
+    "source": "https://serveur-minecraft-vote.fr/serveurs/nephelia.1481/"
+  },
+  {
     "id": "oasyspe",
     "name": "OasysPE",
     "ip": "oasys-pe.com",
