@@ -22,5 +22,11 @@
   ],
   "source": "https://minecraftpocket-servers.com/server/129466/",
   "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/crispy-network.png",
-  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/crispy-network.jpg"
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/crispy-network.jpg",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/crispy-network-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/crispy-network-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/crispy-network-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/crispy-network-3.jpg"
+  ]
 }

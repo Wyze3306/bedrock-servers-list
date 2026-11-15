@@ -21,5 +21,11 @@
   ],
   "source": "https://minecraftpocket-servers.com/server/128700/",
   "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/waria-roleplay.png",
-  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/waria-roleplay.jpg"
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/waria-roleplay.jpg",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/waria-roleplay-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/waria-roleplay-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/waria-roleplay-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/waria-roleplay-3.jpg"
+  ]
 }

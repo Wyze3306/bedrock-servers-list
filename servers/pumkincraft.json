@@ -20,5 +20,10 @@
   ],
   "source": "https://minecraftpocket-servers.com/server/126170/",
   "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/pumkincraft.png",
-  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/pumkincraft.jpg"
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/pumkincraft.jpg",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/pumkincraft-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/pumkincraft-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/pumkincraft-2.jpg"
+  ]
 }

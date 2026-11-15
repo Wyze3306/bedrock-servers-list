@@ -19,5 +19,11 @@
     "Cross-Play",
     "Adventure"
   ],
-  "source": "https://minecraftpocket-servers.com/server/131913/"
+  "source": "https://minecraftpocket-servers.com/server/131913/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/og-smp-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/og-smp-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/og-smp-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/og-smp-3.jpg"
+  ]
 }

@@ -20,5 +20,11 @@
   ],
   "source": "https://minecraftpocket-servers.com/server/131614/",
   "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/daedric.png",
-  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/daedric.jpg"
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/daedric.jpg",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/daedric-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/daedric-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/daedric-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/daedric-3.jpg"
+  ]
 }

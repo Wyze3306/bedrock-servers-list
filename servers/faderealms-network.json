@@ -20,5 +20,11 @@
     "Adventure"
   ],
   "source": "https://minecraftpocket-servers.com/server/116992/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/faderealms-network.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/faderealms-network.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/faderealms-network-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/faderealms-network-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/faderealms-network-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/faderealms-network-3.jpg"
+  ]
 }

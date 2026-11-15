@@ -23,5 +23,11 @@
   ],
   "source": "https://minecraftpocket-servers.com/server/115360/",
   "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/cosmosmc.png",
-  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/cosmosmc.jpg"
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/cosmosmc.jpg",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/cosmosmc-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/cosmosmc-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/cosmosmc-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/cosmosmc-3.jpg"
+  ]
 }

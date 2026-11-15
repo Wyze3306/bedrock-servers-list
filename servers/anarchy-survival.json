@@ -21,5 +21,9 @@
     "Vote Reward"
   ],
   "source": "https://minecraftpocket-servers.com/server/128033/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/anarchy-survival.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/anarchy-survival.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/anarchy-survival-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/anarchy-survival-1.jpg"
+  ]
 }

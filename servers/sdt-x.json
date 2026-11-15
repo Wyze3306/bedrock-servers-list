@@ -20,5 +20,11 @@
     "Vote Reward",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/134506/"
+  "source": "https://minecraftpocket-servers.com/server/134506/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/sdt-x-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/sdt-x-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/sdt-x-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/sdt-x-3.jpg"
+  ]
 }

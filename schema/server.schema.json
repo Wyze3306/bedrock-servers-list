@@ -13,6 +13,7 @@
     "image": { "type": "string", "description": "https URL of a banner or logo" },
     "logo": { "type": "string", "description": "https URL of the server's square logo (art/logos/, filled by scripts/fetch_art.py)" },
     "cover": { "type": "string", "description": "https URL of a wide picture of the server (art/covers/, filled by scripts/fetch_art.py)" },
+    "gallery": { "type": "array", "maxItems": 4, "items": { "type": "string" }, "description": "https URLs of a few more wide pictures of the server (art/gallery/, filled by scripts/fetch_art.py)" },
     "country": { "type": "string", "maxLength": 100 },
     "version": { "type": "string", "maxLength": 30 },
     "website": { "type": "string" },

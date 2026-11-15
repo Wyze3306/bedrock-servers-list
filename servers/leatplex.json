@@ -22,5 +22,9 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/112454/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/leatplex.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/leatplex.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/leatplex-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/leatplex-1.jpg"
+  ]
 }

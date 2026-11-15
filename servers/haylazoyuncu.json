@@ -19,5 +19,9 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/133577/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/haylazoyuncu.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/haylazoyuncu.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/haylazoyuncu-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/haylazoyuncu-1.jpg"
+  ]
 }

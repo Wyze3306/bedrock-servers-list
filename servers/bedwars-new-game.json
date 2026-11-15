@@ -21,5 +21,8 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/87450/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/bedwars-new-game.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/bedwars-new-game.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/bedwars-new-game-0.jpg"
+  ]
 }

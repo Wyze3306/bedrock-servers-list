@@ -20,5 +20,11 @@
     "Vote Reward",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/133892/"
+  "source": "https://minecraftpocket-servers.com/server/133892/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/provanas-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/provanas-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/provanas-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/provanas-3.jpg"
+  ]
 }

@@ -24,5 +24,8 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/122003/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/blurkit.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/blurkit.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/blurkit-0.jpg"
+  ]
 }

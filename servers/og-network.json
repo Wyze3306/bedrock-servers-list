@@ -20,5 +20,11 @@
     "Adventure",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/115995/"
+  "source": "https://minecraftpocket-servers.com/server/115995/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/og-network-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/og-network-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/og-network-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/og-network-3.jpg"
+  ]
 }

@@ -20,5 +20,9 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/8733/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/craftyworld.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/craftyworld.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/craftyworld-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/craftyworld-1.jpg"
+  ]
 }

@@ -11,10 +11,16 @@ For every server in servers/*.json, in order of trust:
    cover;
 3. the banner already in ``image`` as a last-resort cover.
 
+Then up to four more wide pictures for the server's page (its gallery):
+the Discord splash and banner the cover did not use, the other pictures
+its page shares, and the large pictures on the page itself, none of them
+a near copy of the cover or of one another.
+
 Logos are written to art/logos/<id>.png (at most 256 px), covers to
-art/covers/<id>.jpg (at most 640 px wide), and the server file gets
-``logo`` / ``cover`` URLs pointing at them on raw.githubusercontent.com.
-A server keeps the art it already has unless --refresh is given.
+art/covers/<id>.jpg and the gallery to art/gallery/<id>-<n>.jpg (at most
+640 px wide), and the server file gets ``logo`` / ``cover`` / ``gallery``
+URLs pointing at them on raw.githubusercontent.com. A server keeps the art
+it already has unless --refresh is given.
 
 Needs Pillow. Run ``python3 scripts/build.py`` afterwards.
 """
@@ -45,6 +51,9 @@ MAX_PAGE = 2 << 20
 MAX_IMAGE = 8 << 20
 LOGO_MIN, LOGO_MAX = 64, 256
 COVER_MIN_W, COVER_MAX_W = 360, 640
+GALLERY_MIN_W, GALLERY_MAX = 480, 4
+# Two pictures this close (bits of a 64-bit average hash) are one picture.
+SAME_PICTURE = 6
 
 INVITE_RE = re.compile(
     r"(?:discord\.gg|discord(?:app)?\.com/invite)/([A-Za-z0-9-]{2,32})")
@@ -80,6 +89,7 @@ class Head(html.parser.HTMLParser):
     def __init__(self):
         super().__init__()
         self.icons, self.covers, self.manifest = [], [], None
+        self.pictures = []
 
     def handle_starttag(self, tag, attrs):
         a = {k.lower(): (v or "") for k, v in attrs}
@@ -94,6 +104,14 @@ class Head(html.parser.HTMLParser):
                 self.icons.append((href, _size(a.get("sizes")) or 180))
             elif "icon" in rel:
                 self.icons.append((href, _size(a.get("sizes")) or 0))
+        elif tag in ("img", "source"):
+            src = a.get("data-src") or a.get("src") or ""
+            if not src and a.get("srcset"):
+                src = a["srcset"].split(",")[-1].strip().split(" ")[0]
+            small = any(a.get(k, "").isdigit() and int(a[k]) < GALLERY_MIN_W // 2
+                        for k in ("width", "height"))
+            if src and not src.startswith("data:") and not small:
+                self.pictures.append(src)
         elif tag == "meta":
             key = (a.get("property") or a.get("name") or "").lower()
             if key in ("og:image", "og:image:url", "og:image:secure_url",
@@ -160,6 +178,30 @@ def as_cover(im):
     return out.getvalue()
 
 
+def as_gallery(im):
+    w, h = im.size
+    if w < GALLERY_MIN_W or h < 0.4 * w or h > 0.8 * w:
+        return None
+    im = im.convert("RGB")
+    if w > COVER_MAX_W:
+        im = im.resize((COVER_MAX_W, round(h * COVER_MAX_W / w)), Image.LANCZOS)
+    out = io.BytesIO()
+    im.save(out, "JPEG", quality=82, optimize=True, progressive=True)
+    return out.getvalue()
+
+
+def ahash(blob):
+    """The 64-bit average hash of a picture, to tell near copies apart."""
+    im = Image.open(io.BytesIO(blob)).convert("L").resize((8, 8), Image.BILINEAR)
+    px = list(im.getdata())
+    mean = sum(px) / len(px)
+    return sum(1 << i for i, v in enumerate(px) if v >= mean)
+
+
+def same_picture(a, b):
+    return bin(a ^ b).count("1") <= SAME_PICTURE
+
+
 def fetch_image(url):
     try:
         blob, _, _ = get(url, MAX_IMAGE, "image/*")
@@ -169,32 +211,33 @@ def fetch_image(url):
 
 
 def discord_art(code):
-    """(logo, cover) image URLs of one Discord invite."""
+    """(logo, wide pictures best first) image URLs of one Discord invite."""
     try:
         blob, _, _ = get("https://discord.com/api/v10/invites/"
                          + urllib.parse.quote(code), 1 << 20,
                          "application/json")
         g = json.loads(blob).get("guild") or {}
     except Exception:
-        return None, None
-    gid, logo, cover = g.get("id"), None, None
+        return None, []
+    gid, logo, wide = g.get("id"), None, []
     if not gid:
-        return None, None
+        return None, []
     if g.get("icon"):
         logo = f"https://cdn.discordapp.com/icons/{gid}/{g['icon']}.png?size=512"
     if g.get("banner"):
-        cover = f"https://cdn.discordapp.com/banners/{gid}/{g['banner']}.png?size=1024"
-    elif g.get("splash"):
-        cover = f"https://cdn.discordapp.com/splashes/{gid}/{g['splash']}.jpg?size=1024"
-    return logo, cover
+        wide.append(f"https://cdn.discordapp.com/banners/{gid}/{g['banner']}.png?size=1024")
+    if g.get("splash"):
+        wide.append(f"https://cdn.discordapp.com/splashes/{gid}/{g['splash']}.jpg?size=1024")
+    return logo, wide
 
 
 def site_art(url):
-    """(logo URLs best first, cover URLs, invites) of one website."""
+    """(logo URLs best first, cover URLs, invites, picture URLs) of one
+    website."""
     try:
         blob, final, charset = get(url, MAX_PAGE, "text/html")
     except Exception:
-        return [], [], []
+        return [], [], [], []
     page = blob.decode(charset, "replace")
     head = Head()
     try:
@@ -216,48 +259,68 @@ def site_art(url):
     icons.append((join("/favicon.ico"), 0))
     icons = [u for u, _ in sorted(icons, key=lambda x: -x[1])
              if not u.lower().split("?")[0].endswith(".svg")]
+    pictures = [join(p) for p in head.pictures
+                if not p.lower().split("?")[0].endswith((".svg", ".gif", ".ico"))]
     return (list(dict.fromkeys(icons)), [join(c) for c in head.covers],
-            INVITE_RE.findall(page))
+            INVITE_RE.findall(page), list(dict.fromkeys(pictures)))
 
 
-def find_art(server):
+def find_art(server, gallery=True):
+    """(logo, cover, [gallery pictures]) of one server, as file contents."""
     logo = cover = None
     invites = INVITE_RE.findall(server.get("discord", "") + " "
                                 + server.get("description", ""))
     site = server.get("website", "")
-    icons, covers = [], []
+    icons, covers, pictures, wide = [], [], [], []
     if site and not foreign(site):
-        icons, covers, more = site_art(site)
+        icons, covers, more, pictures = site_art(site)
         invites += more
     elif site:
         invites += INVITE_RE.findall(site)
     for code in list(dict.fromkeys(invites))[:3]:
-        dlogo, dcover = discord_art(code)
+        dlogo, dwide = discord_art(code)
         if dlogo and logo is None:
             im = fetch_image(dlogo)
             logo = as_logo(im) if im else None
-        if dcover and cover is None:
-            im = fetch_image(dcover)
-            cover = as_cover(im) if im else None
-        if logo and cover:
+        wide += dwide
+        if logo and wide:
             break
     for url in icons[:6]:
         if logo:
             break
         im = fetch_image(url)
         logo = as_logo(im) if im else None
-    for url in covers[:3] + ([server["image"]] if server.get("image") else []):
+    tried = set()
+    for url in wide[:1] + covers[:3] + ([server["image"]] if server.get("image") else []):
         if cover:
             break
+        tried.add(url)
         im = fetch_image(url)
         cover = as_cover(im) if im else None
-    return logo, cover
+    found = []
+    if gallery:
+        seen = [ahash(cover)] if cover else []
+        for url in wide + covers + pictures[:12]:
+            if len(found) == GALLERY_MAX:
+                break
+            if url in tried or foreign(url) and "discordapp" not in url:
+                continue
+            im = fetch_image(url)
+            blob = as_gallery(im) if im else None
+            if not blob:
+                continue
+            h = ahash(blob)
+            if any(same_picture(h, o) for o in seen):
+                continue
+            seen.append(h)
+            found.append(blob)
+    return logo, cover, found
 
 
 def drop_generic():
     """Forget the art several servers share: nobody's own."""
     by_hash = {}
-    for sub in ("logos", "covers"):
+    for sub in ("logos", "covers", "gallery"):
         for f in (ART / sub).glob("*"):
             by_hash.setdefault(hashlib.sha1(f.read_bytes()).digest(), []).append(f)
     gone = {f for files in by_hash.values() if len(files) >= GENERIC
@@ -271,25 +334,80 @@ def drop_generic():
                 f.unlink()
                 if data.pop(kind, None):
                     changed = True
+        pics = [ART / "gallery" / u.rsplit("/", 1)[-1]
+                for u in data.get("gallery", [])]
+        if any(f in gone for f in pics):
+            keep = []
+            for f in pics:
+                if f in gone:
+                    f.unlink(missing_ok=True)
+                else:
+                    keep.append(f)
+            write_gallery(path, data, [f.read_bytes() for f in keep])
+            changed = True
         if changed:
-            path.write_text(json.dumps(data, ensure_ascii=False, indent=2)
-                            + "\n", encoding="utf-8")
+            save(path, data)
     return len(gone)
+
+
+def drop_cover_copies():
+    """Take out of each gallery the near copies of the server's cover as it
+    stands on disk (a cover found on an earlier run may come from another
+    source than the one the gallery was compared with)."""
+    dropped = 0
+    for path, data in load_all():
+        cover = ART / "covers" / (path.stem + ".jpg")
+        pics = [ART / "gallery" / u.rsplit("/", 1)[-1]
+                for u in data.get("gallery", [])]
+        if not cover.is_file() or not pics:
+            continue
+        mark = ahash(cover.read_bytes())
+        blobs = [f.read_bytes() for f in pics if f.is_file()]
+        keep = [b for b in blobs if not same_picture(ahash(b), mark)]
+        if len(keep) != len(pics):
+            dropped += len(pics) - len(keep)
+            write_gallery(path, data, keep)
+            save(path, data)
+    return dropped
+
+
+def save(path, data):
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+                    encoding="utf-8")
+
+
+def write_gallery(path, data, blobs):
+    """Store one server's gallery as <id>-0.jpg, <id>-1.jpg..."""
+    for old in (ART / "gallery").glob(path.stem + "-*.jpg"):
+        if old.stem[len(path.stem) + 1:].isdigit():
+            old.unlink()
+    urls = []
+    for n, blob in enumerate(blobs):
+        rel = f"art/gallery/{path.stem}-{n}.jpg"
+        (ROOT / rel).write_bytes(blob)
+        urls.append(RAW + rel)
+    if urls:
+        data["gallery"] = urls
+    else:
+        data.pop("gallery", None)
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--refresh", action="store_true",
                     help="look again for servers that already have art")
+    ap.add_argument("--gallery", action="store_true",
+                    help="also look for servers without a gallery")
     ap.add_argument("--only", nargs="*", help="server ids to process")
     ap.add_argument("--workers", type=int, default=16)
     args = ap.parse_args()
-    (ART / "logos").mkdir(parents=True, exist_ok=True)
-    (ART / "covers").mkdir(parents=True, exist_ok=True)
+    for sub in ("logos", "covers", "gallery"):
+        (ART / sub).mkdir(parents=True, exist_ok=True)
     todo = [(p, d) for p, d in load_all()
             if (not args.only or p.stem in args.only)
-            and (args.refresh or not (d.get("logo") and d.get("cover")))]
-    stats = {"logo": 0, "cover": 0}
+            and (args.refresh or not (d.get("logo") and d.get("cover"))
+                 or args.gallery and not d.get("gallery"))]
+    stats = {"logo": 0, "cover": 0, "gallery": 0}
 
     def one(item):
         path, data = item
@@ -297,10 +415,10 @@ def main():
             return path, data, find_art(data)
         except Exception as e:  # one broken site never stops the run
             print(f"{path.stem}: {e}", file=sys.stderr)
-            return path, data, (None, None)
+            return path, data, (None, None, [])
 
     with concurrent.futures.ThreadPoolExecutor(args.workers) as pool:
-        for n, (path, data, (logo, cover)) in enumerate(
+        for n, (path, data, (logo, cover, gallery)) in enumerate(
                 pool.map(one, todo), 1):
             changed = False
             for kind, blob, sub, ext in (("logo", logo, "logos", ".png"),
@@ -312,14 +430,19 @@ def main():
                 data[kind] = RAW + rel
                 stats[kind] += 1
                 changed = True
+            if gallery and (args.refresh or not data.get("gallery")):
+                write_gallery(path, data, gallery)
+                stats["gallery"] += 1
+                changed = True
             if changed:
-                path.write_text(json.dumps(data, ensure_ascii=False, indent=2)
-                                + "\n", encoding="utf-8")
+                save(path, data)
             print(f"[{n}/{len(todo)}] {path.stem}: "
-                  f"logo={'yes' if logo else '-'} cover={'yes' if cover else '-'}",
-                  flush=True)
-    print(f"{stats['logo']} logos, {stats['cover']} covers written, "
-          f"{drop_generic()} generic ones dropped")
+                  f"logo={'yes' if logo else '-'} cover={'yes' if cover else '-'}"
+                  f" gallery={len(gallery)}", flush=True)
+    print(f"{stats['logo']} logos, {stats['cover']} covers, "
+          f"{stats['gallery']} galleries written, "
+          f"{drop_generic()} generic ones and "
+          f"{drop_cover_copies()} copies of a cover dropped")
 
 
 if __name__ == "__main__":

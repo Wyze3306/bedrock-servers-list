@@ -20,5 +20,8 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/130847/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/etercube.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/etercube.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/etercube-0.jpg"
+  ]
 }

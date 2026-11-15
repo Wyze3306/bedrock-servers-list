@@ -19,5 +19,8 @@
     "SMP",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/134695/"
+  "source": "https://minecraftpocket-servers.com/server/134695/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/pocketmobs-0.jpg"
+  ]
 }

@@ -19,5 +19,11 @@
     "Adventure",
     "Vote Reward"
   ],
-  "source": "https://minecraftpocket-servers.com/server/131553/"
+  "source": "https://minecraftpocket-servers.com/server/131553/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/hyping-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/hyping-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/hyping-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/hyping-3.jpg"
+  ]
 }

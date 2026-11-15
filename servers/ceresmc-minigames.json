@@ -21,5 +21,9 @@
     "Adventure",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/133152/"
+  "source": "https://minecraftpocket-servers.com/server/133152/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/ceresmc-minigames-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/ceresmc-minigames-1.jpg"
+  ]
 }

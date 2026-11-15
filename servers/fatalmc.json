@@ -20,5 +20,8 @@
     "Vote Reward",
     "Adventure"
   ],
-  "source": "https://minecraftpocket-servers.com/server/129509/"
+  "source": "https://minecraftpocket-servers.com/server/129509/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/fatalmc-0.jpg"
+  ]
 }

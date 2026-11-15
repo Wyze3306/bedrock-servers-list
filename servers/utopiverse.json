@@ -24,5 +24,9 @@
     "Vote Reward"
   ],
   "source": "https://minecraftpocket-servers.com/server/108746/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/utopiverse.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/utopiverse.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/utopiverse-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/utopiverse-1.jpg"
+  ]
 }

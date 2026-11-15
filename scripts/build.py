@@ -22,6 +22,7 @@ def main():
             "name": d["name"], "ip": d["ip"], "port": d["port"], "lang": d["lang"],
             "description": d["description"], "image": d.get("image", ""),
             "logo": d.get("logo", ""), "cover": d.get("cover", ""),
+            "gallery": d.get("gallery", []),
             "country": d.get("country", ""), "version": d.get("version", ""),
             "website": d.get("website", ""), "discord": d.get("discord", ""),
             "tags": d.get("tags", []), "source": d.get("source", ""),

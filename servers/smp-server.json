@@ -19,5 +19,8 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/122393/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/smp-server.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/smp-server.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/smp-server-0.jpg"
+  ]
 }

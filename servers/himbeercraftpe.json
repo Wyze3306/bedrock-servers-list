@@ -18,5 +18,9 @@
     "Adventure",
     "Vote Reward"
   ],
-  "source": "https://minecraftpocket-servers.com/server/32188/"
+  "source": "https://minecraftpocket-servers.com/server/32188/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/himbeercraftpe-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/himbeercraftpe-1.jpg"
+  ]
 }

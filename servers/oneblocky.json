@@ -19,5 +19,8 @@
     "Adventure"
   ],
   "source": "https://minecraftpocket-servers.com/server/131258/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/oneblocky.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/oneblocky.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/oneblocky-0.jpg"
+  ]
 }

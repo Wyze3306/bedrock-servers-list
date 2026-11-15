@@ -26,5 +26,8 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/62318/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/suomicraft-pe.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/suomicraft-pe.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/suomicraft-pe-0.jpg"
+  ]
 }

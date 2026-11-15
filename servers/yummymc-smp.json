@@ -21,5 +21,8 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/134428/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/yummymc-smp.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/yummymc-smp.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/yummymc-smp-0.jpg"
+  ]
 }

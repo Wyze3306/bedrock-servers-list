@@ -11,7 +11,7 @@ SCHEMA_PATH = ROOT / "schema" / "server.schema.json"
 DEFAULT_PORT = 19132
 ALLOWED = {
     "name", "ip", "port", "description", "lang", "image", "logo", "cover",
-    "country", "version", "website", "discord", "tags", "source",
+    "gallery", "country", "version", "website", "discord", "tags", "source",
 }
 REQUIRED = ["name", "ip", "port", "description", "lang"]
 LANG_RE = re.compile(r"^[a-z]{2}(-[A-Z]{2})?$")
@@ -60,6 +60,12 @@ def validate(path, data):
         v = data.get(key)
         if v not in (None, "") and not (isinstance(v, str) and v.startswith(("http://", "https://"))):
             errs.append(f"{key}: must be an http(s) URL")
+    gallery = data.get("gallery")
+    if gallery is not None and not (
+            isinstance(gallery, list) and len(gallery) <= 4
+            and all(isinstance(u, str) and u.startswith(("http://", "https://"))
+                    for u in gallery)):
+        errs.append("gallery: list of at most 4 http(s) URLs")
     tags = data.get("tags")
     if tags is not None and not (isinstance(tags, list) and all(isinstance(t, str) for t in tags) and len(set(tags)) == len(tags)):
         errs.append("tags: list of unique strings")

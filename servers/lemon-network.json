@@ -19,5 +19,8 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/131498/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/lemon-network.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/lemon-network.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/lemon-network-0.jpg"
+  ]
 }

@@ -21,5 +21,8 @@
     "Vanilla"
   ],
   "source": "https://minecraftpocket-servers.com/server/134027/",
-  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/frontier.png"
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/frontier.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/frontier-0.jpg"
+  ]
 }

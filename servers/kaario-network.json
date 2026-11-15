@@ -21,5 +21,11 @@
     "Adventure",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/131549/"
+  "source": "https://minecraftpocket-servers.com/server/131549/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/kaario-network-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/kaario-network-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/kaario-network-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/kaario-network-3.jpg"
+  ]
 }

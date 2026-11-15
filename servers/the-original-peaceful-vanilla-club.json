@@ -21,5 +21,9 @@
   ],
   "source": "https://minecraftpocket-servers.com/server/98521/",
   "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/the-original-peaceful-vanilla-club.png",
-  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/the-original-peaceful-vanilla-club.jpg"
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/the-original-peaceful-vanilla-club.jpg",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/the-original-peaceful-vanilla-club-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/the-original-peaceful-vanilla-club-1.jpg"
+  ]
 }

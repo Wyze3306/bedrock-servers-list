@@ -20,5 +20,11 @@
   ],
   "source": "https://minecraftpocket-servers.com/server/132870/",
   "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/smilemorecraft-new-dungeons-soon.png",
-  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/smilemorecraft-new-dungeons-soon.jpg"
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/smilemorecraft-new-dungeons-soon.jpg",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/smilemorecraft-new-dungeons-soon-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/smilemorecraft-new-dungeons-soon-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/smilemorecraft-new-dungeons-soon-2.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/smilemorecraft-new-dungeons-soon-3.jpg"
+  ]
 }

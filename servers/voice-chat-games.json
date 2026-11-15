@@ -21,5 +21,10 @@
     "Vote Reward",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/132861/"
+  "source": "https://minecraftpocket-servers.com/server/132861/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/voice-chat-games-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/voice-chat-games-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/voice-chat-games-2.jpg"
+  ]
 }

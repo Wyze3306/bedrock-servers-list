@@ -23,5 +23,10 @@
     "Vote Reward",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/134658/"
+  "source": "https://minecraftpocket-servers.com/server/134658/",
+  "gallery": [
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/rainypvp-0.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/rainypvp-1.jpg",
+    "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/gallery/rainypvp-2.jpg"
+  ]
 }
