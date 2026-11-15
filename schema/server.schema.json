@@ -11,6 +11,8 @@
     "description": { "type": "string", "maxLength": 2000, "description": "Description, in the language given by `lang`" },
     "lang": { "type": "string", "pattern": "^[a-z]{2}(-[A-Z]{2})?$", "description": "ISO 639-1 language code (en, fr, es, pt-BR...)" },
     "image": { "type": "string", "description": "https URL of a banner or logo" },
+    "logo": { "type": "string", "description": "https URL of the server's square logo (art/logos/, filled by scripts/fetch_art.py)" },
+    "cover": { "type": "string", "description": "https URL of a wide picture of the server (art/covers/, filled by scripts/fetch_art.py)" },
     "country": { "type": "string", "maxLength": 100 },
     "version": { "type": "string", "maxLength": 30 },
     "website": { "type": "string" },

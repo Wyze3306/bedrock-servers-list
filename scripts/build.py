@@ -21,6 +21,7 @@ def main():
             "id": path.stem,
             "name": d["name"], "ip": d["ip"], "port": d["port"], "lang": d["lang"],
             "description": d["description"], "image": d.get("image", ""),
+            "logo": d.get("logo", ""), "cover": d.get("cover", ""),
             "country": d.get("country", ""), "version": d.get("version", ""),
             "website": d.get("website", ""), "discord": d.get("discord", ""),
             "tags": d.get("tags", []), "source": d.get("source", ""),
@@ -32,10 +33,10 @@ def main():
 
     with (ROOT / "servers.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["name", "ip", "port", "lang", "country", "version", "tags", "website", "discord", "image", "description"])
+        w.writerow(["name", "ip", "port", "lang", "country", "version", "tags", "website", "discord", "image", "logo", "cover", "description"])
         for r in rows:
             w.writerow([r["name"], r["ip"], r["port"], r["lang"], r["country"], r["version"],
-                        ";".join(r["tags"]), r["website"], r["discord"], r["image"],
+                        ";".join(r["tags"]), r["website"], r["discord"], r["image"], r["logo"], r["cover"],
                         r["description"].replace("\n", " ")])
 
     langs = Counter(r["lang"] for r in rows)

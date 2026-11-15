@@ -17,5 +17,7 @@
     "SMP",
     "Cross-Play"
   ],
-  "source": "https://minecraftpocket-servers.com/server/132400/"
+  "source": "https://minecraftpocket-servers.com/server/132400/",
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/mcsm.png",
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/mcsm.jpg"
 }

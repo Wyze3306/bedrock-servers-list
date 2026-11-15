@@ -10,7 +10,7 @@ SCHEMA_PATH = ROOT / "schema" / "server.schema.json"
 
 DEFAULT_PORT = 19132
 ALLOWED = {
-    "name", "ip", "port", "description", "lang", "image",
+    "name", "ip", "port", "description", "lang", "image", "logo", "cover",
     "country", "version", "website", "discord", "tags", "source",
 }
 REQUIRED = ["name", "ip", "port", "description", "lang"]
@@ -56,7 +56,7 @@ def validate(path, data):
     lang = data.get("lang")
     if lang is not None and (not isinstance(lang, str) or not LANG_RE.match(lang)):
         errs.append("lang: ISO 639-1 code, e.g. en, fr, pt-BR")
-    for key in ("image", "website", "discord", "source"):
+    for key in ("image", "logo", "cover", "website", "discord", "source"):
         v = data.get(key)
         if v not in (None, "") and not (isinstance(v, str) and v.startswith(("http://", "https://"))):
             errs.append(f"{key}: must be an http(s) URL")

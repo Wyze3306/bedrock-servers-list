@@ -21,5 +21,7 @@
     "Adventure",
     "Vanilla"
   ],
-  "source": "https://minecraftpocket-servers.com/server/130032/"
+  "source": "https://minecraftpocket-servers.com/server/130032/",
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/hexedmc.png",
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/hexedmc.jpg"
 }

@@ -1,7 +1,7 @@
 # Minecraft Bedrock Server List
 
 An open, community-maintained list of **Minecraft Bedrock Edition** servers (mobile, console, Windows 10/11).
-Every server has an IP, a port, an image, a description and a language.
+Every server has an IP, a port, a description and a language, and most have a logo and a cover picture in [`art/`](art).
 
 - Ready-to-use data: [`servers.json`](servers.json) and [`servers.csv`](servers.csv)
 - One JSON file per server in [`servers/`](servers)
@@ -24,6 +24,8 @@ The list is kept clean on purpose: only servers on the default port `19132` and 
   "description": "Survival, minigames and weekly events.",
   "lang": "en",
   "image": "https://example.com/banner.png",
+  "logo": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/logos/my-server.png",
+  "cover": "https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/art/covers/my-server.jpg",
   "country": "United States of America",
   "version": "1.21",
   "website": "https://myserver.net",
@@ -712,4 +714,4 @@ curl -s https://raw.githubusercontent.com/Wyze3306/bedrock-servers-list/main/ser
 
 ## License
 
-Code and structure: [MIT](LICENSE). Server names, descriptions and images belong to their respective owners. If you own a listed server and want it removed, open an issue or a pull request.
+Code and structure: [MIT](LICENSE). Server names, descriptions, logos and images belong to their respective owners. If you own a listed server and want it removed, open an issue or a pull request.
